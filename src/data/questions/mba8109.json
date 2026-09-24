@@ -1,0 +1,2492 @@
+[
+  {
+    "id": "MBA8109_001",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "Who is widely recognized as the 'Father of Scientific Management' for his pioneering work on time-and-motion studies, standardization, and task specialization?",
+    "options": [
+      "Henri Fayol",
+      "Frederick Winslow Taylor",
+      "Max Weber",
+      "Elton Mayo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Frederick Winslow Taylor developed Scientific Management (Taylorism), using empirical time-and-motion studies, task standardization, and wage incentives to maximize labor productivity."
+  },
+  {
+    "id": "MBA8109_002",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "Henri Fayol identified which five primary functions of management?",
+    "options": [
+      "Planning, Organizing, Commanding, Coordinating, and Controlling (POCCC)",
+      "Promoting, Advertising, Pricing, Distributing, and Selling",
+      "Designing, Coding, Testing, Debugging, and Deploying",
+      "Borrowing, Investing, Speculating, Auditing, and Liquidating"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Henri Fayol's administrative theory outlined 5 core management functions (often modernized as POLC: Planning, Organizing, Leading, Controlling)."
+  },
+  {
+    "id": "MBA8109_003",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "In Fayol's 14 Principles of Management, the 'Unity of Command' principle dictates that:",
+    "options": [
+      "An organization must have only one chief executive officer",
+      "Each employee should receive orders from and be accountable to only one direct supervisor to prevent conflicting instructions",
+      "All corporate departments must be located in a single physical headquarters building",
+      "Employees must speak only one national language during business hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unity of Command ensures clarity of direction and accountability by mandating that an employee reports to only one immediate superior."
+  },
+  {
+    "id": "MBA8109_004",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "What is the 'Unity of Direction' principle according to Henri Fayol?",
+    "options": [
+      "All company motor vehicles must drive in the same compass direction",
+      "All activities with the same objective must be directed by one manager using one unified plan ('One head and one plan for a group of activities')",
+      "Employees must live in the same geographic municipality as the corporate office",
+      "Production lines must move strictly from left to right across the factory floor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unity of Direction specifies that operations having the same strategic objective should be coordinated under a single leader and unified plan."
+  },
+  {
+    "id": "MBA8109_005",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "What is 'Esprit de Corps' in Fayol's management principles?",
+    "options": [
+      "The physical health and stamina of factory workers",
+      "Promoting team spirit, harmony, mutual trust, and unity among personnel to build a cohesive organizational workforce",
+      "The legal corporate charter registered with government authorities",
+      "A mandatory corporate dress code requiring military-style uniforms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Esprit de Corps emphasizes team harmony, morale, and unity as fundamental drivers of organizational strength and collaboration."
+  },
+  {
+    "id": "MBA8109_006",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "Max Weber's model of 'Bureaucracy' is fundamentally characterized by:",
+    "options": [
+      "Nepotism, casual verbal agreements, and emotional decision-making",
+      "Clear jurisdictional hierarchy, formal written rules, division of labor, impersonality, and merit-based career advancement",
+      "Flat autonomous self-managing holacracies with zero managers",
+      "Temporary short-term freelance contracts with zero job security"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Weberian Bureaucracy provides rational-legal order: clear authority hierarchy, formal operating rules, documented records, impersonality, and meritocracy."
+  },
+  {
+    "id": "MBA8109_007",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "The landmark 'Hawthorne Studies' conducted by Elton Mayo and Fritz Roethlisberger at Western Electric revealed that:",
+    "options": [
+      "Worker productivity is strictly determined by physical lighting levels and room temperature",
+      "Social relations, group norms, managerial attention, and psychological factors significantly influence workplace productivity and morale ('Hawthorne Effect')",
+      "Financial wage incentives are the only motivator workers care about",
+      "Automated assembly lines completely eliminate the need for human supervision"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Hawthorne Studies catalyzed the Human Relations Movement by proving that workers are social beings influenced by group dynamics, recognition, and attention."
+  },
+  {
+    "id": "MBA8109_008",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "What is the 'Systems Approach' to management?",
+    "options": [
+      "Viewing the organization as a collection of completely isolated, unrelated departments",
+      "Viewing the organization as an interconnected, unified whole comprised of interrelated subsystems (inputs, transformation processes, outputs, feedback) interacting with the external environment",
+      "Replacing human managers with automated mainframe computing scripts",
+      "Operating a business strictly using mechanical calculating machinery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Systems Approach conceptualizes organizations as open socio-technical systems that transform environmental inputs into outputs while adapting to feedback."
+  },
+  {
+    "id": "MBA8109_009",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "What is the core premise of the 'Contingency (Situational) Approach' to management?",
+    "options": [
+      "There is one universally best management practice that works identically in all situations ('One Best Way')",
+      "There is no single best way to manage; managerial actions and organizational structures must be tailored to the specific contingencies of the situation, environment, technology, and people",
+      "All corporate managers must hold identical academic degrees",
+      "Managers should flip a coin to make daily operating decisions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Contingency theory ('it depends') asserts that optimal leadership, organizational design, and strategy depend on specific internal and external situational variables."
+  },
+  {
+    "id": "MBA8109_010",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Evolution of Management Thought",
+    "question": "In the Systems Approach, the concept of 'Equifinality' means:",
+    "options": [
+      "All employees must receive identical salaries regardless of seniority",
+      "An organization can reach the same final goal or desired end-state through multiple different paths, strategies, and initial conditions",
+      "All business ventures eventually terminate in bankruptcy after twenty years",
+      "Equal numbers of male and female directors must sit on the board"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Equifinality in open systems demonstrates that there is no singular path to success; different strategic routes can achieve the same organizational objectives."
+  },
+  {
+    "id": "MBA8109_011",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "According to Henry Mintzberg's Managerial Roles framework, the ten roles are grouped into which three broad categories?",
+    "options": [
+      "Interpersonal, Informational, and Decisional",
+      "Financial, Operational, and Tactical",
+      "Administrative, Legal, and Strategic",
+      "Technical, Clerical, and Executive"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mintzberg categorized managerial activity into Interpersonal (Figurehead, Leader, Liaison), Informational (Monitor, Disseminator, Spokesperson), and Decisional (Entrepreneur, Disturbance Handler, Resource Allocator, Negotiator)."
+  },
+  {
+    "id": "MBA8109_012",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "In Mintzberg's typology, which role involves transmitting information gathered from outside or from subordinates to other members of the organization?",
+    "options": [
+      "Disseminator Role",
+      "Figurehead Role",
+      "Resource Allocator Role",
+      "Disturbance Handler Role"
+    ],
+    "correctAnswer": 0,
+    "explanation": "As a Disseminator (Informational category), a manager distributes valuable information, strategic updates, and data internally across the team."
+  },
+  {
+    "id": "MBA8109_013",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "When a CEO attends a formal ribbon-cutting ceremony for a new regional hospital or hosts visiting foreign dignitaries, they are performing which Mintzberg role?",
+    "options": [
+      "Figurehead Role",
+      "Negotiator Role",
+      "Monitor Role",
+      "Resource Allocator Role"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Figurehead role (Interpersonal category) encompasses ceremonial, symbolic, and legal duties required of organizational leaders."
+  },
+  {
+    "id": "MBA8109_014",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "According to Robert L. Katz, what three essential managerial skills are required across different levels of management?",
+    "options": [
+      "Technical Skills, Human (Interpersonal) Skills, and Conceptual Skills",
+      "Physical Skills, Linguistic Skills, and Artistic Skills",
+      "Accounting Skills, Legal Skills, and Advertising Skills",
+      "Typing Skills, Driving Skills, and Public Speaking Skills"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Katz established that managers need Technical skills (specialized methods), Human skills (working with people), and Conceptual skills (holistic strategic vision)."
+  },
+  {
+    "id": "MBA8109_015",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "According to Katz's model, as a manager climbs from first-line supervision to top executive leadership, the relative importance of which skill increases the most?",
+    "options": [
+      "Technical Skills",
+      "Conceptual Skills",
+      "Physical Stamina",
+      "Micro-Detail Auditing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Top executives primarily require high Conceptual skills to analyze complex systemic dynamics, formulate strategy, and understand holistic interdependencies."
+  },
+  {
+    "id": "MBA8109_016",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is 'Span of Control' in organizational design?",
+    "options": [
+      "The total physical length of an assembly factory floor",
+      "The number of direct subordinates or employees who report directly to a single manager or supervisor",
+      "The maximum distance a corporate delivery truck can travel in a day",
+      "The time duration of an executive board meeting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Span of control measures how many direct reports a manager oversees. Narrow spans create tall hierarchies; wide spans create flat organizational structures."
+  },
+  {
+    "id": "MBA8109_017",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is the difference between a 'Tall' and 'Flat' organizational structure?",
+    "options": [
+      "Tall structures have many hierarchical management levels with narrow spans of control; Flat structures have few management levels with wide spans of control",
+      "Tall structures are built in skyscraper towers; Flat structures are built on farmland",
+      "Tall structures have no managers; Flat structures have dozens of CEOs",
+      "Tall structures operate without rules; Flat structures have strict government supervision"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tall structures have multiple hierarchical layers and narrow spans (more oversight, slower communication); flat structures have few layers and wide spans (faster decisions, empowerment)."
+  },
+  {
+    "id": "MBA8109_018",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is 'Centralization' versus 'Decentralization' in decision-making authority?",
+    "options": [
+      "Centralization concentrates decision-making authority at top executive levels; Decentralization disperses authority down to lower operational levels and front-line managers",
+      "Centralization moves offices to capital cities; Decentralization moves offices to rural villages",
+      "Centralization uses only paper files; Decentralization uses cloud databases",
+      "Centralization occurs exclusively in non-profit charities"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Centralization concentrates authority at the strategic apex; decentralization empowers lower-level managers, improving local responsiveness and employee autonomy."
+  },
+  {
+    "id": "MBA8109_019",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "In a 'Matrix Organizational Structure', what structural feature violates the traditional Unity of Command principle?",
+    "options": [
+      "Employees reporting simultaneously to two bosses: a functional department manager and a product/project manager",
+      "Employees having no supervisors whatsoever",
+      "Every employee being appointed to the corporate board of directors",
+      "Employees working exclusively from home on weekends"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Matrix structures utilize a dual-reporting chain of command (functional vertical + project horizontal), balancing technical depth with project focus at the cost of potential role conflict."
+  },
+  {
+    "id": "MBA8109_020",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is the difference between 'Line Authority' and 'Staff Authority' in organizations?",
+    "options": [
+      "Line managers have direct authority to make decisions and direct subordinates in core value-generating operations; Staff managers provide specialized advisory, consulting, and support services to line managers",
+      "Line managers draw straight lines on blueprints; Staff managers write musical compositions",
+      "Line managers work only part-time; Staff managers work full-time",
+      "Line managers have zero authority over any employees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Line authority flows directly along the chain of command (e.g., Plant Manager, Sales Director); Staff authority is advisory/support (e.g., Legal, HR, Strategic Planning)."
+  },
+  {
+    "id": "MBA8109_021",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What are the four sequential steps in the standard Managerial Control Process?",
+    "options": [
+      "1. Establish performance standards; 2. Measure actual performance; 3. Compare actual performance against standards; 4. Take corrective action if necessary",
+      "1. Hire workers; 2. Pay wages; 3. Issue penalties; 4. Liquidate assets",
+      "1. Write software; 2. Launch product; 3. Count revenue; 4. Celebrate success",
+      "1. Borrow capital; 2. Purchase machines; 3. Rent office; 4. File taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The universal control process: Set Standards $\rightarrow$ Measure Performance $\rightarrow$ Compare with Standards (variance analysis) $\rightarrow$ Take Corrective Action."
+  },
+  {
+    "id": "MBA8109_022",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is 'Feedforward Control' (Preliminary Control)?",
+    "options": [
+      "A control mechanism that occurs during the actual execution of an activity",
+      "A proactive control mechanism implemented before an activity begins to anticipate and prevent problems and ensure input resources meet required specifications",
+      "A post-mortem performance appraisal conducted after project completion",
+      "A daily financial audit of retail cash registers at closing time"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Feedforward control anticipates and prevents deviations before they occur by screening inputs and establishing rigorous preventative standards (e.g., pre-employment drug tests, raw material specs)."
+  },
+  {
+    "id": "MBA8109_023",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is 'Concurrent Control' (Steering Control)?",
+    "options": [
+      "Control exercised while an operational activity or process is actively taking place, allowing immediate on-the-spot adjustments (e.g., direct supervision, live sensor monitoring)",
+      "Control conducted five years after a product is retired",
+      "A meeting between two competing CEOs to fix prices",
+      "An audit of historical financial statements from the prior decade"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Concurrent control monitors and adjusts ongoing operations in real-time (e.g., factory quality checkpoints, real-time server traffic routing)."
+  },
+  {
+    "id": "MBA8109_024",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "What is 'Feedback Control' (Post-Action Control)?",
+    "options": [
+      "Control implemented after an operational activity or process has concluded, evaluating historical results against targets (e.g., quarterly financial reports, customer satisfaction surveys)",
+      "Preventative maintenance performed before installing machinery",
+      "A real-time dashboard alert signaling high temperature",
+      "A casual hallway conversation between colleagues"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Feedback control evaluates finished performance outputs against benchmarks to assess variance, allocate rewards, and inform future planning cycles."
+  },
+  {
+    "id": "MBA8109_025",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Managerial Roles & Functions",
+    "question": "The 'Balanced Scorecard' framework developed by Robert Kaplan and David Norton measures organizational performance across which four perspectives?",
+    "options": [
+      "Financial, Customer, Internal Business Processes, and Learning & Growth",
+      "Accounting, Marketing, Human Resources, and Legal",
+      "Production, Logistics, Packaging, and Distribution",
+      "Assets, Liabilities, Equity, and Retained Earnings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Balanced Scorecard balances lagging financial indicators with leading operational drivers across 4 perspectives: Financial, Customer, Internal Processes, and Learning/Growth."
+  },
+  {
+    "id": "MBA8109_026",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "What is the difference between an organization's 'Vision Statement' and 'Mission Statement'?",
+    "options": [
+      "A Vision statement articulates what the organization aspires to become in the future; a Mission statement defines its core purpose, what it does, who it serves, and why it exists today",
+      "A Vision statement is written for government tax agencies; a Mission statement is for employees",
+      "There is zero difference; they are identical legal terms",
+      "A Vision statement specifies quarterly profit margins; a Mission statement lists office rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Mission defines the present business purpose, value proposition, and customer focus; a Vision paints an inspiring picture of long-term aspirational future impact."
+  },
+  {
+    "id": "MBA8109_027",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "What are Michael Porter's three Generic Strategies for achieving competitive advantage?",
+    "options": [
+      "Cost Leadership, Differentiation, and Focus (Cost Focus or Differentiation Focus)",
+      "Monopolization, Cartelization, and Nationalization",
+      "Low Quality, High Price, and Aggressive Advertising",
+      "Exporting, Licensing, and Franchising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Porter's Generic Strategies identify fundamentally distinct routes to above-average industry returns: broad Cost Leadership, broad Differentiation, or niche Focus."
+  },
+  {
+    "id": "MBA8109_028",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "What occurs when an organization is 'Stuck in the Middle' according to Michael Porter?",
+    "options": [
+      "It achieves the highest profit margins in its industry",
+      "It fails to develop a clear competitive advantage, attempting to pursue both low cost and differentiation simultaneously without excellence in either, resulting in below-average profitability",
+      "Its physical office is located between two competing retail stores",
+      "It has an equal number of male and female executive managers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A firm stuck in the middle lacks the scale/efficiency of cost leaders and the unique premium appeal of differentiators, resulting in weak competitive positioning and poor margins."
+  },
+  {
+    "id": "MBA8109_029",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "In the BCG (Boston Consulting Group) Growth-Share Matrix, a business unit with 'High Market Growth Rate and High Relative Market Share' is categorized as a:",
+    "options": [
+      "Cash Cow",
+      "Star",
+      "Question Mark (Problem Child)",
+      "Dog"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stars have high market share in high-growth industries; they generate strong revenues but require significant ongoing capital investment to maintain market leadership."
+  },
+  {
+    "id": "MBA8109_030",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "In the BCG Matrix, what is a 'Cash Cow'?",
+    "options": [
+      "A dairy farm operated by agricultural conglomerates",
+      "A business unit with High Relative Market Share in a Low-Growth (mature) industry, generating high cash surpluses with minimal required reinvestment",
+      "A loss-making business unit that consumes all corporate cash reserves",
+      "A brand-new speculative product launched last week"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cash Cows dominate mature, slow-growth markets, throwing off substantial excess cash flow that the parent corporation can harvest to fund Stars and Question Marks."
+  },
+  {
+    "id": "MBA8109_031",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "In the BCG Matrix, what is a 'Dog'?",
+    "options": [
+      "A corporate guard animal trained for warehouse security",
+      "A business unit with Low Relative Market Share in a Low-Growth market, generating little or negative cash flow and typically prime for divestment or liquidation",
+      "A fast-growing speculative technology venture",
+      "A company that spends 50% of its budget on television commercials"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dogs occupy weak positions in stagnant industries; they generate low returns, consume managerial time, and are typical candidates for harvest, sale, or shutdown."
+  },
+  {
+    "id": "MBA8109_032",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "The 'Ansoff Matrix' classifies corporate growth strategies into four distinct quadrants based on combinations of:",
+    "options": [
+      "Existing vs. New Products and Existing vs. New Markets (Market Penetration, Market Development, Product Development, Diversification)",
+      "High vs. Low Price and High vs. Low Cost",
+      "Domestic vs. International Taxes and Equity vs. Debt",
+      "Male vs. Female Employees and Young vs. Old Customers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Ansoff Product-Market Grid maps growth options: Market Penetration (existing/existing), Market Development (new markets/existing products), Product Development (new products/existing markets), and Diversification (new/new)."
+  },
+  {
+    "id": "MBA8109_033",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "In the Ansoff Matrix, which growth strategy involves selling existing products to new geographic regions or new customer demographic segments?",
+    "options": [
+      "Market Penetration",
+      "Market Development",
+      "Product Development",
+      "Diversification"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Market Development takes established products into unserved geographic markets, international territories, or new demographic customer segments."
+  },
+  {
+    "id": "MBA8109_034",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "Which Ansoff growth strategy carries the highest operational and strategic risk?",
+    "options": [
+      "Market Penetration",
+      "Product Development",
+      "Market Development",
+      "Diversification (especially Unrelated Diversification)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Diversification carries the highest risk because the firm simultaneously enters unfamiliar product development and uncharted customer market territories."
+  },
+  {
+    "id": "MBA8109_035",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "In the Resource-Based View (RBV) of the firm, the 'VRIO Framework' (Jay Barney) evaluates resources across which four criteria to determine sustained competitive advantage?",
+    "options": [
+      "Value, Rarity, Inimitability, and Organization (Exploitation by Organization)",
+      "Volume, Rate, Interest, and Overhead",
+      "Vision, Reputation, Integrity, and Optimization",
+      "Velocity, Revenue, Inventory, and Options"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Under VRIO, a resource yields sustained competitive advantage only if it is Valuable, Rare, Imperfectly Imitable (costly to copy), and the firm is Organized to exploit it."
+  },
+  {
+    "id": "MBA8109_036",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "What is 'Value Chain Analysis' introduced by Michael Porter?",
+    "options": [
+      "An audit of physical jewelry and gold assets in company vaults",
+      "A systematic framework dividing a firm's activities into Primary Activities (Inbound Logistics, Operations, Outbound Logistics, Marketing/Sales, Service) and Support Activities (Procurement, HR, Tech, Infrastructure) to identify sources of cost advantage or differentiation",
+      "A supply chain flowchart tracking maritime cargo vessels",
+      "A performance evaluation rubric used by HR departments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Porter's Value Chain decomposes operations into 5 Primary and 4 Support activities, analyzing how each links together to deliver margin and competitive value."
+  },
+  {
+    "id": "MBA8109_037",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic Management & Frameworks",
+    "question": "What is 'Core Competence' as defined by C.K. Prahalad and Gary Hamel?",
+    "options": [
+      "The minimum basic skill required to complete an entry-level job application",
+      "A harmonized combination of multiple resources, technologies, and skills that distinguish a firm competitively, provide access to a wide variety of markets, and are difficult for rivals to imitate",
+      "The legal authority of the chief executive officer to sign contracts",
+      "The standard operating procedures printed in the employee handbook"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Core competencies (e.g., Honda's engine design, Canon's optics) are deep cross-functional capabilities that underpin multiple product lines and power competitive advantage."
+  },
+  {
+    "id": "MBA8109_038",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "Herbert Simon was awarded the Nobel Prize for introducing the concept of 'Bounded Rationality', which posits that:",
+    "options": [
+      "Human decision-makers possess infinite computational capacity and always choose the mathematically optimal decision",
+      "Human decision-makers face cognitive limitations, information constraints, and time limits, leading them to 'Satisfice' (choose satisfactory, good-enough solutions) rather than optimize",
+      "Corporate managers should make all strategic decisions by rolling dice",
+      "Rational decisions are strictly illegal under international corporate jurisprudence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bounded Rationality recognizes that human cognitive bandwidth, incomplete information, and time pressures prevent pure optimization, resulting in 'satisficing' behavior."
+  },
+  {
+    "id": "MBA8109_039",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "What is 'Satisficing' in managerial decision-making?",
+    "options": [
+      "Conducting customer satisfaction surveys after each transaction",
+      "Searching through available alternatives only until an option that meets an acceptable minimum threshold or aspiration level is found, rather than exhausting all options to find the absolute optimum",
+      "Fulfilling all shareholder dividend demands with zero retained earnings",
+      "Achieving 100% mathematical perfection on accounting ledgers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Satisficing (satisfy + suffice) is selecting the first alternative that meets acceptable criteria rather than conducting exhaustive searches for the theoretically optimal solution."
+  },
+  {
+    "id": "MBA8109_040",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "What is the 'Anchoring and Adjustment Bias'?",
+    "options": [
+      "The practice of securing maritime freight ships with steel anchor cables",
+      "A cognitive bias where an individual relies too heavily on an initial piece of information (the 'anchor') when making subsequent estimates or decisions, failing to adjust sufficiently",
+      "A tendency to keep physical office desks in fixed, anchored floor positions",
+      "A management policy that fixes employee wages permanently for ten years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anchoring occurs when an initial number (e.g., an opening negotiation price, historical budget) disproportionately biases subsequent judgments and adjustments."
+  },
+  {
+    "id": "MBA8109_041",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "What is the 'Sunk Cost Fallacy' (or Escalation of Commitment)?",
+    "options": [
+      "When a cargo ship sinks and insurance claims are paid",
+      "The tendency for decision-makers to continue investing additional time, money, and resources into a failing project simply because of the substantial, non-recoverable past investments already made",
+      "A financial calculation of factory depreciation",
+      "Liquidating an unprofitable business within twenty-four hours of inception"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sunk Cost Fallacy ('throwing good money after bad') occurs when managers irrationally commit further resources to failing ventures to justify past unrecoverable investments."
+  },
+  {
+    "id": "MBA8109_042",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "What is the 'Availability Heuristic' in managerial risk assessment?",
+    "options": [
+      "Checking whether office meeting rooms are available on digital calendars",
+      "The mental shortcut where people assess the probability or frequency of an event based on how easily concrete examples or instances of it come to mind",
+      "A legal rule requiring retail stores to keep products in stock",
+      "Evaluating whether an employee is available for weekend overtime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Availability Heuristic overweights vivid, dramatic, or recent events (e.g., recent plane crashes, market crashes) when assessing risk probabilities."
+  },
+  {
+    "id": "MBA8109_043",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "What is 'Framing Effect' in decision-making psychology (Tversky & Kahneman)?",
+    "options": [
+      "Constructing wooden picture frames for corporate award certificates",
+      "The cognitive bias where people draw different conclusions and make different choices based on how information or choices are presented (e.g., 90% survival rate vs. 10% mortality rate)",
+      "An architectural blueprint for constructing factory walls",
+      "A legal maneuver to falsely accuse an executive of corporate misconduct"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Framing demonstrates that presenting identical objective outcomes through positive (gain) vs. negative (loss) lenses fundamentally alters risk preferences and choices."
+  },
+  {
+    "id": "MBA8109_044",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Decision Making & Biases",
+    "question": "What is the difference between 'Programmed Decisions' and 'Non-Programmed Decisions'?",
+    "options": [
+      "Programmed decisions are repetitive, routine, and handled via established rules/SOPs; Non-programmed decisions are novel, unstructured, complex, and require bespoke judgment and strategic analysis",
+      "Programmed decisions are written in Python; Non-programmed are written in C++",
+      "Programmed decisions are made by interns; Non-programmed are made by computers",
+      "Programmed decisions take five years to execute; Non-programmed take one minute"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Programmed decisions follow standard operating procedures for routine scenarios; non-programmed decisions address novel, high-stakes, ambiguous strategic situations."
+  },
+  {
+    "id": "MBA8109_045",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "The 'PDCA Cycle' (Deming Wheel) of continuous quality improvement consists of which four iterative steps?",
+    "options": [
+      "Plan, Do, Check, and Act",
+      "Prepare, Deliver, Close, and Audit",
+      "Promote, Discount, Calculate, and Advertise",
+      "Pitch, Develop, Code, and Automate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The PDCA Cycle (Plan-Do-Check-Act), popularized by W. Edwards Deming, is the foundational iterative cycle for continuous quality improvement (Kaizen)."
+  },
+  {
+    "id": "MBA8109_046",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What is the core philosophy of 'Total Quality Management' (TQM)?",
+    "options": [
+      "Inspecting and discarding defective products exclusively at the final shipping dock",
+      "An organization-wide management approach focused on continuous quality improvement, customer satisfaction, total employee involvement, and process enhancement across all business functions",
+      "Passing all quality control responsibilities to an external government inspector",
+      "Automating 100% of factory production lines using industrial robotics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TQM is an enterprise-wide commitment to continuous improvement, customer-centric quality design, employee empowerment, and zero defects."
+  },
+  {
+    "id": "MBA8109_047",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "In Six Sigma quality management, what is the maximum allowable number of defects per million opportunities (DPMO) for a process operating at 6-sigma level?",
+    "options": [
+      "3.4 DPMO",
+      "34 DPMO",
+      "340 DPMO",
+      "3,400 DPMO"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Six Sigma process achieves a statistical quality level of 99.99966% defect-free output, translating to no more than 3.4 defects per million opportunities."
+  },
+  {
+    "id": "MBA8109_048",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What does the acronym 'DMAIC' stand for in Six Sigma methodology?",
+    "options": [
+      "Define, Measure, Analyze, Improve, and Control",
+      "Design, Market, Acquire, Implement, and Calculate",
+      "Discover, Maintain, Audit, Inspect, and Certify",
+      "Develop, Manage, Allocate, Integrate, and Coordinate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DMAIC is the structured data-driven 5-phase methodology for improving existing business and manufacturing processes in Six Sigma."
+  },
+  {
+    "id": "MBA8109_049",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What is 'Kaizen' in Japanese management philosophy?",
+    "options": [
+      "A sudden, disruptive corporate revolution executed overnight",
+      "Continuous, incremental improvement involving every employee from top executives to shop floor workers",
+      "A formal performance appraisal metric used for executive bonuses",
+      "A statutory labor union established in manufacturing plants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kaizen embodies the philosophy of relentless, small, incremental daily improvements across all workplace processes, eliminating waste (muda)."
+  },
+  {
+    "id": "MBA8109_050",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What is 'Benchmarking' in strategic management?",
+    "options": [
+      "Measuring the physical dimensions of wooden park benches",
+      "The systematic process of measuring and comparing an organization's business processes and performance metrics against industry best practices or best-in-class market leaders",
+      "A disciplinary hearing conducted for underperforming employees",
+      "An accounting method for recording long-term bank loans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benchmarking compares internal operational metrics, cycle times, costs, and quality against top industry performers to identify performance gaps and adopt best practices."
+  },
+  {
+    "id": "MBA8109_051",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What is the 'Pareto Principle' (80/20 Rule) commonly applied to quality control?",
+    "options": [
+      "80% of employees do 20% of the physical work in an organization",
+      "Approximately 80% of consequences, defects, or customer complaints stem from 20% of causes or process flaws",
+      "80% of corporation tax is paid by 20% of small businesses",
+      "A business should maintain an 80% debt and 20% equity capital structure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Pareto Principle shows that a vital few causes (20%) generate the overwhelming majority (80%) of quality defects, complaints, or revenues."
+  },
+  {
+    "id": "MBA8109_052",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What is an 'Ishikawa Diagram' (Fishbone Diagram / Cause-and-Effect Diagram)?",
+    "options": [
+      "A biological anatomy diagram of aquatic marine life",
+      "A visual brainstorming and root-cause analysis tool that categorizes potential causes of a specific problem or defect along major branches (e.g., Man, Machine, Method, Material, Measurement, Environment)",
+      "A flowchart tracking the distribution of frozen seafood products",
+      "A financial balance sheet summarizing annual net income"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Developed by Kaoru Ishikawa, the Fishbone Diagram systematically maps root causes contributing to an operational defect or problem across standardized categories."
+  },
+  {
+    "id": "MBA8109_053",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Quality Management & Operations",
+    "question": "What is 'Poka-Yoke' in lean operations and quality engineering?",
+    "options": [
+      "A Japanese martial arts exercise conducted before morning shifts",
+      "A 'mistake-proofing' mechanism or design feature that prevents human errors from occurring or immediately highlights them so they cannot proceed downstream (e.g., SIM card tray design)",
+      "A financial derivatives contract traded in Tokyo",
+      "A traditional tea ceremony hosted for corporate clients"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Poka-Yoke involves fail-safe engineering designs that make it physically or procedurally impossible for an operator to make an error or assemble a part backwards."
+  },
+  {
+    "id": "MBA8109_054",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_055",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_056",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_057",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_058",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_059",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_060",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_061",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_062",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_063",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_064",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_065",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_066",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_067",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_068",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_069",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_070",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_071",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_072",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_073",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_074",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_075",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_076",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_077",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_078",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_079",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_080",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_081",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_082",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_083",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_084",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_085",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_086",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_087",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_088",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_089",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_090",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_091",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_092",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_093",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_094",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_095",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_096",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_097",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_098",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_099",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_100",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_101",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_102",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_103",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_104",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_105",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_106",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_107",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_108",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_109",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_110",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_111",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_112",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_113",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_114",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_115",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_116",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_117",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_118",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_119",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_120",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_121",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_122",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_123",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_124",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_125",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_126",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_127",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_128",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_129",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_130",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_131",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_132",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_133",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_134",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_135",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_136",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_137",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_138",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_139",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_140",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_141",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_142",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_143",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_144",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_145",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_146",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_147",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_148",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_149",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_150",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_151",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_152",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_153",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_154",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_155",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_156",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_157",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_158",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_159",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_160",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_161",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_162",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 3",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for fostering decentralized operational empowerment with clear strategic boundaries?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_163",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 4",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting systematic benchmarking against best-in-class industry leaders?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_164",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 5",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for aligning corporate strategy with core organizational competencies?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_165",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 1",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for implementing a balanced scorecard control system?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  },
+  {
+    "id": "MBA8109_166",
+    "courseCode": "MBA 8109",
+    "courseTitle": "General Management",
+    "topic": "Strategic & General Management Module 2",
+    "question": "According to contemporary General Management principles, what is the primary strategic rationale for conducting continuous environmental scanning and PESTEL auditing?",
+    "options": [
+      "To build sustained competitive advantage, enhance organizational agility, and maximize long-term stakeholder value creation",
+      "To increase short-term administrative bureaucracy and slow down decision-making",
+      "To eliminate all accountability and performance measurement",
+      "To duplicate competitors' products with zero differentiation or quality control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic management integrates analysis, alignment, and robust control mechanisms to secure enduring competitive advantage in dynamic markets."
+  }
+]

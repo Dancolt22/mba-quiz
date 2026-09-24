@@ -1,0 +1,2507 @@
+[
+  {
+    "id": "MBA8101_001",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which of the following best defines the macro-environment of an organization?",
+    "options": [
+      "The internal operational structure and departmental hierarchy of the firm",
+      "The broad external factors and trends beyond the organization's direct control that impact its operations",
+      "The direct relationship between a company and its immediate suppliers and distributors",
+      "The specific cultural norms established within an individual department"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The macro-environment consists of broad external forces (political, economic, socio-cultural, technological, environmental, and legal) that affect the overall industry and economy, rather than individual firms directly."
+  },
+  {
+    "id": "MBA8101_002",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "In a PESTEL analysis, demographic shifts such as an aging population belong to which dimension?",
+    "options": [
+      "Political",
+      "Technological",
+      "Socio-Cultural",
+      "Economic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Demographic trends, cultural values, lifestyle changes, and consumer attitudes fall under the Socio-Cultural dimension of PESTEL analysis."
+  },
+  {
+    "id": "MBA8101_003",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "When a government increases corporation tax rates and alters import tariffs, which PESTEL components are primarily involved?",
+    "options": [
+      "Political and Legal",
+      "Political and Economic",
+      "Technological and Environmental",
+      "Socio-Cultural and Legal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Taxation and tariffs represent fiscal policies managed by the political authority with direct macroeconomic consequences, spanning Political and Economic dimensions."
+  },
+  {
+    "id": "MBA8101_004",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which environmental scanning technique is most suitable for exploring multiple plausible long-term future states under high uncertainty?",
+    "options": [
+      "Scenario Planning",
+      "Benchmarking",
+      "Time-Series Forecasting",
+      "Cost-Benefit Analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Scenario planning is an environmental analysis tool designed specifically for deep uncertainty, allowing leaders to construct and evaluate alternative future narratives."
+  },
+  {
+    "id": "MBA8101_005",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which of the following is considered a component of an organization's micro-environment rather than macro-environment?",
+    "options": [
+      "Interest rate fluctuations",
+      "Competitors and Customers",
+      "National GDP growth rate",
+      "Labor union legislation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Micro-environment factors are operating forces directly interacting with the firm, such as customers, competitors, suppliers, and distributors."
+  },
+  {
+    "id": "MBA8101_006",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Environmental turbulence is characterized by which of the following combinations of factors?",
+    "options": [
+      "High predictability and slow technological cycles",
+      "High novelty, high speed of change, and low predictability",
+      "Strict government monopolies and fixed price ceilings",
+      "Stable consumer preferences and static supply lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Environmental turbulence refers to conditions where change is rapid, novel, and unpredictable, requiring high organizational agility."
+  },
+  {
+    "id": "MBA8101_007",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "In the context of business environmental analysis, 'VUCA' stands for:",
+    "options": [
+      "Value, Utility, Cost, and Advantage",
+      "Volatility, Uncertainty, Complexity, and Ambiguity",
+      "Variable, Unpredictable, Continuous, and Adaptive",
+      "Validation, Underwriting, Compliance, and Audit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "VUCA represents Volatility, Uncertainty, Complexity, and Ambiguity, summarizing the challenges of modern dynamic business environments."
+  },
+  {
+    "id": "MBA8101_008",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which PESTEL factor is directly addressed when a nation ratifies the Paris Climate Agreement and mandates carbon pricing?",
+    "options": [
+      "Legal only",
+      "Environmental and Legal",
+      "Technological only",
+      "Socio-Cultural only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mandating carbon pricing touches both Environmental sustainability regulations and Legal compliance frameworks."
+  },
+  {
+    "id": "MBA8101_009",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "What is the primary objective of conducting an environmental threat and opportunity profile (ETOP)?",
+    "options": [
+      "To audit employee payroll efficiency",
+      "To systematically assess the impact of external environmental factors on strategic choices",
+      "To establish the internal brand hierarchy among product managers",
+      "To benchmark daily warehouse logistics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An ETOP helps strategists map opportunities and threats stemming from external environmental sectors to formulate effective responses."
+  },
+  {
+    "id": "MBA8101_010",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which factor would be classified under the 'Technological' pillar of a PESTEL audit?",
+    "options": [
+      "Consumer protection laws",
+      "Government debt-to-GDP ratio",
+      "R&D tax incentives and automation adoption",
+      "Population fertility rates"
+    ],
+    "correctAnswer": 2,
+    "explanation": "R&D incentives, digital infrastructure, and automation adoption rates are quintessential technological factors."
+  },
+  {
+    "id": "MBA8101_011",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "The concept of 'creative destruction' popularized by Joseph Schumpeter implies that:",
+    "options": [
+      "Governments must constantly dismantle private enterprises",
+      "Technological innovation continuously revolutionizes economic structures by destroying old ones and creating new ones",
+      "Marketing campaigns naturally diminish brand equity over time",
+      "Supply chain disruption is strictly caused by legal bottlenecks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Schumpeter's creative destruction explains how continuous technological and industrial innovation replaces obsolete business models and products."
+  },
+  {
+    "id": "MBA8101_012",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "When an enterprise assesses the power grid reliability and broadband penetration in a host nation, it is examining the:",
+    "options": [
+      "Social infrastructure",
+      "Hard and technological infrastructure",
+      "Political ideology",
+      "Micro-competitive rivalry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Physical power, water, transport, and broadband infrastructure form the hard and technological base of the macro-environment."
+  },
+  {
+    "id": "MBA8101_013",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "A sudden shift in consumer dietary preferences towards organic plant-based products is categorized under:",
+    "options": [
+      "Macro Socio-Cultural Environment",
+      "Macro Political Environment",
+      "Internal Capabilities",
+      "Legal Infrastructure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Consumer lifestyles, dietary health consciousness, and nutritional values are socio-cultural environmental drivers."
+  },
+  {
+    "id": "MBA8101_014",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which tool is specifically designed to bridge external environmental analysis with internal strategic capability analysis?",
+    "options": [
+      "SWOT Analysis",
+      "Six Sigma DMAIC",
+      "DuPont Analysis",
+      "Linear Programming"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SWOT combines external factors (Opportunities & Threats) with internal organizational factors (Strengths & Weaknesses)."
+  },
+  {
+    "id": "MBA8101_015",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "What does a high degree of 'environmental dynamism' necessitate for a firm?",
+    "options": [
+      "Rigid five-year planning with no quarterly revisions",
+      "Flexible, adaptive decision-making and continuous environmental scanning",
+      "Complete cessation of international market expansion",
+      "Conversion from decentralized to strict autocratic hierarchy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dynamism involves rapid change, necessitating adaptive strategy, ongoing environmental scanning, and agility."
+  },
+  {
+    "id": "MBA8101_016",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "In cross-border business analysis, Hofstede's cultural dimensions (e.g., Power Distance, Uncertainty Avoidance) are essential for understanding:",
+    "options": [
+      "The host country's fiscal policy stance",
+      "The national socio-cultural environment and organizational behavior norms",
+      "The technical bandwidth requirements for cloud software",
+      "The maritime shipping costs between ports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hofstede's cultural dimensions measure national cultural values, impacting negotiations, management style, and consumer behavior."
+  },
+  {
+    "id": "MBA8101_017",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which regulatory body oversees international intellectual property agreements across member nations?",
+    "options": [
+      "UNICEF",
+      "WIPO (World Intellectual Property Organization)",
+      "IMF",
+      "OPEC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "WIPO is the specialized UN agency that administers international treaties and protects intellectual property worldwide."
+  },
+  {
+    "id": "MBA8101_018",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "The legal doctrine requiring companies to ensure that consumer goods are safe for normal use without defects is known as:",
+    "options": [
+      "Caveat Emptor",
+      "Product Liability",
+      "Antitrust Compliance",
+      "Eminent Domain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Product liability holds manufacturers and sellers accountable for injuries or damages caused by defective or unsafe products."
+  },
+  {
+    "id": "MBA8101_019",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "Which PESTEL dimension examines intellectual property protections, anti-monopoly regulations, and employment standards?",
+    "options": [
+      "Political",
+      "Economic",
+      "Legal",
+      "Environmental"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Specific statutes, jurisprudence, labor laws, and antitrust regulations form the Legal pillar of PESTEL."
+  },
+  {
+    "id": "MBA8101_020",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Macro Environment & PESTEL",
+    "question": "What is an example of an 'Uncontrollable' environmental variable for a multinational retail corporation?",
+    "options": [
+      "Store floor layout",
+      "Pricing discounts on private-label brands",
+      "Global crude oil price fluctuations",
+      "Staff training curriculum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Global commodity prices like crude oil are external macroeconomic variables outside any single firm's direct control."
+  },
+  {
+    "id": "MBA8101_021",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "According to Michael Porter's Five Forces framework, which of the following increases the threat of new entrants in an industry?",
+    "options": [
+      "High economies of scale required for production",
+      "High capital requirements to enter",
+      "Low switching costs for customers",
+      "Strong proprietary patents held by incumbents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When customer switching costs are low, buyers can easily transition to new players, lowering barriers to entry."
+  },
+  {
+    "id": "MBA8101_022",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Under what condition does supplier bargaining power tend to be high?",
+    "options": [
+      "When the supplier group is dominated by a few large companies and products are highly differentiated",
+      "When suppliers sell commoditized, undifferentiated raw materials",
+      "When there are numerous substitute inputs readily available",
+      "When the buying industry represents a dominant portion of the supplier's revenue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suppliers hold significant power when their industry is concentrated, their products are differentiated, and substitutes are scarce."
+  },
+  {
+    "id": "MBA8101_023",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "In Porter's Five Forces, a 'substitute product' refers to:",
+    "options": [
+      "A product offered by a direct competitor in the exact same category",
+      "A product from a different industry that satisfies the same customer need",
+      "An upgraded version of an existing internal product line",
+      "A refurbished component sold by a supplier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Substitutes come from outside the focal industry but perform the same functional utility (e.g., high-speed rail vs. domestic airline flights)."
+  },
+  {
+    "id": "MBA8101_024",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Which factor intensifies rivalry among existing competitors in an industry?",
+    "options": [
+      "Rapid industry growth rate",
+      "High exit barriers and slow industry growth",
+      "Low fixed costs and unique product differentiation",
+      "Absence of foreign competitors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "High exit barriers (e.g., specialized assets, severance commitments) and stagnant growth force competitors to fight fiercely for market share."
+  },
+  {
+    "id": "MBA8101_025",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Buyer bargaining power is highest when:",
+    "options": [
+      "Buyers purchase small, infrequent volumes",
+      "The industry's product represents a negligible fraction of the buyer's costs",
+      "Buyers have credible threats of backward integration into the seller's industry",
+      "The seller's product cannot be substituted by any alternative"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When buyers can credibly threaten to produce the input themselves (backward integration), their bargaining leverage is high."
+  },
+  {
+    "id": "MBA8101_026",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "What is the sixth force often proposed by Brandenburger and Nalebuff as an extension to Porter's Five Forces?",
+    "options": [
+      "Regulators",
+      "Complementors",
+      "Disruptors",
+      "Arbitrageurs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Complementors are businesses that provide products or services that enhance the value of another firm's offering (e.g., software and hardware)."
+  },
+  {
+    "id": "MBA8101_027",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "A market structure with only a few dominant sellers where strategic interdependence is paramount is known as:",
+    "options": [
+      "Monopoly",
+      "Monopsony",
+      "Oligopoly",
+      "Perfect Competition"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An oligopoly consists of a small number of firms whose price and output decisions directly affect one another."
+  },
+  {
+    "id": "MBA8101_028",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "In a perfectly competitive market, individual firms are:",
+    "options": [
+      "Price setters with high market power",
+      "Price takers facing a perfectly elastic demand curve",
+      "Monopolistic innovators with proprietary technology",
+      "Regulated public utilities with guaranteed returns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In perfect competition, firms sell identical products and must accept the prevailing market price determined by aggregate supply and demand."
+  },
+  {
+    "id": "MBA8101_029",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Which of the following creates high entry barriers in the commercial aircraft manufacturing industry?",
+    "options": [
+      "Low fixed overhead",
+      "Massive R&D capital expenditure and steep learning curve advantages",
+      "Absence of government safety certifications",
+      "Homogeneous customer preferences across regional carriers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aircraft manufacturing demands billions in capital investment, complex certification, and deep learning curves, deterring new entrants."
+  },
+  {
+    "id": "MBA8101_030",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "The Herfindahl-Hirschman Index (HHI) is primarily used by competition authorities to:",
+    "options": [
+      "Calculate corporate income tax liabilities",
+      "Measure market concentration and evaluate potential anti-competitive effects of mergers",
+      "Track employee turnover in Fortune 500 corporations",
+      "Estimate global freight shipping rates"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The HHI is calculated by summing the squares of individual firm market shares to assess market concentration and antitrust risk."
+  },
+  {
+    "id": "MBA8101_031",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Strategic Group Mapping is an analytical technique used to:",
+    "options": [
+      "Group employees by personality traits",
+      "Identify clusters of competitors in an industry that follow similar business strategies along key dimensions",
+      "Trace global supply chain shipping routes on physical maps",
+      "Schedule departmental shift rotations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strategic group mapping visually clusters rival firms based on strategic dimensions (e.g., price vs. geographic scope) to analyze competitive positioning."
+  },
+  {
+    "id": "MBA8101_032",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "What term describes an industry where one firm can supply the entire market output at a lower average cost than two or more firms could?",
+    "options": [
+      "Natural Monopoly",
+      "Cartel",
+      "Bilateral Oligopoly",
+      "Monopolistic Competition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A natural monopoly arises when enormous economies of scale make a single supplier the most cost-efficient market structure (e.g., water utility grids)."
+  },
+  {
+    "id": "MBA8101_033",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Which of the following is an example of 'Forward Integration'?",
+    "options": [
+      "A smartphone manufacturer acquiring an oil exploration company",
+      "A footwear manufacturer opening its own branded retail flagship stores",
+      "An automobile brand outsourcing its engine manufacturing to an external supplier",
+      "A supermarket chain purchasing an agricultural dairy farm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Forward integration occurs when a producer moves downstream to control distribution or direct retail channels."
+  },
+  {
+    "id": "MBA8101_034",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "When an industry exhibits high network externalities (network effects), the value of the service:",
+    "options": [
+      "Decreases as more users adopt the platform",
+      "Increases exponentially as the installed user base expands",
+      "Remains completely independent of user numbers",
+      "Is dictated exclusively by government price caps"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Network effects mean each additional user adds value to all existing participants (e.g., social networks, operating systems, payment gateways)."
+  },
+  {
+    "id": "MBA8101_035",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "A situation where two or more firms collude explicitly to fix prices and restrict industry output is known as a:",
+    "options": [
+      "Joint Venture",
+      "Cartel",
+      "Conglomerate",
+      "Strategic Alliance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A cartel is a formal collusive arrangement among competing firms to control prices, production quotas, and market share (e.g., OPEC)."
+  },
+  {
+    "id": "MBA8101_036",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "In monopolistic competition, products sold by rival firms are:",
+    "options": [
+      "Homogeneous and identical in all respects",
+      "Differentiated through branding, features, quality, or marketing",
+      "Sold at fixed statutory government tariffs",
+      "Completely non-substitutable under any economic conditions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Monopolistic competition features many sellers offering differentiated products (e.g., restaurants, clothing brands)."
+  },
+  {
+    "id": "MBA8101_037",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "What is 'Hypercompetition' as conceptualized by Richard D'Aveni?",
+    "options": [
+      "A stable, regulated market with guaranteed long-term profits",
+      "A condition of rapid, escalating competitive disruption where competitive advantages are quickly eroded",
+      "A non-profit economic model focused exclusively on public welfare",
+      "A bilateral monopoly between a single buyer and single seller"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hypercompetition is characterized by intense price wars, rapid innovation, and temporary advantages that competitors quickly neutralize."
+  },
+  {
+    "id": "MBA8101_038",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "Which metric indicates whether an industry's structural attractiveness allows above-average returns on invested capital (ROIC)?",
+    "options": [
+      "Industry margin spread relative to weighted average cost of capital (WACC)",
+      "The gross number of registered patents filed annually",
+      "Total headcount of executive staff",
+      "The geographic landmass occupied by factories"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An attractive industry generates returns on invested capital consistently exceeding the opportunity cost of capital (WACC)."
+  },
+  {
+    "id": "MBA8101_039",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "First-mover advantage in a competitive market is strongest when:",
+    "options": [
+      "Technological change is so fast that pioneering assets become obsolete immediately",
+      "Pioneers can establish proprietary patents, capture scarce prime locations, and lock in high customer switching costs",
+      "Free-riding by followers allows them to copy products at 10% of the initial cost",
+      "Buyer preferences are volatile and completely unpredictable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "First-mover advantages endure when pioneers erect strong barriers, secure scarce resources, and build customer switching costs."
+  },
+  {
+    "id": "MBA8101_040",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Competitive Environment & Industry Structure",
+    "question": "What is an example of an 'Exit Barrier' that forces unviable firms to remain in an unprofitable industry?",
+    "options": [
+      "Liquid cash reserves",
+      "High specialized asset specificity and statutory decommissioning liabilities",
+      "Low brand recognition",
+      "Flexible short-term supplier contracts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Specialized assets with low liquidation value, long-term environmental remediation duties, or severance agreements constitute high exit barriers."
+  },
+  {
+    "id": "MBA8101_041",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "Fiscal policy is managed by which authority and through which primary instruments?",
+    "options": [
+      "Central Bank; interest rates and open market operations",
+      "Government Ministry of Finance; taxation and public spending",
+      "International Monetary Fund; currency devaluation quotas",
+      "Commercial Banks; reserve deposit requirements"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fiscal policy is determined by the national government and executed through government spending and tax collection."
+  },
+  {
+    "id": "MBA8101_042",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "When a Central Bank implements 'Expansionary Monetary Policy', it typically:",
+    "options": [
+      "Increases policy interest rates to curb bank lending",
+      "Lowers policy rates and conducts open-market asset purchases to inject liquidity",
+      "Imposes direct excise duties on manufacturing exports",
+      "Freezes foreign exchange trading for all multinational firms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expansionary monetary policy reduces interest rates and expands money supply to stimulate investment, consumption, and aggregate demand."
+  },
+  {
+    "id": "MBA8101_043",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What economic phenomenon is defined as the coexistence of stagnant economic growth, high unemployment, and high inflation?",
+    "options": [
+      "Deflation",
+      "Stagflation",
+      "Hyperinflation",
+      "Reflation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stagflation combines economic stagnation (low GDP growth/high unemployment) with persistent cost-push inflation."
+  },
+  {
+    "id": "MBA8101_044",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "The 'Gross Domestic Product' (GDP) measures:",
+    "options": [
+      "The total financial assets accumulated in personal savings accounts",
+      "The monetary value of all finished goods and services produced within a country's borders during a specific period",
+      "The total revenue generated exclusively by export sales",
+      "The market capitalization of the top 100 domestic corporations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GDP calculates the total market value of all final goods and services produced within a nation's territorial boundaries in a given timeframe."
+  },
+  {
+    "id": "MBA8101_045",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "Which type of inflation is triggered when aggregate demand exceeds the economy's productive capacity at full employment?",
+    "options": [
+      "Cost-Push Inflation",
+      "Demand-Pull Inflation",
+      "Built-In Wage Inflation",
+      "Imported Structural Inflation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Demand-pull inflation occurs when 'too much money chases too few goods,' driving prices upward when demand outstrips supply capacity."
+  },
+  {
+    "id": "MBA8101_046",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "The Philips Curve traditionally illustrates the short-run trade-off between:",
+    "options": [
+      "Inflation and Unemployment",
+      "GDP growth and Foreign Exchange Reserves",
+      "Government Deficit and Corporate Profits",
+      "Interest Rates and Tariff Levels"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The traditional short-run Phillips curve shows an inverse relationship: lower unemployment is associated with higher inflation rates."
+  },
+  {
+    "id": "MBA8101_047",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What is the effect of an increase in the Cash Reserve Ratio (CRR) imposed by the Central Bank on commercial banks?",
+    "options": [
+      "Commercial banks have more liquidity to issue consumer loans",
+      "Commercial banks must hold more cash in reserve, reducing credit creation and slowing money supply growth",
+      "Corporate tax rates automatically decline by an equivalent percentage",
+      "Export tariffs on consumer electronics are abolished"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A higher CRR restricts the portion of deposits commercial banks can lend out, contracting credit creation in the economy."
+  },
+  {
+    "id": "MBA8101_048",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "A 'Sovereign Wealth Fund' (SWF) is best defined as:",
+    "options": [
+      "A private venture capital fund for Silicon Valley technology startups",
+      "A state-owned investment fund composed of financial assets derived from foreign exchange reserves, commodity surpluses, or fiscal windfalls",
+      "A bailout emergency fund managed by the World Trade Organization",
+      "A commercial mutual fund for corporate pension plans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sovereign wealth funds are government-owned investment vehicles that invest fiscal and foreign exchange surpluses globally (e.g., Norway's GPFG)."
+  },
+  {
+    "id": "MBA8101_049",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "When a country's national currency depreciates significantly against major trade currencies, what is the expected impact on international trade (ceteris paribus)?",
+    "options": [
+      "Domestic exports become relatively cheaper abroad, while foreign imports become more expensive domestically",
+      "Foreign imports become cheaper for domestic consumers",
+      "Domestic export volumes immediately drop to zero",
+      "Tariff rates on foreign services automatically increase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Currency depreciation makes home-produced goods cheaper for foreign buyers (boosting exports) and makes foreign goods pricier for domestic buyers."
+  },
+  {
+    "id": "MBA8101_050",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "Which economic concept describes the phenomenon where government borrowing drives up interest rates, thereby reducing private capital investment?",
+    "options": [
+      "Crowding-Out Effect",
+      "Liquidity Trap",
+      "Multiplier Effect",
+      "Accelerator Principle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The crowding-out effect occurs when heavy public debt issuance raises market interest rates, crowding out private sector investment."
+  },
+  {
+    "id": "MBA8101_051",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "The 'Gini Coefficient' is a standard macroeconomic indicator used to quantify:",
+    "options": [
+      "Atmospheric carbon emissions by industrial sector",
+      "Income and wealth inequality within a population",
+      "The percentage of bad loans in the commercial banking system",
+      "National internet penetration speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Gini coefficient ranges from 0 (perfect equality) to 1 (perfect inequality), measuring income or wealth distribution."
+  },
+  {
+    "id": "MBA8101_052",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What happens in a 'Liquidity Trap' scenario?",
+    "options": [
+      "Interest rates are already near zero, and monetary policy becomes ineffective at stimulating additional aggregate demand",
+      "Commercial banks refuse to accept customer cash deposits",
+      "Foreign investors pull all portfolio capital out of local equity exchanges",
+      "The government eliminates all taxation on corporate profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a liquidity trap, ultra-low interest rates fail to stimulate investment because economic agents hoard cash rather than borrow or invest."
+  },
+  {
+    "id": "MBA8101_053",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "The Business Cycle typically progresses through which sequential phases?",
+    "options": [
+      "Expansion, Peak, Contraction (Recession), and Trough",
+      "Stagnation, Liquidation, Nationalization, and Dissolution",
+      "Deregulation, Privatization, Hyperinflation, and Austerity",
+      "Inception, Maturity, Obsolescence, and Liquidity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard macroeconomic business cycle consists of four distinct phases: Expansion, Peak, Contraction (Recession), and Trough (Recovery)."
+  },
+  {
+    "id": "MBA8101_054",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What indicator is categorized as a 'Leading Economic Indicator'?",
+    "options": [
+      "Average duration of unemployment (Lagging)",
+      "Building permits for new private housing and stock market indices",
+      "Final annual corporate income tax returns",
+      "Historical consumer price index adjustments from the prior year"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Leading indicators (e.g., stock market indices, building permits, consumer confidence) signal future economic activity before GDP changes."
+  },
+  {
+    "id": "MBA8101_055",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "The 'Invisible Hand' concept in classical economics was introduced by:",
+    "options": [
+      "John Maynard Keynes",
+      "Adam Smith",
+      "Karl Marx",
+      "Milton Friedman"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adam Smith articulated the 'invisible hand' in *The Wealth of Nations* (1776), describing how self-interested market behavior can lead to optimal social outcomes."
+  },
+  {
+    "id": "MBA8101_056",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "According to Keynesian economic theory, the primary remedy for a deep recession with deficient aggregate demand is:",
+    "options": [
+      "Strict fiscal austerity and balancing the government budget immediately",
+      "Government deficit spending on infrastructure and social programs to stimulate demand",
+      "Raising personal income tax to discourage consumption",
+      "Eliminating the central bank entirely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Keynesian economics advocates for counter-cyclical fiscal stimulus (increased government spending and tax relief) during economic downturns."
+  },
+  {
+    "id": "MBA8101_057",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What is the difference between Nominal GDP and Real GDP?",
+    "options": [
+      "Nominal GDP includes services; Real GDP only counts physical manufacturing",
+      "Real GDP is adjusted for inflation/deflation, whereas Nominal GDP is valued at current market prices",
+      "Nominal GDP is measured by the World Bank; Real GDP is measured by individual municipal councils",
+      "Real GDP excludes all government expenditures"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Real GDP uses constant base-year prices to remove the distortive effects of price inflation, reflecting actual changes in output volume."
+  },
+  {
+    "id": "MBA8101_058",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "When a government spends more in a financial year than it collects in tax revenue, the resulting annual deficit is called the:",
+    "options": [
+      "Trade Deficit",
+      "Fiscal Deficit",
+      "Current Account Surplus",
+      "Capital Inflow Gap"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A fiscal deficit represents the net shortfall when annual government budgetary expenditures exceed total revenues (excluding borrowings)."
+  },
+  {
+    "id": "MBA8101_059",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "Monetary policy transmission to the real economy primarily operates through which channel?",
+    "options": [
+      "Direct presidential decrees setting product prices",
+      "Interest rate adjustments affecting the cost of credit, investment spending, and asset prices",
+      "Compulsory labor reallocations across provinces",
+      "Municipal property zoning reclassifications"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Central bank rate changes influence commercial bank lending rates, bond yields, currency valuations, and consumer/business borrowing appetite."
+  },
+  {
+    "id": "MBA8101_060",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "Which economic school of thought emphasizes controlling the money supply as the principal determinant of inflation and macroeconomic stability?",
+    "options": [
+      "Monetarism (Milton Friedman)",
+      "Mercantilism",
+      "Physiocracy",
+      "Institutionalism"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Monetarism asserts that inflation is always and everywhere a monetary phenomenon caused by excessive money supply growth."
+  },
+  {
+    "id": "MBA8101_061",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What does the 'Consumer Price Index' (CPI) measure?",
+    "options": [
+      "The average price of industrial capital machinery",
+      "The weighted average price change of a standardized basket of goods and services consumed by households",
+      "The export price parity of refined petroleum",
+      "The total tax revenues gathered across wholesale markets"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CPI tracks the cost of living by monitoring price changes across a representative basket of consumer goods and services over time."
+  },
+  {
+    "id": "MBA8101_062",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "A 'Current Account Deficit' in the Balance of Payments indicates that a nation:",
+    "options": [
+      "Is importing more goods, services, and net income payments than it is exporting",
+      "Has zero national debt across all commercial banks",
+      "Has higher foreign direct investment abroad than foreign investment at home",
+      "Is running an internal fiscal surplus in municipal finances"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A current account deficit occurs when total payments for imported goods, services, and net investment outflows exceed receipts from exports."
+  },
+  {
+    "id": "MBA8101_063",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "The 'Multiplier Effect' in fiscal economics implies that:",
+    "options": [
+      "An initial injection of government spending leads to a more than proportional increase in national income",
+      "Every dollar of tax cuts reduces national income by half",
+      "Inflation always doubles every two calendar quarters",
+      "A business must hire two employees for every new machine purchased"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The fiscal multiplier shows that an initial dollar of public expenditure recirculates through consumption, creating a larger total rise in aggregate GDP."
+  },
+  {
+    "id": "MBA8101_064",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "Which tax is categorized as a 'Regressive Tax'?",
+    "options": [
+      "Progressive federal income tax with tiered marginal brackets",
+      "Flat-rate sales tax (VAT) on essential basic goods, which takes a larger percentage of income from low-income earners",
+      "Corporate inheritance tax on multi-million dollar estates",
+      "Capital gains tax on executive stock option windfalls"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A regressive tax takes a larger relative share of income from low-income earners compared to high-income earners (e.g., flat consumption taxes)."
+  },
+  {
+    "id": "MBA8101_065",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Economic Environment & Policy",
+    "question": "What is meant by the 'Structural Unemployment' in an economy?",
+    "options": [
+      "Short-term joblessness while transitioning between career roles",
+      "Unemployment caused by a fundamental mismatch between workers' skills/locations and the requirements of employers",
+      "Temporary layoffs due to winter seasonality in agriculture",
+      "Unemployment resulting strictly from a temporary global recession"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Structural unemployment stems from systemic shifts (technological changes, industry decline) where worker skills no longer align with open jobs."
+  },
+  {
+    "id": "MBA8101_066",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "The Theory of Comparative Advantage, establishing that nations gain from trade by specializing in goods with lower opportunity costs, was formulated by:",
+    "options": [
+      "David Ricardo",
+      "Adam Smith",
+      "Karl Marx",
+      "Thomas Malthus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "David Ricardo introduced the Law of Comparative Advantage in 1817, demonstrating mutual gains from trade even without an absolute advantage."
+  },
+  {
+    "id": "MBA8101_067",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "The World Trade Organization (WTO) is founded upon which fundamental non-discrimination principle?",
+    "options": [
+      "Most-Favoured-Nation (MFN) and National Treatment",
+      "Bilateral Quota Enforcement",
+      "Uniform Global Corporate Tax Harmony",
+      "Mandatory Currency Pegging"
+    ],
+    "correctAnswer": 0,
+    "explanation": "WTO trade law is anchored on Most-Favoured-Nation (treating all members equally) and National Treatment (treating foreign and domestic goods alike)."
+  },
+  {
+    "id": "MBA8101_068",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is an 'Ad Valorem' tariff?",
+    "options": [
+      "A fixed monetary fee per physical unit of imported merchandise (e.g., $10 per ton)",
+      "A customs duty levied as a fixed percentage of the declared commercial value of the imported good",
+      "A total ban on the importation of sensitive defense materials",
+      "A government subsidy paid directly to domestic exporters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An ad valorem tariff is calculated as a percentage of the imported good's transaction value (e.g., 15% of invoice value)."
+  },
+  {
+    "id": "MBA8101_069",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "Which regional economic integration level involves free movement of goods, services, capital, and labor, plus a common external tariff, but separate national currencies?",
+    "options": [
+      "Free Trade Area",
+      "Customs Union",
+      "Common Market",
+      "Complete Political Union"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Common Market establishes a customs union plus the free mobility of the four factors of production (goods, services, capital, labor)."
+  },
+  {
+    "id": "MBA8101_070",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is 'Dumping' in international trade discourse?",
+    "options": [
+      "Exporting toxic industrial sludge across international waters",
+      "Exporting a product to a foreign market at a price below its domestic cost of production or below home market price",
+      "Selling counterfeit consumer luxury goods in free-trade zones",
+      "Transferring corporate headquarters to an offshore tax haven"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dumping involves selling merchandise abroad at unfairly low prices (below home market prices or production cost), distorting fair competition."
+  },
+  {
+    "id": "MBA8101_071",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What trade remedy can a domestic government legally apply under WTO rules to offset the price advantage of foreign government-subsidized imports?",
+    "options": [
+      "Countervailing Duties (CVD)",
+      "Voluntary Export Restraints (VER)",
+      "Import Embargoes",
+      "Intellectual Property Expropriation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Countervailing duties are specific tariffs imposed to neutralize the unfair price advantages created by foreign government subsidies."
+  },
+  {
+    "id": "MBA8101_072",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "Which institution was established at the 1944 Bretton Woods Conference to provide balance-of-payments financing and foster global monetary cooperation?",
+    "options": [
+      "The International Monetary Fund (IMF)",
+      "The World Health Organization (WHO)",
+      "The Bank for International Settlements (BIS)",
+      "The International Trade Centre (ITC)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The IMF was founded at Bretton Woods to safeguard international exchange rate stability and assist member nations facing balance-of-payments distress."
+  },
+  {
+    "id": "MBA8101_073",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "The 'Heckscher-Ohlin Model' of international trade predicts that a country will export goods that:",
+    "options": [
+      "Utilize its abundant and cheap factors of production intensively",
+      "Require factors of production that are scarce domestically",
+      "Are produced exclusively by state-owned enterprises",
+      "Have the highest transport costs across maritime routes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heckscher-Ohlin theory states that nations export goods that intensively use their abundant factor endowments (e.g., capital or labor)."
+  },
+  {
+    "id": "MBA8101_074",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "A complete governmental ban on commercial trade with a specific target country for geopolitical reasons is termed an:",
+    "options": [
+      "Embargo",
+      "Import Quota",
+      "Voluntary Restraint Agreement",
+      "Antidumping Investigation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An embargo is an official prohibition on trade, commerce, or maritime transport with a designated country."
+  },
+  {
+    "id": "MBA8101_075",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is 'Foreign Direct Investment' (FDI) as distinguished from 'Foreign Portfolio Investment' (FPI)?",
+    "options": [
+      "FDI involves purchasing passive minority shares in overseas stock markets with no management control",
+      "FDI involves establishing or acquiring physical business operations and exercising lasting managerial control in a foreign enterprise",
+      "FDI refers exclusively to commercial bank loans issued to sovereign governments",
+      "FDI consists only of foreign aid grants provided by the United Nations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FDI requires direct, long-term operational investment and managerial influence in a foreign enterprise (usually 10%+ voting equity)."
+  },
+  {
+    "id": "MBA8101_076",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "Which mode of foreign market entry involves the lowest capital commitment and operational risk for a manufacturing firm?",
+    "options": [
+      "Wholly Owned Greenfield Subsidiary",
+      "Direct/Indirect Exporting",
+      "Cross-Border Merger & Acquisition",
+      "50-50 International Joint Venture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exporting allows firms to enter foreign markets with minimal overseas capital expenditure and lower political/operational risk."
+  },
+  {
+    "id": "MBA8101_077",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "In the context of FDI, a 'Greenfield Investment' refers to:",
+    "options": [
+      "Investing exclusively in certified organic agricultural farms",
+      "Building a brand-new operational facility or subsidiary from the ground up in a foreign territory",
+      "Acquiring an existing operational competitor in a host country",
+      "Purchasing government green sovereign bonds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Greenfield FDI involves constructing new operational facilities, factories, and offices from scratch in a foreign market."
+  },
+  {
+    "id": "MBA8101_078",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is 'Transfer Pricing' in the operations of multinational corporations (MNCs)?",
+    "options": [
+      "The setting of prices for goods, services, and intangibles traded internally between affiliated entities within the same corporate group",
+      "The price charged by commercial airlines for cargo transfers between hubs",
+      "The discount rate applied to foreign exchange conversions at retail kiosks",
+      "The retail price adjustment made during seasonal stock clearances"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transfer pricing governs the internal valuation of cross-border transactions between related subsidiaries of a multinational enterprise."
+  },
+  {
+    "id": "MBA8101_079",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "Under the WTO TRIPS agreement, member countries are obligated to establish minimum standards of protection for:",
+    "options": [
+      "Trade in agricultural foodstuffs and dairy products",
+      "Intellectual Property Rights including patents, trademarks, and copyrights",
+      "Cross-border telecommunications bandwidth allocations",
+      "Labor migration quotas across borders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TRIPS (Trade-Related Aspects of Intellectual Property Rights) sets enforceable multilateral standards for IP protection."
+  },
+  {
+    "id": "MBA8101_080",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is the 'Tariffication' principle under WTO agricultural agreements?",
+    "options": [
+      "Replacing unpredictable non-tariff barriers (like import quotas and bans) with transparent, bound customs tariffs",
+      "Doubling tariffs on agricultural imports every five years",
+      "Forcing all developing nations to eliminate all farm subsidies immediately",
+      "Establishing fixed global prices for wheat and maize"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tariffication converts complex, non-transparent non-tariff restrictions into equivalent transparent import duties that can be negotiated downward."
+  },
+  {
+    "id": "MBA8101_081",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "The 'Balance of Payments' (BOP) is a comprehensive record of:",
+    "options": [
+      "A corporation's monthly balance sheet assets and liabilities",
+      "All economic transactions between residents of a country and the rest of the world over a specified period",
+      "The total debt obligations owed by commercial banks to the central bank",
+      "The net profit margins of domestic export trading houses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The BOP tracks all cross-border financial and commercial transactions (Current Account, Capital Account, Financial Account) of a nation."
+  },
+  {
+    "id": "MBA8101_082",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "When an MNC adapts its products, marketing, and operations deeply to each specific foreign host country's local preferences, it is pursuing a:",
+    "options": [
+      "Global Standardization Strategy",
+      "Multidomestic (Localization) Strategy",
+      "International Arbitrage Strategy",
+      "Cost-Leadership Export Strategy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A multidomestic strategy customizes products and business approaches to fit local national cultural and regulatory market conditions."
+  },
+  {
+    "id": "MBA8101_083",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is a 'Special Economic Zone' (SEZ)?",
+    "options": [
+      "A geographic area in which business and trade laws differ from the rest of the country to attract foreign investment and boost exports",
+      "A military buffer zone prohibiting commercial trade",
+      "A municipal residential neighborhood designated for diplomatic staff",
+      "A protected wildlife reserve with no industrial activity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SEZs offer tax holidays, streamlined regulatory compliance, modern infrastructure, and duty-free import of inputs to attract FDI."
+  },
+  {
+    "id": "MBA8101_084",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "The 'Purchasing Power Parity' (PPP) theory states that in the long run:",
+    "options": [
+      "Exchange rates between currencies are in equilibrium when their purchasing power is the same in each of the two countries for a representative basket",
+      "All countries must adopt the US Dollar as their sole reserve currency",
+      "Wages in developing nations will immediately match wages in Western Europe",
+      "Stock market returns will be identical across all global equity exchanges"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PPP posits that currency exchange rates should adjust so that an identical basket of goods costs the same in different currencies (Law of One Price)."
+  },
+  {
+    "id": "MBA8101_085",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "A major risk associated with 'Political Risk' in international business is:",
+    "options": [
+      "Expropriation or nationalization of foreign corporate assets by a host government",
+      "A change in an internal company manager's personal leadership style",
+      "Seasonal weather patterns affecting product delivery times by one day",
+      "Routine depreciation of office computer hardware"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Political risk involves host government actions—such as asset expropriation, discriminatory regulatory changes, or political instability—impacting foreign assets."
+  },
+  {
+    "id": "MBA8101_086",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "Which trade agreement replaced NAFTA (North American Free Trade Agreement) in 2020?",
+    "options": [
+      "USMCA (United States-Mexico-Canada Agreement)",
+      "MERCOSUR",
+      "ASEAN",
+      "Trans-Pacific Partnership (TPP)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "USMCA modernized and replaced NAFTA with updated rules on digital trade, automotive origin thresholds, and labor standards."
+  },
+  {
+    "id": "MBA8101_087",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "The 'GATT' (General Agreement on Tariffs and Trade), established in 1947, was the institutional predecessor to the:",
+    "options": [
+      "World Trade Organization (WTO)",
+      "World Economic Forum (WEF)",
+      "International Chamber of Commerce (ICC)",
+      "Bank for International Settlements (BIS)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "GATT served as the multilateral trade framework from 1947 until it was formally superseded by the establishment of the WTO in 1995."
+  },
+  {
+    "id": "MBA8101_088",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is 'Sovereign Risk' in global finance?",
+    "options": [
+      "The probability that a foreign government defaults on its sovereign debt obligations or debt guarantees",
+      "The chance that a private company goes bankrupt due to poor product design",
+      "The risk of a stock price falling during quarterly earnings season",
+      "The risk of counterfeit cash circulation in local retail stores"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sovereign risk is the likelihood that a sovereign government will default on its official financial commitments or sovereign bonds."
+  },
+  {
+    "id": "MBA8101_089",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "Which strategy seeks to achieve both global efficiency/integration and local responsiveness simultaneously?",
+    "options": [
+      "Transnational Strategy",
+      "Export Strategy",
+      "Global Strategy",
+      "Domestic Strategy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A transnational strategy (Bartlett & Ghoshal) balances high global coordination for cost efficiencies with high local responsiveness to regional markets."
+  },
+  {
+    "id": "MBA8101_090",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Globalization & International Trade",
+    "question": "What is an 'Import Quota'?",
+    "options": [
+      "A physical limitation on the maximum quantity or value of a specific good that may be imported during a given time period",
+      "A percentage tax applied to all incoming freight shipments",
+      "A quality certification mandated for pharmaceutical imports",
+      "A cash rebate paid to domestic retail shoppers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An import quota sets a quantitative cap on the volume or value of foreign goods allowed into a country over a specific time period."
+  },
+  {
+    "id": "MBA8101_091",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "According to Archie Carroll's Pyramid of Corporate Social Responsibility, what constitutes the foundational base upon which all other responsibilities rest?",
+    "options": [
+      "Philanthropic Responsibilities",
+      "Ethical Responsibilities",
+      "Legal Responsibilities",
+      "Economic Responsibilities (Be profitable)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Carroll's CSR pyramid establishes Economic Responsibility (generating profit and creating economic value) as the foundational base."
+  },
+  {
+    "id": "MBA8101_092",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "The 'Triple Bottom Line' framework introduced by John Elkington measures corporate performance across which three dimensions?",
+    "options": [
+      "Product, Promotion, and Price",
+      "People (Social), Planet (Environmental), and Profit (Economic)",
+      "Policies, Procedures, and Planning",
+      "Patents, Productivity, and Placement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Triple Bottom Line measures success across People (social equity), Planet (environmental sustainability), and Profit (economic prosperity)."
+  },
+  {
+    "id": "MBA8101_093",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is the central premise of Milton Friedman's traditional view on corporate social responsibility?",
+    "options": [
+      "Corporations must allocate at least 50% of earnings to municipal charities",
+      "The only social responsibility of business is to use its resources to increase profits within the rules of the game (free competition without fraud)",
+      "Directors must prioritize labor unions over equity shareholders in all decisions",
+      "Government agencies should manage all private corporate boards"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Friedman's shareholder primacy model argues that executives are agents of the owners and their primary responsibility is maximizing shareholder returns ethically."
+  },
+  {
+    "id": "MBA8101_094",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "In corporate governance, the 'Agency Problem' arises primarily due to:",
+    "options": [
+      "The conflict of interest and information asymmetry between corporate managers (agents) and shareholders (principals)",
+      "Disputes between travel agencies and commercial airline providers",
+      "Misalignment between marketing agencies and creative directors",
+      "Overlapping jurisdictions between regional environmental inspectors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The principal-agent problem occurs when self-interested managers (agents) pursue objectives that diverge from the best interests of shareholders (principals)."
+  },
+  {
+    "id": "MBA8101_095",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "Edward Freeman's 'Stakeholder Theory' posits that managers must create value for:",
+    "options": [
+      "Shareholders exclusively",
+      "All groups and individuals who can affect or are affected by the achievement of the organization's objectives (employees, customers, suppliers, community, shareholders)",
+      "Government tax auditors only",
+      "Direct institutional debt holders only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stakeholder theory holds that business sustainability requires managing relationships and value for all key stakeholders, not just shareholders."
+  },
+  {
+    "id": "MBA8101_096",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "Which landmark report in the UK (1992) established modern corporate governance standards, emphasizing board independence, separation of CEO and Chairman, and audit committees?",
+    "options": [
+      "Cadbury Report",
+      "Brundtland Report",
+      "Stern Review",
+      "Beveridge Report"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 1992 Cadbury Report revolutionized corporate governance by advocating for independent non-executive directors and clear separation of executive leadership."
+  },
+  {
+    "id": "MBA8101_097",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "The US Sarbanes-Oxley Act (SOX) of 2002 was enacted primarily in response to:",
+    "options": [
+      "Cross-border maritime smuggling incidents",
+      "Major corporate accounting scandals such as Enron and WorldCom",
+      "High interest rates set by the Federal Reserve Bank",
+      "Antitrust monopolization in the railroad industry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SOX was passed to restore investor confidence following massive accounting fraud at Enron, WorldCom, and Tyco, mandating rigorous internal financial controls."
+  },
+  {
+    "id": "MBA8101_098",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is 'Greenwashing'?",
+    "options": [
+      "Investing in wastewater treatment facilities at industrial plants",
+      "Misleading consumers regarding the environmental practices of a company or the environmental benefits of a product",
+      "Painting factory roofs white to reduce heat absorption",
+      "Planting trees along corporate highway perimeters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Greenwashing is deceptive marketing that falsely portrays an organization's products, operations, or policies as environmentally friendly."
+  },
+  {
+    "id": "MBA8101_099",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "In business ethics, the 'Utilitarian' philosophical approach evaluates an action based on:",
+    "options": [
+      "Strict adherence to universal moral duties regardless of consequences (Deontology)",
+      "The greatest good (utility/happiness) generated for the greatest number of people",
+      "The personal virtues and character habits of the decision maker",
+      "The legal codes established by municipal courts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Utilitarianism (Bentham & Mill) judges the moral rectitude of an action based on its net outcomes: maximizing aggregate welfare and minimizing harm."
+  },
+  {
+    "id": "MBA8101_100",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "Which committee on a corporate Board of Directors is strictly responsible for overseeing financial reporting integrity and internal audit controls?",
+    "options": [
+      "Nomination Committee",
+      "Audit Committee",
+      "Remuneration Committee",
+      "Public Relations Committee"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Audit Committee oversees financial reporting accuracy, internal risk controls, and liaises directly with external independent auditors."
+  },
+  {
+    "id": "MBA8101_101",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is the role of an 'Independent Non-Executive Director' (INED)?",
+    "options": [
+      "To manage day-to-day logistics in the central warehouse",
+      "To provide unbiased, objective oversight and constructive challenge to executive management without operational conflicts of interest",
+      "To serve as the primary legal counsel in union negotiations",
+      "To direct the creative team on digital advertising strategies"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Independent directors safeguard shareholder and stakeholder interests by providing objective governance and unbiased scrutiny of executive management."
+  },
+  {
+    "id": "MBA8101_102",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "The 'ESG' framework used by global institutional investors evaluates companies across which three criteria?",
+    "options": [
+      "Economic, Structural, and Growth",
+      "Environmental, Social, and Governance",
+      "Equity, Solvency, and Gearing",
+      "Efficiency, Scalability, and Global reach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ESG evaluates corporate sustainability and ethical impact through Environmental performance, Social impact, and Corporate Governance structures."
+  },
+  {
+    "id": "MBA8101_103",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What constitutes 'Insider Trading' in capital markets?",
+    "options": [
+      "Trading equity shares based on material, non-public information to gain an unfair financial advantage",
+      "Buying corporate merchandise inside a company retail outlet",
+      "Executive staff discussing product roadmaps in internal meeting rooms",
+      "Publishing quarterly audited earnings reports on the company website"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insider trading is the illegal practice of trading securities based on material information that has not yet been disclosed to the public."
+  },
+  {
+    "id": "MBA8101_104",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "The 'Brundtland Report' (1987) defined Sustainable Development as:",
+    "options": [
+      "Economic expansion that achieves 10% annual GDP growth indefinitely",
+      "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
+      "Transitioning all national manufacturing into state-controlled monopolies",
+      "Eliminating all cross-border commercial freight transport"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Brundtland Commission established this standard definition of sustainable development, balancing intergenerational resource stewardship with human development."
+  },
+  {
+    "id": "MBA8101_105",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "A 'Whistleblower' in an organization is an individual who:",
+    "options": [
+      "Directs shift changes on factory floors using audio whistles",
+      "Reports illegal, unethical, or dangerous conduct occurring within the organization to authorized internal leaders or regulatory bodies",
+      "Conducts public relations press conferences for new product launches",
+      "Audits sports sponsorships and athletic team partnerships"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A whistleblower exposes illicit, fraudulent, or unsafe organizational activities to management, regulators, or the public."
+  },
+  {
+    "id": "MBA8101_106",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is 'Deontological Ethics' (Kantian Ethics)?",
+    "options": [
+      "An ethical framework asserting that actions are intrinsically right or wrong based on duty and universal moral rules, irrespective of consequences",
+      "An ethical framework that evaluates choices solely by calculating financial ROI",
+      "A cultural relativism framework stating that ethics vary by geographic border",
+      "An approach where the strongest party in a negotiation determines right from wrong"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deontology, grounded in Immanuel Kant's philosophy, posits that moral obligations and duties must be followed regardless of the outcomes they produce."
+  },
+  {
+    "id": "MBA8101_107",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "The 'King IV Report' on Corporate Governance (South Africa) is globally recognized for pioneering:",
+    "options": [
+      "Integrated reporting and stakeholder-inclusive, ethical leadership frameworks",
+      "The complete elimination of independent non-executive directors",
+      "Mandating that all corporations operate as non-profit entities",
+      "Restricting corporate board memberships strictly to government civil servants"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The King Reports pioneered integrated reporting, treating governance as holistic, ethical, and inclusive of all stakeholders and environmental capital."
+  },
+  {
+    "id": "MBA8101_108",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "Which of the following is considered a 'Clawback Provision' in executive compensation contracts?",
+    "options": [
+      "A clause allowing the company to recover previously paid incentive bonuses from executives in the event of financial restatements or misconduct",
+      "A mandatory salary increase guaranteed every six months",
+      "A relocation allowance paid when executives transfer between regional offices",
+      "An automatic golden parachute severance grant triggered during a hostile takeover"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clawback provisions empower boards to reclaim performance-based compensation if financial results were fraudulently stated or if executive misconduct occurred."
+  },
+  {
+    "id": "MBA8101_109",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "Corporate philanthropy that aligns a firm's charitable donations directly with its core business competencies and strategic goals is termed:",
+    "options": [
+      "Strategic Philanthropy",
+      "Unilateral Altruism",
+      "Random Benevolence",
+      "Mandatory Taxation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategic philanthropy harmonizes corporate giving with business objectives, creating simultaneous social benefits and competitive business advantages."
+  },
+  {
+    "id": "MBA8101_110",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is the 'Precautionary Principle' in environmental management?",
+    "options": [
+      "When human activities may lead to morally unacceptable harm that is scientifically plausible but uncertain, actions should be taken to avoid or diminish that harm",
+      "Businesses should wait until 100% conclusive scientific proof of catastrophe exists before taking any mitigation steps",
+      "Environmental lawsuits must be settled out of court within thirty calendar days",
+      "Corporate polluters are exempt from liability if they purchase municipal carbon offsets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Precautionary Principle mandates proactive preventative action in the face of scientific uncertainty when activities pose severe ecological risks."
+  },
+  {
+    "id": "MBA8101_111",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is 'Conflict of Interest' for a corporate director?",
+    "options": [
+      "A scenario where a director's personal or secondary interest could potentially compromise their professional judgment or duty of loyalty to the company",
+      "A disagreement between two directors regarding the color of marketing brochures",
+      "A legal dispute between competing advertising agencies",
+      "A strike conducted by general warehouse labor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conflict of interest occurs when personal loyalties or financial gains conflict with the fiduciary obligation to act in the best interest of the corporation."
+  },
+  {
+    "id": "MBA8101_112",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "The 'UN Global Compact' is a voluntary corporate citizenship initiative encouraging businesses worldwide to adopt sustainable and socially responsible policies in the areas of:",
+    "options": [
+      "Human rights, labor standards, environment, and anti-corruption",
+      "Software intellectual property, high-frequency trading, and patent litigation",
+      "Military hardware procurement and sovereign defense alliances",
+      "Standardized international shipping container dimensions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The UN Global Compact aligns businesses with ten universal principles spanning human rights, labor, environment, and anti-corruption."
+  },
+  {
+    "id": "MBA8101_113",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What is 'Say on Pay' in shareholder governance?",
+    "options": [
+      "The right of shareholders to vote on the compensation packages awarded to top executive officers",
+      "The right of labor union representatives to fix weekly warehouse wages",
+      "The legal requirement that customers determine retail product prices at checkout",
+      "A board committee that approves vendor invoice disbursements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Say on Pay gives shareholders the right to vote on executive compensation policies, enhancing transparency and alignment with performance."
+  },
+  {
+    "id": "MBA8101_114",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "An 'Ethical Dilemma' in managerial decision-making occurs when:",
+    "options": [
+      "A manager must choose between two or more conflicting moral imperatives, where obeying one would result in transgressing another",
+      "A company must choose between two equally profitable marketing slogans",
+      "A software glitch delays the processing of payroll by ten minutes",
+      "An employee forgets their corporate password and requests a reset"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An ethical dilemma is a complex situation where fundamental moral obligations clash, making any course of action ethically challenging."
+  },
+  {
+    "id": "MBA8101_115",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "CSR, Ethics & Governance",
+    "question": "What does 'Fiduciary Duty' legally require of corporate board members?",
+    "options": [
+      "To act with utmost good faith, loyalty, and care in the best financial and strategic interests of the corporation and its shareholders",
+      "To prioritize their personal stock holdings above the solvency of the firm",
+      "To attend every annual consumer promotional event in uniform",
+      "To guarantee 15% annual dividend increases regardless of cash flow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fiduciary duty encompasses the legal duties of care and loyalty, requiring directors to place the company's interests ahead of personal interests."
+  },
+  {
+    "id": "MBA8101_116",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is the primary objective of Antitrust and Competition Law across major jurisdictions?",
+    "options": [
+      "To protect state-owned monopolies from private sector competition",
+      "To prevent anti-competitive agreements, cartels, and abuse of dominant market power to protect consumer welfare and market fairness",
+      "To fix retail consumer prices across all commercial department stores",
+      "To prohibit foreign multinational corporations from entering domestic industries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Antitrust laws promote competitive markets by prohibiting monopolistic abuses, predatory pricing, collusive cartels, and anti-competitive mergers."
+  },
+  {
+    "id": "MBA8101_117",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "Under contract law, what essential elements must be present to form a legally binding commercial contract?",
+    "options": [
+      "Offer, Acceptance, Consideration, Capacity, and Intention to create legal relations",
+      "A notarized photograph, five character references, and a cash deposit",
+      "Verbal handshake, a registered patent, and a municipal tax certificate",
+      "Executive board unanimous resolution, a corporate seal, and a newspaper advertisement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A valid contract requires mutual agreement (offer and acceptance), valuable consideration, legal capacity of parties, and intent to form legal relations."
+  },
+  {
+    "id": "MBA8101_118",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What legal protection grants an inventor exclusive commercial rights to manufacture, use, or sell a novel and non-obvious invention for a limited period (typically 20 years)?",
+    "options": [
+      "Trademark",
+      "Copyright",
+      "Patent",
+      "Trade Secret"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A patent provides a legal monopoly to an inventor for a novel, non-obvious, and industrially applicable invention for typically 20 years."
+  },
+  {
+    "id": "MBA8101_119",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "A 'Trademark' legally protects:",
+    "options": [
+      "Original literary, artistic, and musical compositions",
+      "Distinctive signs, logos, words, or designs that distinguish goods/services of one enterprise from those of others",
+      "The mechanical working mechanism of an internal combustion engine",
+      "Confidential internal formulas and manufacturing client lists"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trademarks protect brand identity identifiers—such as brand names, logos, slogans, and distinctive trade dress—preventing consumer confusion."
+  },
+  {
+    "id": "MBA8101_120",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is the principle of 'Limited Liability' in corporate jurisprudence?",
+    "options": [
+      "Shareholders are personally liable for all debts and torts committed by the corporation up to their total personal wealth",
+      "Shareholders' financial liability for corporate losses and debts is strictly capped at the amount they invested in their shares",
+      "Directors are immune from criminal prosecution for fraudulent corporate acts",
+      "The company cannot borrow money exceeding its paid-up capital"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Limited liability shields shareholders' personal assets; investors can lose at most their invested equity if the company fails."
+  },
+  {
+    "id": "MBA8101_121",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "In business law, 'Caveat Emptor' is a Latin maxim translating to:",
+    "options": [
+      "'Let the seller beware'",
+      "'Let the buyer beware'",
+      "'Contract without consideration is void'",
+      "'Justice delayed is justice denied'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Caveat emptor ('let the buyer beware') places the onus on the purchaser to examine and evaluate goods prior to completing a transaction."
+  },
+  {
+    "id": "MBA8101_122",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "The General Data Protection Regulation (GDPR) enacted by the European Union grants individuals the right to:",
+    "options": [
+      "Exemption from all federal income taxation",
+      "Data privacy, access to personal data, and the 'Right to be Forgotten' (data erasure)",
+      "Free broadband internet connectivity subsidized by employers",
+      "Unlimited software downloads without software licensing fees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GDPR is a benchmark privacy regulation granting citizens rights over personal data collection, processing consent, portability, and erasure."
+  },
+  {
+    "id": "MBA8101_123",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is 'Disinvestment' (or Divestment) in the context of public sector industrial policy?",
+    "options": [
+      "The government liquidation or sale of its equity stake in public sector enterprises to private investors or the public",
+      "The nationalization of private banking institutions by decree",
+      "Increasing government fiscal grants to loss-making state corporations",
+      "Banning all foreign investment across manufacturing sectors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disinvestment involves a government selling minority or majority equity stakes in state-owned enterprises to private capital or public markets."
+  },
+  {
+    "id": "MBA8101_124",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is a 'Public-Private Partnership' (PPP)?",
+    "options": [
+      "A merger between two competing private stock-listed corporations",
+      "A long-term contract between a government agency and a private party for delivering a public asset or infrastructure service",
+      "A charity event hosted jointly by a corporate sponsor and a municipal council",
+      "A hostile takeover of a municipal water provider by foreign hedge funds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PPPs combine public oversight with private sector capital, technological innovation, and operational efficiency to build infrastructure (e.g., toll roads, hospitals)."
+  },
+  {
+    "id": "MBA8101_125",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What constitutes 'Predatory Pricing' under anti-monopoly regulations?",
+    "options": [
+      "Pricing goods above market rates to exploit desperate consumers during a shortage",
+      "Pricing goods deliberately below cost with the intention of bankrupting rivals and establishing a monopoly",
+      "Offering standard volume discounts to wholesale retail buyers",
+      "Matching a competitor's advertised retail price during a promotional weekend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Predatory pricing is an anti-competitive practice where a dominant firm sells below cost to drive competitors out of business, then raises prices later."
+  },
+  {
+    "id": "MBA8101_126",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "The 'Polluter Pays Principle' dictates that:",
+    "options": [
+      "Governments must subsidize the cleanup costs of all heavy industrial chemical spills",
+      "The party responsible for producing pollution must bear the full financial costs of managing, cleaning, and remedying the environmental damage",
+      "Consumers must pay an additional 20% sales tax on all plastic merchandise",
+      "Factories are permitted to pollute freely if they employ more than 1,000 workers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Polluter Pays Principle internalizes environmental externalities by making polluting enterprises legally and financially liable for environmental harm."
+  },
+  {
+    "id": "MBA8101_127",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What legal doctrine allows an employer to be held legally liable for the wrongful acts or torts committed by an employee during the course of employment?",
+    "options": [
+      "Vicarious Liability (Respondeat Superior)",
+      "Strict Caveat Venditor",
+      "Ultra Vires",
+      "Force Majeure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vicarious liability holds an employer legally responsible for the unlawful or negligent actions of employees committed within the scope of employment."
+  },
+  {
+    "id": "MBA8101_128",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is a 'Force Majeure' clause in commercial agreements?",
+    "options": [
+      "A clause freeing both parties from contractual liability and obligations when an extraordinary, unforeseeable event or act of God beyond their control occurs",
+      "A clause mandating that the larger corporate entity dictates contract terms",
+      "A clause requiring automatic annual price inflation increases of 10%",
+      "A clause forbidding employees from forming trade unions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Force majeure excuses contractual non-performance when extraordinary, unavoidable events (e.g., natural disasters, wars, pandemics) occur."
+  },
+  {
+    "id": "MBA8101_129",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is the doctrine of 'Ultra Vires' in company law?",
+    "options": [
+      "Any act performed by a corporation that exceeds the scope of powers granted by its memorandum of association is legally void",
+      "Any contract signed by a director is legally binding regardless of authorization",
+      "The company must distribute 100% of net profits as cash dividends",
+      "The legal authority of the chief executive to override court orders"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ultra vires ('beyond the powers') renders any corporate transaction void if it exceeds the legal authority outlined in the company's constitutional documents."
+  },
+  {
+    "id": "MBA8101_130",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "Which form of intellectual property protects confidential business information that provides an enterprise with a competitive edge (e.g., Coca-Cola recipe)?",
+    "options": [
+      "Patent",
+      "Industrial Design",
+      "Trade Secret",
+      "Trademark"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trade secrets protect confidential formulas, practices, processes, and designs without requiring public disclosure or formal expiration dates."
+  },
+  {
+    "id": "MBA8101_131",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is 'Arbitration' in commercial dispute resolution?",
+    "options": [
+      "A formal, binding alternative dispute resolution mechanism where an independent neutral third party (arbitrator) adjudicates a commercial dispute out of court",
+      "A public courtroom jury trial broadcast on national television",
+      "A street protest conducted by dissatisfied retail consumers",
+      "A unilateral renegotiation of invoice amounts by a purchasing manager"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arbitration is a private, legally binding dispute resolution process chosen by contracting parties to avoid protracted public court litigation."
+  },
+  {
+    "id": "MBA8101_132",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is 'Deregulation' in macroeconomic policy?",
+    "options": [
+      "The nationalization of private telecommunications and banking firms",
+      "The reduction or elimination of government regulations, price controls, and entry barriers in an industry to foster competition and market efficiency",
+      "The introduction of strict new quotas on imported manufactured components",
+      "Mandating that all corporate directors be appointed by parliament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Deregulation removes state restrictions and price controls from industries (e.g., aviation, telecommunications) to enhance efficiency and competition."
+  },
+  {
+    "id": "MBA8101_133",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "A 'Hostile Takeover' occurs when:",
+    "options": [
+      "The target company's board of directors enthusiastically recommends the merger to shareholders",
+      "An acquiring firm attempts to take control of a target company against the explicit wishes of the target company's management and board",
+      "Two equal companies agree to consolidate operations under a shared executive committee",
+      "A private enterprise is seized by state military authorities during a national emergency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hostile takeover involves acquiring control of a target firm by bypassing its board—often through a direct tender offer to shareholders or proxy fight."
+  },
+  {
+    "id": "MBA8101_134",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is a 'Poison Pill' (Shareholder Rights Plan) in corporate defense strategies?",
+    "options": [
+      "A legal defense mechanism that allows existing shareholders to buy additional shares at a deep discount, diluting the acquirer's stake in a hostile takeover",
+      "A chemical safety measure installed in manufacturing facilities",
+      "An aggressive marketing campaign launched to discredit a competitor's brand",
+      "A financial penalty imposed by the stock exchange for late filing of financial statements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A poison pill is an anti-takeover measure that makes a target company financially unattractive or dilutive to an unwelcome hostile bidder."
+  },
+  {
+    "id": "MBA8101_135",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is 'Consumer Protection Law' designed to safeguard?",
+    "options": [
+      "The right of monopolistic firms to fix minimum resale prices",
+      "The rights of consumers against unfair trade practices, defective products, deceptive advertising, and unsafe goods",
+      "The personal assets of corporate executives against class action lawsuits",
+      "The right of commercial banks to withhold depositor funds indefinitely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Consumer protection statutes ensure fair trade, accurate labeling, product safety standards, and remedies against fraudulent business practices."
+  },
+  {
+    "id": "MBA8101_136",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "Under employment legislation, what is 'Constructive Dismissal'?",
+    "options": [
+      "When an employer terminates an employee through a formal written severance letter with full benefits",
+      "When an employee resigns because the employer created or tolerated an intolerable, hostile working environment or fundamentally breached the employment contract",
+      "When an employee is promoted to an executive role with higher compensation",
+      "When a company shuts down a manufacturing branch due to technological obsolescence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Constructive dismissal occurs when an employee is forced to quit due to an employer's intolerable behavior or fundamental breach of contract."
+  },
+  {
+    "id": "MBA8101_137",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is 'Collective Bargaining' in industrial relations?",
+    "options": [
+      "The negotiation process between an employer (or employers' organization) and a trade union representing workers to determine wages and working conditions",
+      "A price haggling transaction between retail buyers and street market vendors",
+      "A board room debate regarding executive share option schemes",
+      "An auction process for liquidating surplus industrial machinery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Collective bargaining is the formal negotiation between union representatives and management regarding compensation, hours, benefits, and safety."
+  },
+  {
+    "id": "MBA8101_138",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is an 'Injunction' in civil jurisprudence?",
+    "options": [
+      "A judicial order compelling a party to perform, or restraining a party from continuing, a specific act or conduct",
+      "A monetary fine levied on an individual for minor parking violations",
+      "A corporate certificate of incorporation issued by the commercial registry",
+      "A receipt issued upon the delivery of maritime container cargo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An injunction is an equitable court remedy ordering a party to do or refrain from doing a specific act (e.g., halting trademark infringement)."
+  },
+  {
+    "id": "MBA8101_139",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "What is 'Industrial Sickness' in industrial policy and corporate turnaround management?",
+    "options": [
+      "An outbreak of contagious disease among factory personnel",
+      "A condition where an industrial enterprise suffers persistent operational losses, net worth erosion, and inability to service its financial liabilities",
+      "A temporary drop in quarterly retail sales due to seasonal rainfall",
+      "A minor dispute between middle management supervisors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Industrial sickness describes companies facing chronic losses, capital erosion, severe liquidity distress, and near-insolvency requiring turnaround or liquidation."
+  },
+  {
+    "id": "MBA8101_140",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Legal & Industrial Environment",
+    "question": "The legal entity created when an organization incorporates is characterized as an 'Artificial Legal Person', meaning:",
+    "options": [
+      "It has no legal rights and cannot enter into contracts in its own name",
+      "It enjoys a distinct legal personality separate from its shareholders and can own property, sue, and be sued in its own corporate name",
+      "It is operated exclusively by automated artificial intelligence algorithms",
+      "Its existence terminates automatically whenever an individual shareholder passes away"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Corporate personality (Solomon v. Solomon) grants the incorporated entity distinct legal status, perpetual succession, and the power to own assets and contract independently."
+  },
+  {
+    "id": "MBA8101_141",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "The 'Circular Economy' model seeks to replace the traditional linear 'take-make-dispose' industrial model with which core principle?",
+    "options": [
+      "Accelerating product obsolescence to boost annual retail consumption",
+      "Designing out waste and pollution, keeping products and materials in high-value use, and regenerating natural systems",
+      "Transitioning all industrial production to single-use plastics",
+      "Mandating that all corporate employees telecommute five days a week"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The circular economy focuses on restorative, closed-loop systems: reuse, refurbishment, remanufacturing, and recycling to eliminate waste."
+  },
+  {
+    "id": "MBA8101_142",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "In modern technological business environments, 'Fintech' refers to:",
+    "options": [
+      "The physical architecture of bank branch buildings",
+      "Innovative technology-driven solutions and platforms transforming traditional financial and banking services",
+      "The metallurgical process of minting sovereign coins",
+      "Corporate accounting software used exclusively by tax authorities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fintech encompasses digital innovations (mobile payments, peer-to-peer lending, robo-advisory, blockchain) disrupting financial services."
+  },
+  {
+    "id": "MBA8101_143",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Disruptive Innovation' as coined by Clayton Christensen?",
+    "options": [
+      "An incremental improvement in product packaging by an established market incumbent",
+      "An innovation that transforms an existing market by introducing simplicity, convenience, and affordability, eventually displacing established industry leaders",
+      "A temporary labor strike that halts manufacturing operations for two days",
+      "A sudden spike in national electricity tariffs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Disruptive innovations start in low-end or new-market footholds with simpler, cheaper solutions and gradually move upmarket, displacing established incumbents."
+  },
+  {
+    "id": "MBA8101_144",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What does 'Industry 4.0' represent in manufacturing and operations management?",
+    "options": [
+      "The initial introduction of steam-powered mechanical looms in the 18th century",
+      "The smart integration of cyber-physical systems, Internet of Things (IoT), cloud computing, AI, and big data in industrial manufacturing",
+      "The complete elimination of factory machinery in favor of artisan craftsmanship",
+      "The manual filing of inventory spreadsheets in physical paper archives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Industry 4.0 (the Fourth Industrial Revolution) merges digital technologies, IoT, smart sensors, robotics, and big data into interconnected manufacturing systems."
+  },
+  {
+    "id": "MBA8101_145",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "The 'Carbon Footprint' of a business enterprise represents:",
+    "options": [
+      "The physical surface area occupied by a corporate office building",
+      "The total greenhouse gas emissions (in CO2 equivalents) caused directly and indirectly by the organization's activities and operations",
+      "The monetary cost of coal purchased for winter heating",
+      "The number of electric vehicles owned in the corporate motor pool"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A carbon footprint quantifies the total volume of greenhouse gas emissions generated across direct (Scope 1), indirect (Scope 2), and value-chain (Scope 3) activities."
+  },
+  {
+    "id": "MBA8101_146",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Carbon Offsetting' in corporate sustainability strategy?",
+    "options": [
+      "Purchasing credits generated by certified greenhouse gas reduction projects (e.g., reforestation, renewable energy) to compensate for unavoidable internal emissions",
+      "Hiding pollution emissions data from environmental regulatory authorities",
+      "Painting industrial smokestacks green to blend into natural landscapes",
+      "Stopping all manufacturing activities permanently during winter months"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon offsets allow companies to balance unavoidable emissions by funding certified external projects that reduce or remove greenhouse gases elsewhere."
+  },
+  {
+    "id": "MBA8101_147",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "The term 'Platform Economy' describes business models (like Uber, Airbnb, Amazon) that create value primarily by:",
+    "options": [
+      "Owning massive inventories of physical real estate and vehicle fleets",
+      "Facilitating direct exchanges and network interactions between interdependent groups of producers and consumers via digital ecosystems",
+      "Manufacturing heavy industrial machinery for state-owned railways",
+      "Operating physical high-street retail department stores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Platform business models leverage two-sided digital networks to connect buyers and sellers, generating value through ecosystem matching and network effects."
+  },
+  {
+    "id": "MBA8101_148",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Cloud Computing' in corporate information infrastructure?",
+    "options": [
+      "Storing physical paper files in climate-controlled mountain vaults",
+      "On-demand delivery of computing services (servers, storage, databases, networking, software) over the internet with pay-as-you-go pricing",
+      "Using weather forecasting satellites to track maritime cargo shipping",
+      "Operating localized desktop computers without internet connectivity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cloud computing delivers scalable IT resources over the internet, converting fixed capital infrastructure expenditures into flexible operational costs."
+  },
+  {
+    "id": "MBA8101_149",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Big Data' characterized by in modern business analytics?",
+    "options": [
+      "Small spreadsheets analyzed with hand calculators",
+      "High Volume, High Velocity, and High Variety of information assets that require advanced architectures for insights and decision-making",
+      "Historical accounting journals stored on microfiche film",
+      "Exclusively text-based emails sent between corporate executives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Big Data is defined by the '3Vs' (Volume, Velocity, Variety) and provides predictive analytics and real-time business intelligence."
+  },
+  {
+    "id": "MBA8101_150",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "In modern human resource and societal business environments, 'DEI' stands for:",
+    "options": [
+      "Dividend Earnings and Inflation",
+      "Diversity, Equity, and Inclusion",
+      "Development, Engineering, and Implementation",
+      "Depreciation, Expense, and Interest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DEI represents corporate frameworks and cultural commitments to workplace Diversity, Equity, and Inclusion."
+  },
+  {
+    "id": "MBA8101_151",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Cryptocurrency' and 'Blockchain' technology based on?",
+    "options": [
+      "Centralized banking ledgers managed exclusively by sovereign national treasuries",
+      "Decentralized, distributed cryptographic ledgers that record transactions across a network without requiring a central intermediary",
+      "Physical paper stock certificates stored in commercial bank vaults",
+      "Standard credit card magnetic stripes used at retail point-of-sale terminals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blockchain is a decentralized distributed ledger that cryptographically validates transactions across peer-to-peer networks without central intermediaries."
+  },
+  {
+    "id": "MBA8101_152",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "The concept of 'Servitization' in manufacturing occurs when a manufacturing firm:",
+    "options": [
+      "Transitions from merely selling physical standalone products to providing integrated bundles of goods and high-value ongoing services (e.g., Rolls-Royce 'Power by the Hour')",
+      "Shuts down customer service hotlines to cut operational overhead",
+      "Outsources 100% of executive leadership to foreign consulting firms",
+      "Replaces all salaried employees with temporary unpaid interns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Servitization transforms traditional manufacturing by bundling products with ongoing maintenance, analytics, and performance-based service contracts."
+  },
+  {
+    "id": "MBA8101_153",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Renewable Energy' as an environmental business driver?",
+    "options": [
+      "Energy derived from finite fossil reserves like coal and crude petroleum",
+      "Energy collected from resources that are naturally replenished on a human timescale, such as solar, wind, geothermal, and hydroelectric power",
+      "Energy generated exclusively from single-use diesel generators",
+      "Burning municipal plastic waste in open-air incinerators"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Renewable energy harnesses infinite or rapidly replenishing natural forces, mitigating greenhouse gas emissions and fossil fuel resource depletion."
+  },
+  {
+    "id": "MBA8101_154",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What does 'EPR' (Extended Producer Responsibility) mandate for manufacturers?",
+    "options": [
+      "Manufacturers are only responsible for products until they are purchased at retail checkouts",
+      "Manufacturers are legally and financially responsible for the entire lifecycle of their products, including post-consumer take-back, recycling, and final disposal",
+      "Manufacturers are required to guarantee lifetime employment to all factory workers",
+      "Manufacturers must fund public television commercials for municipal authorities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EPR policies hold producers accountable for the post-consumer phase of goods (e.g., electronic e-waste, packaging, automotive recycling)."
+  },
+  {
+    "id": "MBA8101_155",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "In business ethics and social trends, what is 'Corporate Digital Responsibility' (CDR)?",
+    "options": [
+      "The practice of buying the latest smartphone models for executive staff",
+      "The set of shared values and norms governing an organization's ethical, socially responsible creation and operation of digital technology, data, and AI",
+      "Installing antivirus software on personal home computers",
+      "Sending automated promotional emails to customer databases daily"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CDR addresses the ethical governance of digital technologies, AI algorithms, data privacy, algorithmic fairness, and digital environmental footprints."
+  },
+  {
+    "id": "MBA8101_156",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Social Entrepreneurship'?",
+    "options": [
+      "A venture designed solely to maximize short-term cash dividends for founders",
+      "An entrepreneurial approach that applies market-based business techniques and innovations to solve systemic social, cultural, or environmental problems",
+      "A state-owned municipal agency funded 100% through local property taxation",
+      "A pyramid marketing scheme promoted across social media networks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Social entrepreneurs build self-sustaining business enterprises whose primary mission is generating positive social and ecological impact alongside financial sustainability."
+  },
+  {
+    "id": "MBA8101_157",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Biomimicry' in sustainable product design and business innovation?",
+    "options": [
+      "Destroying natural habitats to construct modern industrial parks",
+      "The practice of learning from and mimicking nature's engineering, biological forms, and ecosystem processes to solve complex human and design challenges",
+      "Creating synthetic plastic food packaging that resembles tree leaves",
+      "Testing cosmetic chemicals on laboratory animals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biomimicry derives sustainable engineering and architectural solutions by emulating biological structures and natural evolutionary designs."
+  },
+  {
+    "id": "MBA8101_158",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Gig Economy' in modern labor markets?",
+    "options": [
+      "A labor market characterized by the prevalence of short-term contracts or freelance work as opposed to permanent jobs, often facilitated by digital platforms",
+      "A corporate compensation system based exclusively on live musical performances",
+      "A mandatory government employment program for university graduates",
+      "An industrial manufacturing sector producing heavy electric generators"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The gig economy relies on flexible, task-based freelance arrangements and platform matching (e.g., ridesharing, freelance marketplaces)."
+  },
+  {
+    "id": "MBA8101_159",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Algorithmic Bias' in corporate AI adoption?",
+    "options": [
+      "When artificial intelligence models operate with 100% mathematical perfection across all demographics",
+      "Systematic and repeatable errors in computer systems that create unfair outcomes, such as privileging one arbitrary group of users over others based on historical training data",
+      "The electrical power surges that disrupt mainframe computer servers",
+      "The scheduled weekly maintenance conducted on corporate databases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Algorithmic bias occurs when machine learning models inherit, amplify, or reflect historical discrimination and skewed data, leading to unfair decisions."
+  },
+  {
+    "id": "MBA8101_160",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is the 'Sharing Economy' (Collaborative Consumption)?",
+    "options": [
+      "A state-mandated rationing of consumer goods during wartime",
+      "An economic model defined as a peer-to-peer (P2P) based activity of acquiring, providing, or sharing access to goods and services facilitated by an online platform",
+      "A corporate policy requiring employees to share desks and stationery",
+      "A retail marketing tactic where customers receive free product samples"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sharing economy maximizes asset utilization by providing shared access to underused assets (e.g., cars, spare rooms, tools) via peer-to-peer networks."
+  },
+  {
+    "id": "MBA8101_161",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What does 'LEED' (Leadership in Energy and Environmental Design) certification assess?",
+    "options": [
+      "The speed of executive decision-making during board meetings",
+      "The environmental performance, energy efficiency, and sustainable construction of green buildings and corporate real estate",
+      "The chemical composition of pharmaceutical tablets",
+      "The academic accreditation of business school faculty"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LEED is the world's most widely used green building rating system, certifying energy efficiency, water conservation, and sustainable materials."
+  },
+  {
+    "id": "MBA8101_162",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Glocalization' in multinational business strategy?",
+    "options": [
+      "A strategy that standardizes 100% of product features worldwide with zero local adaptation",
+      "The simultaneous pursuit of global brand consistency and local cultural adaptation ('Think Global, Act Local')",
+      "A complete trade boycott of all international commerce",
+      "The relocation of corporate headquarters into neutral international waters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glocalization blends global branding, economies of scale, and quality standards with tailored localization for regional consumer tastes and customs."
+  },
+  {
+    "id": "MBA8101_163",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "The 'Paris Climate Agreement' aims to limit global average temperature rise to:",
+    "options": [
+      "Well below 2.0 degrees Celsius above pre-industrial levels, with efforts to limit it to 1.5 degrees Celsius",
+      "Exactly 5.0 degrees Celsius above pre-industrial levels",
+      "Zero degrees Celsius relative to current atmospheric levels",
+      "No defined scientific temperature target"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Paris Agreement legally commits signatories to keep global temperature rise well below 2°C, striving for 1.5°C to avert severe climate disruption."
+  },
+  {
+    "id": "MBA8101_164",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Crowdsourcing' in modern business innovation?",
+    "options": [
+      "Hiring thousands of permanent full-time corporate employees in a single day",
+      "The practice of obtaining needed services, ideas, or content by soliciting contributions from a large, open online community or crowd rather than traditional employees",
+      "Gathering physical crowds inside retail stores using loud megaphone announcements",
+      "Managing traffic flows inside public railway stations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crowdsourcing harnesses the collective intelligence, creativity, and problem-solving capabilities of diverse online communities to drive innovation."
+  },
+  {
+    "id": "MBA8101_165",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "In corporate sustainability governance, 'Scope 1' emissions refer to:",
+    "options": [
+      "Indirect emissions from the generation of purchased electricity, steam, heating, and cooling consumed by the reporting company",
+      "Direct greenhouse gas emissions from company-owned or controlled sources (e.g., boilers, furnaces, corporate vehicle fleets)",
+      "All other indirect emissions across the entire supply chain value network (e.g., business travel, waste disposal)",
+      "Emissions produced exclusively by competitor organizations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under the GHG Protocol: Scope 1 = direct emissions from owned/controlled assets; Scope 2 = indirect emissions from purchased energy; Scope 3 = value chain emissions."
+  },
+  {
+    "id": "MBA8101_166",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is 'Quantum Computing' expected to bring to business intelligence and cryptography?",
+    "options": [
+      "Slower data processing speeds than traditional mechanical calculating machines",
+      "Exponential computational speedups for complex optimization problems, material simulations, and molecular discovery by leveraging quantum mechanical phenomena",
+      "The physical reduction of computer screen sizes to micro-dimensions",
+      "A complete return to analogue paper filing systems"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quantum computing utilizes qubits (superposition and entanglement) to solve complex combinatorial optimization, simulation, and analytical problems exponentially faster."
+  },
+  {
+    "id": "MBA8101_167",
+    "courseCode": "MBA 8101",
+    "courseTitle": "Business Environment",
+    "topic": "Technological & Ecological Business",
+    "question": "What is the ultimate business objective of aligning corporate strategy with the UN Sustainable Development Goals (SDGs)?",
+    "options": [
+      "To generate PR press releases while maintaining unsustainable practices",
+      "To capture market opportunities, mitigate systemic environmental/social risks, foster resilient stakeholder trust, and build long-term shared value",
+      "To evade all national labor inspections and corporate tax obligations",
+      "To eliminate all private ownership in favor of state monopolies"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aligning with the 17 UN SDGs positions businesses to capture new sustainable markets, build resilient supply chains, and create long-term shared value."
+  }
+]

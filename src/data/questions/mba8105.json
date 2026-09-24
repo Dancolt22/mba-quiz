@@ -1,0 +1,2507 @@
+[
+  {
+    "id": "MBA8105_001",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "Which level of the organizational information system hierarchy primarily handles daily routine, operational transactions like sales processing and payroll?",
+    "options": [
+      "Executive Support Systems (ESS)",
+      "Decision Support Systems (DSS)",
+      "Transaction Processing Systems (TPS)",
+      "Management Information Systems (MIS)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transaction Processing Systems (TPS) record and process daily routine operational transactions essential to business conduct (e.g., POS checkouts, ATM withdrawals, payroll)."
+  },
+  {
+    "id": "MBA8105_002",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "A 'Decision Support System' (DSS) is characterized by its ability to:",
+    "options": [
+      "Generate automated, standardized end-of-month accounting printouts",
+      "Assist middle and senior managers in solving non-routine, semi-structured problems using analytical models and what-if simulations",
+      "Physically control warehouse conveyor belts using mechanical relays",
+      "Automate the sending of standard employee welcome emails"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DSS combines data and sophisticated analytical models or data analysis tools to support semi-structured and unstructured decision-making."
+  },
+  {
+    "id": "MBA8105_003",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "Executive Support Systems (ESS) or Executive Information Systems (EIS) are tailored specifically for top-tier executives by providing:",
+    "options": [
+      "High-level strategic insights, drill-down capabilities, digital dashboards, and competitive intelligence with intuitive visual summaries",
+      "Line-by-line coding interfaces for debugging software programs",
+      "Detailed daily punch-card attendance logs for factory workers",
+      "Raw SQL query editors without graphical interfaces"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ESS/EIS delivers executive-level dashboards, portal views, and external macro-trend intelligence to support long-term strategic decision-making."
+  },
+  {
+    "id": "MBA8105_004",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "In Michael Porter's Information Systems framework, how can an organization use IT to achieve 'Cost Leadership'?",
+    "options": [
+      "By spending maximum capital on bespoke luxury hardware for every staff member",
+      "By automating supply chain processes, eliminating transactional overhead, and streamlining operations to produce goods at the lowest cost",
+      "By shutting down all digital systems and relying entirely on paper records",
+      "By increasing the price of digital services by 50% annually"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IT drives cost leadership through automated workflows, lean inventory systems (JIT), efficient logistics routing, and lower transaction costs."
+  },
+  {
+    "id": "MBA8105_005",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Business Process Reengineering' (BPR) as defined by Michael Hammer and James Champy?",
+    "options": [
+      "Making minor incremental 1% improvements to existing departmental tasks",
+      "The fundamental rethinking and radical redesign of core business processes to achieve dramatic improvements in critical performance measures like cost, quality, service, and speed",
+      "Replacing desktop computer monitors with laptops",
+      "Outsourcing the entire accounting department to unpaid interns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BPR involves radical redesign of end-to-end business processes, leveraging modern IT capabilities to eliminate non-value-adding operational steps."
+  },
+  {
+    "id": "MBA8105_006",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "Which role in an enterprise is primarily responsible for aligning information technology strategy with overarching business goals, IT architecture, and digital transformation?",
+    "options": [
+      "Chief Information Officer (CIO)",
+      "Database Administrator (DBA)",
+      "Network Technician",
+      "Helpdesk Support Representative"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Chief Information Officer (CIO) leads enterprise-wide IT strategy, governance, technology investments, and digital business alignment."
+  },
+  {
+    "id": "MBA8105_007",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is the difference between 'Data', 'Information', and 'Knowledge' in information systems theory?",
+    "options": [
+      "Data are raw, unorganized facts; Information is data processed and structured in context; Knowledge is information combined with experience, context, and actionable insight",
+      "Data is always printed on paper; Information is always on screens; Knowledge is only in libraries",
+      "There is zero difference; the three terms are completely interchangeable",
+      "Knowledge is raw binary bits; Data is executive wisdom"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Data represents raw unprocessed facts/symbols. Processed into meaningful context, it becomes Information. When applied with human understanding and experience, it becomes Knowledge."
+  },
+  {
+    "id": "MBA8105_008",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What does a 'Digital Dashboard' provide to corporate managers?",
+    "options": [
+      "A physical wooden board hanging on the office wall",
+      "A real-time, visual reporting tool that displays Key Performance Indicators (KPIs), metrics, and critical data points on a single interactive screen",
+      "An instrument panel installed on company motor vehicles",
+      "A software interface used exclusively for writing computer code"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Digital dashboards aggregate real-time enterprise metrics and KPIs, offering high-level visibility and deep drill-down analytics for decision-makers."
+  },
+  {
+    "id": "MBA8105_009",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "In strategic IS planning, what is 'Strategic Alignment'?",
+    "options": [
+      "Arranging office desks in a straight physical row",
+      "The degree to which the information technology mission, objectives, and plans support and are supported by the business mission, objectives, and plans",
+      "Purchasing computers from only one hardware vendor",
+      "Synchronizing employee wristwatches at the start of each business day"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strategic alignment ensures IT strategy, infrastructure, and portfolio investments directly support the long-term strategic goals and competitive advantages of the enterprise."
+  },
+  {
+    "id": "MBA8105_010",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "Which system is specifically designed to facilitate communication, coordination, document sharing, and collaboration among knowledge workers across an organization?",
+    "options": [
+      "Knowledge Management System (KMS) / Enterprise Collaboration System",
+      "Point-of-Sale (POS) Terminal",
+      "General Ledger Cash Book",
+      "Automated Teller Machine (ATM)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Knowledge Management Systems (KMS) and collaboration platforms capture, organize, and share organizational knowledge and foster team problem-solving."
+  },
+  {
+    "id": "MBA8105_011",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Tacit Knowledge' versus 'Explicit Knowledge' in Knowledge Management?",
+    "options": [
+      "Tacit knowledge is intuitive, internalized know-how and expertise in people's minds; Explicit knowledge is codified, documented, and easily articulated in manuals or databases",
+      "Tacit knowledge is stored on hard drives; Explicit knowledge is forgotten",
+      "Tacit knowledge is illegal; Explicit knowledge is mandatory",
+      "Tacit knowledge applies only to arithmetic; Explicit knowledge applies to literature"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nonaka and Takeuchi highlight that tacit knowledge (personal experience, intuition) must be externalized into explicit knowledge (documents, diagrams, manuals) to scale across firms."
+  },
+  {
+    "id": "MBA8105_012",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is the 'SECI Model' in organizational knowledge creation?",
+    "options": [
+      "Socialization, Externalization, Combination, and Internalization",
+      "Storage, Extraction, Computation, and Indexing",
+      "Security, Encryption, Compliance, and Inspection",
+      "Sales, Expenses, Capital, and Investment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nonaka's SECI model describes the knowledge conversion spiral: Socialization (tacit to tacit), Externalization (tacit to explicit), Combination (explicit to explicit), and Internalization (explicit to tacit)."
+  },
+  {
+    "id": "MBA8105_013",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "In competitive information strategy, what is 'Lock-In'?",
+    "options": [
+      "Physically locking office server rooms with padlocks",
+      "Creating high switching costs for customers through proprietary data formats, ecosystems, or integrated systems, making it difficult or costly to switch to rivals",
+      "Freezing employee computer keyboards after 5:00 PM",
+      "Restricting internet access on factory floor terminals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Customer lock-in occurs when switching to a competitor entails high financial, operational, or learning friction (e.g., Apple ecosystem, enterprise ERP integrations)."
+  },
+  {
+    "id": "MBA8105_014",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Shadow IT' in corporate organizations?",
+    "options": [
+      "IT hardware used strictly during nighttime shift rotations",
+      "Information technology systems, software, cloud services, and devices used inside an organization without explicit IT department approval or oversight",
+      "A backup server facility built inside an underground bomb shelter",
+      "The dark mode visual interface setting on smartphone operating systems"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shadow IT refers to unapproved SaaS tools, apps, or devices deployed by business units without IT department clearance, raising security and compliance vulnerabilities."
+  },
+  {
+    "id": "MBA8105_015",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Total Cost of Ownership' (TCO) for IT infrastructure?",
+    "options": [
+      "The sticker invoice price of physical computer hardware at purchase",
+      "A comprehensive financial estimate that includes direct and indirect costs of acquiring, deploying, operating, maintaining, securing, and upgrading IT assets throughout their full lifecycle",
+      "The monthly broadband internet subscription fee",
+      "The hourly wage paid to an external IT repair contractor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TCO accounts for capital costs, software licensing, installation, user training, technical support, maintenance, downtime, and decommissioning costs over an asset's lifespan."
+  },
+  {
+    "id": "MBA8105_016",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'IT Governance'?",
+    "options": [
+      "A government ministry that dictates computer screen brightness levels",
+      "The framework and leadership structures that ensure an organization's IT investments sustain and extend organizational strategies and objectives while managing risk (e.g., COBIT, ITIL)",
+      "A union representing computer repair technicians",
+      "The municipal zoning laws governing computer retail stores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IT Governance provides structural oversight, accountability, risk controls, and performance metrics to ensure IT delivers strategic value and aligns with enterprise risk tolerance."
+  },
+  {
+    "id": "MBA8105_017",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "Which framework provides a comprehensive set of controls and best practices for Enterprise IT Governance and Management?",
+    "options": [
+      "COBIT (Control Objectives for Information and Related Technologies)",
+      "SWOT Matrix",
+      "DuPont Formula",
+      "Gantt Chart"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COBIT (developed by ISACA) is the globally accepted framework for enterprise IT governance, risk management, and strategic alignment."
+  },
+  {
+    "id": "MBA8105_018",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'ITIL' (Information Technology Infrastructure Library)?",
+    "options": [
+      "A physical public library building containing computer science textbooks",
+      "A widely accepted framework of best practices for delivering, managing, and optimizing IT Service Management (ITSM) to meet business needs",
+      "A software programming language used for mainframe computers",
+      "A government regulatory commission overseeing internet domain names"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ITIL is the standard framework for IT service management (ITSM), covering service strategy, design, transition, operation, and continual service improvement."
+  },
+  {
+    "id": "MBA8105_019",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "In IT portfolio management, what is the purpose of categorizing IT investments into 'Run', 'Grow', and 'Transform'?",
+    "options": [
+      "To balance IT spending between keeping current operations running, expanding existing capabilities, and funding disruptive digital innovations",
+      "To schedule physical exercise routines for software development staff",
+      "To classify employee job performance into three salary grades",
+      "To organize database records alphabetically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Run-Grow-Transform model balances baseline maintenance ('Run the business'), capability enhancement ('Grow'), and new venture innovation ('Transform')."
+  },
+  {
+    "id": "MBA8105_020",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Digital Transformation'?",
+    "options": [
+      "Scanning physical paper receipts into PDF format",
+      "The profound integration of digital technology across all areas of a business, fundamentally changing how value is created, operations are conducted, and customer experiences are delivered",
+      "Buying new desktop computer monitors for executive managers",
+      "Sending promotional marketing emails to corporate clients"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Digital transformation goes beyond digitizing records; it fundamentally reshapes business models, culture, customer journeys, and organizational ecosystems through technology."
+  },
+  {
+    "id": "MBA8105_021",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What does 'Interoperability' mean in enterprise IT systems?",
+    "options": [
+      "The ability of diverse, heterogeneous information systems and software applications to communicate, exchange data, and use the information exchanged seamlessly",
+      "The speed at which a computer server restarts after a power failure",
+      "A legal dispute between two software vendors regarding copyright",
+      "The physical distance between two regional corporate data centers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interoperability ensures disparate platforms, legacy mainframes, and modern cloud microservices can exchange and interpret data coherently (via APIs and open standards)."
+  },
+  {
+    "id": "MBA8105_022",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is an 'API' (Application Programming Interface)?",
+    "options": [
+      "A software intermediary that allows two distinct applications to talk to and share data with each other using standardized protocols",
+      "An annual performance review conducted on software engineers",
+      "A mechanical tool used for opening desktop computer cases",
+      "An accounting standard used for calculating asset depreciation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "APIs define protocols and definitions allowing different software systems to communicate, share capabilities, and integrate securely (e.g., RESTful APIs, GraphQL)."
+  },
+  {
+    "id": "MBA8105_023",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Service-Oriented Architecture' (SOA)?",
+    "options": [
+      "A physical architectural blueprint for building customer service centers",
+      "A software design approach where application components provide services to other components via a communication protocol across a network, promoting modularity and reuse",
+      "A corporate policy requiring employees to provide excellent customer service",
+      "An IT department organizational hierarchy composed of support technicians"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SOA breaks complex applications into discrete, reusable software services that communicate via standard interfaces, increasing agility and business flexibility."
+  },
+  {
+    "id": "MBA8105_024",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "In modern cloud software engineering, how do 'Microservices' differ from 'Monolithic' architecture?",
+    "options": [
+      "Microservices build applications as a suite of small, independent, modular services running in their own processes and communicating via lightweight APIs, rather than a single unified codebase",
+      "Microservices only run on mobile smartphones; Monolithic only runs on mainframes",
+      "Microservices have zero software code; Monolithic has millions of lines",
+      "Microservices cannot connect to the internet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Microservices decouple systems into independently deployable, scalable services, eliminating single points of failure and enabling continuous deployment compared to rigid monoliths."
+  },
+  {
+    "id": "MBA8105_025",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "IS Strategy & Hierarchy",
+    "question": "What is 'Legacy System' in corporate IT management?",
+    "options": [
+      "A brand new cutting-edge software program launched this month",
+      "An outdated computing system, software application, or hardware technology that remains in use because it performs critical functions, despite high maintenance costs and integration challenges",
+      "A cash endowment left to an IT university department in a will",
+      "A company policy rewarding long-tenured IT employees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Legacy systems are mature, mission-critical systems (often written in COBOL or older architectures) that are costly to maintain, rigid, and risky to replace."
+  },
+  {
+    "id": "MBA8105_026",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is the primary defining characteristic of an 'Enterprise Resource Planning' (ERP) system (e.g., SAP S/4HANA, Oracle ERP)?",
+    "options": [
+      "A collection of isolated, separate departmental spreadsheets that never communicate",
+      "A centralized, integrated suite of business applications that share a single common database, facilitating real-time data flow across all business functions (Finance, HR, Manufacturing, Sales)",
+      "A desktop graphic design software program used for marketing posters",
+      "A physical conveyor belt system installed in industrial factories"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ERP systems integrate core business processes across departments into a unified platform backed by a single central database, eliminating information silos and redundant data entry."
+  },
+  {
+    "id": "MBA8105_027",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "Which of the following is the most frequent cause of massive cost overruns and failures in corporate ERP implementation projects?",
+    "options": [
+      "Purchasing too many server racks",
+      "Inadequate change management, excessive software customization, poor data cleansing, and lack of top executive leadership alignment",
+      "Selecting a software system that uses SQL databases",
+      "Upgrading employee desktop monitors before implementation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ERP failures are predominantly socio-technical: organizational resistance to change, lack of business process alignment, over-customization, and weak executive sponsorship."
+  },
+  {
+    "id": "MBA8105_028",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'Customer Relationship Management' (CRM) software (e.g., Salesforce, HubSpot) primarily designed to achieve?",
+    "options": [
+      "Manage end-to-end interactions with current and prospective customers across marketing, sales pipelines, customer service, and retention tracking",
+      "Calculate factory equipment depreciation for accounting reports",
+      "Automate the printing of shipping container cardboard labels",
+      "Monitor employee internet browsing history during work hours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRM systems consolidate customer data, manage sales leads and opportunity funnels, automate customer support ticketing, and optimize customer lifetime engagement."
+  },
+  {
+    "id": "MBA8105_029",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "In CRM systems, what is the '360-Degree Customer View'?",
+    "options": [
+      "A panoramic camera installed in retail storefronts",
+      "A comprehensive, unified single view of all customer interactions, purchase history, inquiries, preferences, and touchpoints aggregated across all corporate channels",
+      "A rotating carousel display for retail merchandise",
+      "An annual customer satisfaction survey sent via postal mail"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 360-degree view consolidates all customer interactions across sales, support, social media, web, and billing into a single dashboard for personalized service."
+  },
+  {
+    "id": "MBA8105_030",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'Supply Chain Management' (SCM) software designed to optimize?",
+    "options": [
+      "The physical layout of executive office desks",
+      "The end-to-end coordination and flow of materials, information, and finances from initial raw material suppliers through manufacturing to final customer delivery",
+      "The internal employee grievance filing process",
+      "The design of corporate holiday greeting cards"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SCM systems streamline procurement, demand forecasting, inventory optimization, production scheduling, and transportation logistics across the supply network."
+  },
+  {
+    "id": "MBA8105_031",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is the 'Bullwhip Effect' in supply chain management?",
+    "options": [
+      "A physical tool used to direct livestock in agricultural operations",
+      "The distortion and amplification of demand variability that occurs as information travels upstream from retailers to wholesalers to manufacturers and raw material suppliers",
+      "A sudden spike in employee turnover within warehouse facilities",
+      "A dramatic drop in corporate stock prices due to supply shortages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The bullwhip effect occurs when small fluctuations in retail demand trigger exaggerated swings in upstream supplier orders due to lack of visibility, batch ordering, and lead-time delays."
+  },
+  {
+    "id": "MBA8105_032",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "How does an integrated SCM system with real-time POS data sharing mitigate the Bullwhip Effect?",
+    "options": [
+      "By hiding sales data from upstream suppliers",
+      "By providing upstream supply chain partners with transparent, real-time demand signals and synchronized collaborative forecasting (CPFR)",
+      "By doubling inventory order sizes at each intermediate warehouse",
+      "By switching all transportation to air freight exclusively"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Collaborative Planning, Forecasting, and Replenishment (CPFR) and shared point-of-sale visibility eliminate guesswork and prevent exaggerated inventory swings."
+  },
+  {
+    "id": "MBA8105_033",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'Electronic Data Interchange' (EDI)?",
+    "options": [
+      "Sending casual emails between purchasing managers",
+      "The computer-to-computer exchange of standardized electronic business documents (such as purchase orders, invoices, and shipping notices) between trading partners",
+      "An interactive video conferencing call between corporate directors",
+      "A digital signature captured on a mobile touchscreen device"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EDI enables automated, structured, B2B exchange of commercial transaction documents using standardized protocols (e.g., ANSI X12, EDIFACT), eliminating manual paperwork."
+  },
+  {
+    "id": "MBA8105_034",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "In ERP systems, what is a 'Vanilla Implementation'?",
+    "options": [
+      "Implementing software that is exclusively used in the ice cream industry",
+      "Deploying the standard, out-of-the-box ERP system with minimal or zero software code customization, adapting internal business processes to match the software's best-practice workflows",
+      "A failed software deployment that produces zero functional output",
+      "An implementation executed exclusively during summer months"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A vanilla implementation adapts company processes to standard software workflows, avoiding costly customizations, bugs, and difficult future software upgrades."
+  },
+  {
+    "id": "MBA8105_035",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'Supply Chain Visibility'?",
+    "options": [
+      "Installing transparent glass walls in warehouse facilities",
+      "The ability of supply chain stakeholders to track components, sub-assemblies, and finished products in real-time as they travel from supplier origins to final destinations",
+      "Printing shipping manifests in large fluorescent fonts",
+      "Allowing customers to visit factory manufacturing floors on guided tours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Supply chain visibility leverages IoT sensors, RFID tags, GPS tracking, and cloud dashboards to provide real-time tracking of cargo location, condition, and status."
+  },
+  {
+    "id": "MBA8105_036",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What does 'SRM' stand for in enterprise software suites?",
+    "options": [
+      "Supplier Relationship Management",
+      "Standard Resource Measurement",
+      "System Risk Mitigation",
+      "Sales Revenue Model"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SRM software focuses on managing and optimizing procurement relationships, supplier evaluations, contract compliance, and supplier collaboration."
+  },
+  {
+    "id": "MBA8105_037",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'RFID' (Radio Frequency Identification) technology commonly used for in supply chains?",
+    "options": [
+      "Transmitting radio music broadcasts to factory workers",
+      "Automated, wireless tracking and identification of inventory items, pallets, and assets using radio waves without requiring direct optical line-of-sight scanning",
+      "Encrypting executive email communications",
+      "Measuring ambient room temperatures in corporate offices"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RFID tags transmit data via radio signals to scanners without direct line-of-sight, enabling rapid bulk inventory counting, pallet tracking, and theft prevention."
+  },
+  {
+    "id": "MBA8105_038",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "In CRM analytics, what is 'Recency, Frequency, and Monetary' (RFM) analysis?",
+    "options": [
+      "A method for evaluating customer value by analyzing how recently a customer purchased, how often they purchase, and how much money they spend",
+      "A financial formula for calculating employee payroll overtime bonuses",
+      "A radio frequency measurement technique for wireless routers",
+      "An accounting audit method for calculating corporate income tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RFM segmentation groups customers based on transaction behavior (Recency, Frequency, Monetary spend) to tailor targeted marketing campaigns and retention efforts."
+  },
+  {
+    "id": "MBA8105_039",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'Sales Force Automation' (SFA) in CRM systems?",
+    "options": [
+      "Replacing human sales representatives with mechanical robotic androids",
+      "Software capabilities that automate routine sales pipeline activities such as lead tracking, contact management, sales forecasting, order processing, and follow-up scheduling",
+      "A corporate training program for retail cashiers",
+      "A statutory labor law mandating minimum commissions for sales personnel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SFA streamlines and automates administrative sales pipeline workflows, allowing sales reps to focus on relationship building and deal closing."
+  },
+  {
+    "id": "MBA8105_040",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Applications (ERP, CRM, SCM)",
+    "question": "What is 'Vendor-Managed Inventory' (VMI)?",
+    "options": [
+      "When the customer takes full ownership of the supplier's manufacturing plant",
+      "A collaborative supply chain practice where the supplier (vendor) is responsible for monitoring customer inventory levels and replenishing stock at the customer's facility as needed",
+      "When a business sells all inventory at a 90% discount to liquidators",
+      "A software tool that blocks third-party vendors from accessing company data"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under VMI, the supplier has visibility into the buyer's inventory consumption and takes responsibility for maintaining agreed-upon stock levels, reducing stockouts and holding costs."
+  },
+  {
+    "id": "MBA8105_041",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "In a Relational Database Management System (RDBMS), what is a 'Primary Key'?",
+    "options": [
+      "A physical brass key used to unlock the server cabinet",
+      "A column or set of columns that uniquely identifies each individual row/record in a database table",
+      "The first employee hired in the IT department",
+      "A password used to log into the corporate email client"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Primary Key enforces entity integrity by ensuring every record in a relational database table is uniquely identifiable and non-null."
+  },
+  {
+    "id": "MBA8105_042",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is a 'Foreign Key' in relational database design?",
+    "options": [
+      "A database column containing international currency symbols",
+      "A field in one table that uniquely references and links to the primary key in another table, establishing a relationship between the two tables",
+      "A password used by foreign remote employees",
+      "A cryptographic key issued by foreign sovereign governments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Foreign keys enforce referential integrity across related tables, linking child records to parent entity primary keys."
+  },
+  {
+    "id": "MBA8105_043",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What does 'SQL' stand for, and what is its primary function?",
+    "options": [
+      "Structured Query Language; the standard programming language used to define, manipulate, manage, and query data in relational databases",
+      "System Quality Level; an engineering rating for server performance",
+      "Sales Quantity List; a monthly report of retail transactions",
+      "Software Quick Link; a browser bookmark tool"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SQL is the domain-specific standard language used for querying, updating, inserting, and managing data stored in relational database systems."
+  },
+  {
+    "id": "MBA8105_044",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is 'Database Normalization'?",
+    "options": [
+      "Converting all text data to uppercase letters",
+      "The systematic process of structuring a relational database (typically to 3NF) to reduce data redundancy, eliminate update anomalies, and ensure data integrity",
+      "Deleting historical records older than twelve months",
+      "Standardizing the physical dimensions of hard disk drives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Normalization organizes tables to minimize data duplication and prevent insert, update, and delete anomalies (e.g., 1NF, 2NF, 3NF)."
+  },
+  {
+    "id": "MBA8105_045",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What are the 'ACID' properties in transactional database management systems?",
+    "options": [
+      "Accuracy, Complexity, Integrity, and Durability",
+      "Atomicity, Consistency, Isolation, and Durability",
+      "Authorization, Cryptography, Identity, and Decentralization",
+      "Aggregation, Calculation, Indexing, and Distribution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ACID guarantees that database transactions are processed reliably: Atomicity (all or nothing), Consistency (valid state), Isolation (independent execution), Durability (persisted)."
+  },
+  {
+    "id": "MBA8105_046",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is the difference between 'OLTP' and 'OLAP' systems?",
+    "options": [
+      "OLTP (Online Transaction Processing) is optimized for fast, real-time transactional processing of daily operations; OLAP (Online Analytical Processing) is optimized for complex queries, historical aggregation, and multidimensional analysis",
+      "OLTP is used only on weekends; OLAP is used during weekdays",
+      "OLTP stores audio files; OLAP stores video files",
+      "OLTP has zero security; OLAP requires biometric scanning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "OLTP handles high volumes of rapid, concurrent transactional updates (e.g., banking transactions), while OLAP analyzes consolidated historical data for strategic business intelligence."
+  },
+  {
+    "id": "MBA8105_047",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is a 'Data Warehouse'?",
+    "options": [
+      "A physical storage room filled with cardboard boxes of printed paper documents",
+      "A centralized, subject-oriented, integrated, time-variant, and non-volatile repository of data collected from multiple operational sources used for analytics and decision-making",
+      "A commercial retail storefront that sells computer memory chips",
+      "A temporary cache memory on a personal laptop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Data warehouses consolidate cleansed historical data from across the enterprise (via ETL) into multidimensional schemas (star/snowflake) for analytical querying."
+  },
+  {
+    "id": "MBA8105_048",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "In data warehousing, what does 'ETL' stand for?",
+    "options": [
+      "Encrypt, Transfer, and Lock",
+      "Extract, Transform, and Load",
+      "Evaluate, Test, and Launch",
+      "Execute, Terminate, and Log"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ETL describes the pipeline process of Extracting raw data from disparate operational systems, Transforming/cleansing it to business standards, and Loading it into the data warehouse."
+  },
+  {
+    "id": "MBA8105_049",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is a 'Data Lake' compared to a 'Data Warehouse'?",
+    "options": [
+      "A data lake stores massive volumes of raw, unstructured, semi-structured, and structured data in its native format until needed; a data warehouse stores structured, pre-processed data in a predefined schema",
+      "A data lake is a physical reservoir of water used to cool mainframe servers",
+      "A data lake can only hold text files under 1 megabyte in size",
+      "A data lake is operated exclusively by municipal water utilities"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Data lakes store vast amounts of raw data (schema-on-read) using low-cost storage (e.g., Hadoop, Amazon S3), while data warehouses require structured preprocessing (schema-on-write)."
+  },
+  {
+    "id": "MBA8105_050",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What are the traditional 'Four Vs' of Big Data?",
+    "options": [
+      "Volume, Velocity, Variety, and Veracity",
+      "Validation, Vision, Value, and Viability",
+      "Virtualization, Vulnerability, Vector, and Voltage",
+      "Venture, Variable, Version, and Volume"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Big Data is characterized by high Volume (scale of data), Velocity (speed of generation/streaming), Variety (diverse formats: text, video, logs), and Veracity (data trustworthiness/quality)."
+  },
+  {
+    "id": "MBA8105_051",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is 'NoSQL' (Not Only SQL) database technology designed for?",
+    "options": [
+      "Managing strictly non-digital paper documents",
+      "Handling massive volumes of unstructured or semi-structured data, dynamic schemas, and horizontal scaling across distributed server clusters (e.g., MongoDB, Cassandra)",
+      "A database system that prohibits queries of any kind",
+      "A database that can only store numeric integers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NoSQL databases (Document, Key-Value, Columnar, Graph) provide flexible schemas and horizontal scalability for distributed, high-throughput modern applications."
+  },
+  {
+    "id": "MBA8105_052",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is 'Data Mining'?",
+    "options": [
+      "Physically digging underground tunnels to lay fiber optic cables",
+      "The computational process of discovering hidden patterns, anomalies, correlations, and actionable insights in large datasets using machine learning, statistics, and AI",
+      "Deleting corrupted sectors on magnetic hard disks",
+      "Manually typing customer phone numbers into spreadsheet cells"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Data mining extracts predictive patterns and previously unknown relationships from big datasets (e.g., market basket association rules, customer churn prediction)."
+  },
+  {
+    "id": "MBA8105_053",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is 'Business Intelligence' (BI)?",
+    "options": [
+      "An executive's biological IQ score measured during an interview",
+      "The technology-driven process and applications used for analyzing data, presenting actionable information, and helping executives and managers make informed business decisions",
+      "A corporate intelligence agency conducting industrial espionage",
+      "The instruction manual provided with computer hardware"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BI encompasses the tools, practices, and platforms (e.g., PowerBI, Tableau) that transform raw enterprise data into interactive visualizations, reports, and strategic insights."
+  },
+  {
+    "id": "MBA8105_054",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is 'Data Governance'?",
+    "options": [
+      "A parliamentary committee that regulates consumer electronics prices",
+      "The overall management of the availability, usability, integrity, consistency, and security of data used in an enterprise, governed by formal policies and standards",
+      "The legal ownership of physical computer monitors by the company",
+      "A government department that collects corporate income taxes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Data Governance establishes accountability, data quality standards, stewardship, access permissions, and regulatory compliance (e.g., GDPR) across enterprise data assets."
+  },
+  {
+    "id": "MBA8105_055",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Data Management, DBMS & Big Data",
+    "question": "What is 'Master Data Management' (MDM)?",
+    "options": [
+      "A master password that opens all corporate user accounts",
+      "A comprehensive method of enabling an enterprise to link all of its critical core data (such as customer, product, employee, and supplier entities) to a single, authoritative master record ('Single Version of the Truth')",
+      "The training program completed by database administrators",
+      "A software program used exclusively for backing up personal photos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MDM creates a single, consistent, authoritative golden record of foundational enterprise entities across disparate business applications."
+  },
+  {
+    "id": "MBA8105_056",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "In Cloud Computing, what does 'IaaS' (Infrastructure as a Service) provide to the client?",
+    "options": [
+      "Ready-to-use end-user applications delivered via a web browser (e.g., Gmail, Salesforce)",
+      "On-demand access to fundamental computing resources such as virtual machines, raw storage, and virtual networking, where the client manages the OS, middleware, and applications (e.g., AWS EC2)",
+      "A managed platform environment for developers to build and deploy apps without managing underlying servers (e.g., Heroku)",
+      "Physical computer monitors delivered by postal mail"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IaaS delivers raw infrastructure (virtual servers, storage, firewalls) where the customer manages the operating system, runtime, and software stack."
+  },
+  {
+    "id": "MBA8105_057",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What does 'PaaS' (Platform as a Service) deliver?",
+    "options": [
+      "A cloud development and deployment environment that provides operating systems, execution runtimes, databases, and web servers, allowing developers to build apps without managing server infrastructure (e.g., Google App Engine)",
+      "A physical desk for laptop placement in offices",
+      "Raw unformatted hard disk drives shipped to company headquarters",
+      "A turnkey customer relationship management web application"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PaaS provides hardware and software tools over the internet, allowing software developers to build, test, and host applications without managing underlying infrastructure."
+  },
+  {
+    "id": "MBA8105_058",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is 'SaaS' (Software as a Service)?",
+    "options": [
+      "Software delivered over the internet via a web browser on a subscription basis, where the cloud provider manages all underlying infrastructure, code, and maintenance (e.g., Microsoft 365, Salesforce)",
+      "Software printed on paper instruction cards",
+      "A custom operating system developed internally by a single company",
+      "A software program that can only run without an internet connection"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SaaS delivers fully managed end-user software applications over the web, eliminating client-side installation, patching, and infrastructure management."
+  },
+  {
+    "id": "MBA8105_059",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is a 'Hybrid Cloud' architecture?",
+    "options": [
+      "A computing environment that combines and coordinates on-premises private cloud infrastructure with third-party public cloud services, allowing data and apps to be shared between them",
+      "A cloud server powered by both solar panels and gasoline generators",
+      "A software application that works on both Windows and MacOS",
+      "A cloud provider owned jointly by two competing sovereign governments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hybrid cloud provides flexibility and data sovereignty by keeping sensitive mission-critical workloads on private clouds/on-premise while bursting scalable workloads to public clouds."
+  },
+  {
+    "id": "MBA8105_060",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is 'Elasticity' (or Scalability) in cloud computing?",
+    "options": [
+      "The physical flexibility of plastic ethernet cables",
+      "The ability of a cloud system to dynamically provision and de-provision computing power, memory, and storage in real-time to match fluctuating workload demands automatically",
+      "The ability of employees to work from home on alternate Fridays",
+      "A contract clause allowing software prices to increase by 20%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cloud elasticity enables dynamic auto-scaling: expanding server capacity during demand spikes (e.g., Black Friday) and scaling down to save costs when traffic recedes."
+  },
+  {
+    "id": "MBA8105_061",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is 'Virtualization' in cloud and data center architecture?",
+    "options": [
+      "The creation of virtual software representations of physical hardware assets (such as virtual servers, storage devices, and networks) using a hypervisor",
+      "Playing 3D video games during lunch breaks in the office",
+      "A digital drawing of a proposed physical building",
+      "Conducting board meetings via teleconference call"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Virtualization uses a hypervisor (e.g., VMware, KVM) to run multiple isolated virtual machines on a single physical server, maximizing hardware utilization and efficiency."
+  },
+  {
+    "id": "MBA8105_062",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is 'Serverless Computing' (e.g., AWS Lambda)?",
+    "options": [
+      "A computing model where computers operate without physical silicon microchips",
+      "A cloud execution model where the cloud provider dynamically manages server allocation and machine provisioning, charging only for the precise compute time consumed by executing functions",
+      "A company operating entirely without an internet connection",
+      "A peer-to-peer cryptocurrency network running on personal smartphones"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Serverless (Function-as-a-Service) abstracts server management completely; developers execute code event-driven, paying exclusively for exact millisecond execution time."
+  },
+  {
+    "id": "MBA8105_063",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is 'Edge Computing'?",
+    "options": [
+      "Placing computer monitors near the physical edges of office desks",
+      "A distributed computing paradigm that processes data near the source of data generation (e.g., IoT devices, local gateways) rather than relying solely on a centralized distant cloud data center, reducing latency",
+      "An extreme programming technique used by elite software hackers",
+      "Running server computers at maximum electrical voltage capacity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Edge computing processes sensor and telemetry data locally near devices (e.g., autonomous vehicles, industrial robotics), minimizing latency and bandwidth strain."
+  },
+  {
+    "id": "MBA8105_064",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is a 'Service Level Agreement' (SLA) in cloud service contracts?",
+    "options": [
+      "A casual verbal understanding between a vendor and buyer",
+      "A legally binding contract that defines specific measurable levels of service performance, uptime availability (e.g., 99.99% 'four nines'), and penalties/credits for outages",
+      "A user manual provided to retail software buyers",
+      "An employment contract signed by an IT technician"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An SLA defines guaranteed uptime availability, latency parameters, disaster recovery timelines, and financial remedies if the service provider fails to meet standards."
+  },
+  {
+    "id": "MBA8105_065",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud Computing & Infrastructure",
+    "question": "What is 'Multi-Tenancy' in cloud architecture?",
+    "options": [
+      "Multiple tenants living in a single corporate apartment building",
+      "A software architecture where a single instance of a software application serves multiple distinct customer organizations (tenants), while securely isolating each tenant's data and configurations",
+      "A company operating five separate corporate headquarters simultaneously",
+      "A software license that allows an individual to log in from two laptops"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multi-tenancy allows SaaS vendors to serve thousands of customers on a shared infrastructure pool, drastically reducing per-user hosting and maintenance costs."
+  },
+  {
+    "id": "MBA8105_066",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "The 'CIA Triad' is the foundational model for information security policies. What does 'CIA' stand for in this context?",
+    "options": [
+      "Central Intelligence Agency",
+      "Confidentiality, Integrity, and Availability",
+      "Control, Inspection, and Authorization",
+      "Compliance, Insurance, and Auditing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The CIA Triad is the core security benchmark: Confidentiality (privacy/no unauthorized access), Integrity (data accuracy/no tampering), and Availability (systems accessible when needed)."
+  },
+  {
+    "id": "MBA8105_067",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is 'Phishing' in cyber threat vectors?",
+    "options": [
+      "A recreational outdoor fishing activity organized for IT staff",
+      "A social engineering attack where malicious actors impersonate legitimate organizations via deceptive emails/messages to trick users into revealing sensitive credentials or downloading malware",
+      "A technical process for measuring optical network speed",
+      "A method of searching database records using wildcards"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phishing relies on psychological manipulation (urgency, spoofed domains) to dupe individuals into surrendering passwords, financial data, or installing malicious payloads."
+  },
+  {
+    "id": "MBA8105_068",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is 'Ransomware'?",
+    "options": [
+      "A fee paid to insurance companies to protect corporate servers",
+      "A type of malicious software that encrypts a victim's files or locks their system, demanding a ransom payment in cryptocurrency to restore access or prevent public data leakage",
+      "A commercial software subscription fee charged annually",
+      "A bonus paid to ethical security researchers who find bugs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ransomware locks critical enterprise files/systems using strong encryption, extorting ransoms under threat of permanent data loss or public exposure."
+  },
+  {
+    "id": "MBA8105_069",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is a 'Distributed Denial of Service' (DDoS) attack?",
+    "options": [
+      "A physical burglary of corporate server hard drives",
+      "A cyberattack where a perpetrator overwhelms a target server or network with a flood of fake internet traffic originating from multiple compromised systems (botnets), rendering the service inaccessible to legitimate users",
+      "A software bug that causes desktop calculators to crash",
+      "An intentional corporate shutdown for scheduled annual maintenance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DDoS attacks weaponize distributed networks of infected devices (botnets) to flood network bandwidth or server compute resources, causing service outages."
+  },
+  {
+    "id": "MBA8105_070",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is 'Two-Factor Authentication' (2FA) / Multi-Factor Authentication (MFA)?",
+    "options": [
+      "Entering the same password two times in succession",
+      "A security mechanism requiring users to provide two or more distinct verification factors to gain access: something you know (password), something you have (phone/token), or something you are (biometrics)",
+      "Having two different employees log in to the same computer simultaneously",
+      "Changing corporate passwords every two calendar days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MFA substantially reduces account compromise by demanding verification across multiple independent categories (knowledge, possession, inherence)."
+  },
+  {
+    "id": "MBA8105_071",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "How does 'Asymmetric Encryption' (Public Key Cryptography) function?",
+    "options": [
+      "It uses a single shared secret key for both encryption and decryption",
+      "It uses a mathematically linked pair of keys: a Public Key for encrypting data and a Private Key for decrypting data",
+      "It converts all text characters into random geometric symbols",
+      "It deletes data immediately after transmission to prevent interception"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asymmetric cryptography (e.g., RSA, ECC) uses a public key to encrypt data and a private key (held secret by the recipient) to decrypt it, securing internet communications (HTTPS/TLS)."
+  },
+  {
+    "id": "MBA8105_072",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is a 'Firewall' in network architecture?",
+    "options": [
+      "A fireproof brick wall constructed around physical data centers",
+      "A network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules, creating a barrier between trusted and untrusted networks",
+      "A software tool that accelerates internet download speeds by 50%",
+      "An emergency electrical circuit breaker installed in server rooms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Firewalls inspect data packets, blocking unauthorized access, malware traffic, and suspicious port activity while permitting authorized corporate communications."
+  },
+  {
+    "id": "MBA8105_073",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is the 'Zero Trust Architecture' (ZTA) principle in modern enterprise cybersecurity?",
+    "options": [
+      "Trusting every internal employee on the local corporate network completely by default",
+      "'Never Trust, Always Verify' — requiring strict identity verification and continuous authorization for every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter",
+      "Eliminating all passwords across the enterprise",
+      "Operating an organization with zero computers or digital systems"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zero Trust assumes breaches are inevitable and eliminates implicit perimeter trust; every request must be authenticated, authorized, and encrypted continuously."
+  },
+  {
+    "id": "MBA8105_074",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is a 'Zero-Day Vulnerability'?",
+    "options": [
+      "A software bug that takes zero days to fix",
+      "A software security flaw that is unknown to the vendor or developers and has no official patch available, leaving it vulnerable to exploitation by attackers",
+      "A computer system that has operated for zero days without a reboot",
+      "A software trial version that expires in twenty-four hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Zero-Day flaw is an unpatched software vulnerability actively exposed to exploitation before developers have developed or released a security fix."
+  },
+  {
+    "id": "MBA8105_075",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is 'Social Engineering' in information security?",
+    "options": [
+      "Designing open-plan office layouts to encourage employee conversation",
+      "The psychological manipulation of people into performing actions or divulging confidential information (e.g., passwords, bank details) rather than technical hacking of software",
+      "Teaching software programming in primary school curricula",
+      "Writing algorithms for social media recommendation feeds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Social engineering exploits human cognitive vulnerabilities (trust, fear, urgency, authority) through impersonation, pretexting, or baiting to breach security."
+  },
+  {
+    "id": "MBA8105_076",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "In business continuity management, what is the difference between 'RPO' (Recovery Point Objective) and 'RTO' (Recovery Time Objective)?",
+    "options": [
+      "RPO defines the maximum acceptable data loss measured in time (how much data can we lose?); RTO defines the maximum acceptable system downtime to restore operations (how long can we be down?)",
+      "RPO is used for marketing; RTO is used for accounting",
+      "RPO measures server temperature; RTO measures electricity cost",
+      "RPO applies only to public cloud vendors; RTO applies to private banks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RPO dictates backup frequency (data loss tolerance), while RTO dictates recovery speed (downtime tolerance) in disaster recovery planning."
+  },
+  {
+    "id": "MBA8105_077",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is 'Penetration Testing' (Pen Testing)?",
+    "options": [
+      "Testing how deeply a physical nail can penetrate computer plastic casings",
+      "An authorized simulated cyberattack performed on a computer system, network, or application to evaluate security posture and identify exploitable vulnerabilities before real attackers do",
+      "An audit of employee keyboard typing speed",
+      "Testing the durability of ethernet cables under physical stress"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ethical hackers (white hats) perform authorized penetration tests to uncover security weaknesses, configuration errors, and vulnerabilities for remediation."
+  },
+  {
+    "id": "MBA8105_078",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Information Security",
+    "question": "What is 'Data Sanitization' or 'Data Wiping' before decommissioning enterprise storage drives?",
+    "options": [
+      "Cleaning the plastic casing of hard disk drives with disinfectant wipes",
+      "The deliberate, permanent, and irreversible removal or overwriting of data stored on a storage device so that it cannot be recovered by any forensic method",
+      "Dragging files to the desktop recycle bin and leaving them there",
+      "Renaming files so they cannot be found via desktop search"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cryptographic erasure or magnetic degaussing ensures proprietary, customer, and financial data cannot be retrieved from retired storage media."
+  },
+  {
+    "id": "MBA8105_079",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is the sequential order of phases in the traditional 'Waterfall' Systems Development Life Cycle (SDLC)?",
+    "options": [
+      "Planning, Requirements Analysis, System Design, Implementation (Coding), Testing, Deployment, and Maintenance",
+      "Deployment, Maintenance, Planning, Coding, and Testing",
+      "Testing, Coding, Requirements, Design, and Decommissioning",
+      "Ideation, Monetization, Liquidation, and Termination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The classic Waterfall SDLC model executes sequentially: Planning $\rightarrow$ Analysis $\rightarrow$ Design $\rightarrow$ Implementation $\rightarrow$ Testing $\rightarrow$ Deployment $\rightarrow$ Maintenance."
+  },
+  {
+    "id": "MBA8105_080",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is the primary drawback of the traditional Waterfall methodology for complex, modern software projects?",
+    "options": [
+      "It produces software that is too inexpensive",
+      "Its rigid, sequential nature makes it difficult and costly to accommodate changing user requirements late in the development cycle, as working software is delivered only at the end",
+      "It prohibits developers from writing documentation",
+      "It cannot be used with SQL databases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Waterfall struggles in dynamic environments because requirement changes late in development require costly rework, and working software is not delivered until late phases."
+  },
+  {
+    "id": "MBA8105_081",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "The 'Agile Manifesto' prioritizes which of the following values over comprehensive documentation?",
+    "options": [
+      "Rigid contract negotiation",
+      "Working software",
+      "Following a strict five-year plan",
+      "Strict departmental silos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Agile Manifesto values: Individuals and interactions over processes and tools; Working software over comprehensive documentation; Customer collaboration over contract negotiation; Responding to change over following a plan."
+  },
+  {
+    "id": "MBA8105_082",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "In Scrum methodology, what is a 'Sprint'?",
+    "options": [
+      "A fast race run by software engineers around the office park",
+      "A fixed-length, repeatable time-box (typically 1 to 4 weeks) during which a 'Done', usable, and potentially releasable product increment is created",
+      "A mandatory 24-hour overtime coding session",
+      "An annual performance review meeting with senior executives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Sprint is a fixed 1-4 week iteration where a cross-functional Scrum team delivers a validated, testable increment of software functionality."
+  },
+  {
+    "id": "MBA8105_083",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is the primary role of the 'Product Owner' in a Scrum development team?",
+    "options": [
+      "Managing the physical office furniture budget",
+      "Defining the product vision, managing and prioritizing the Product Backlog, and ensuring the development team delivers maximum business value to stakeholders",
+      "Writing 100% of the software programming code personally",
+      "Conducting daily disciplinary hearings for junior developers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Product Owner represents customer/business stakeholders, prioritizes backlog user stories, and clarifies acceptance criteria for the development team."
+  },
+  {
+    "id": "MBA8105_084",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is the role of the 'Scrum Master'?",
+    "options": [
+      "A senior corporate executive who fires underperforming engineers",
+      "A servant-leader and coach who helps the Scrum team follow Agile principles, facilitates Scrum ceremonies, and removes impediments (blockers) to team progress",
+      "The lead database architect who designs SQL tables",
+      "The chief financial officer who approves payroll checks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Scrum Master acts as a facilitator and servant-leader, removing operational blockers, shielding the team from distractions, and coaching Agile practices."
+  },
+  {
+    "id": "MBA8105_085",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is the purpose of the 'Daily Stand-up' (Daily Scrum) meeting?",
+    "options": [
+      "A 2-hour formal presentation to corporate board members",
+      "A brief 15-minute synchronization meeting where team members answer: What did I do yesterday? What will I do today? Are there any blockers in my way?",
+      "A mandatory physical fitness inspection conducted by human resources",
+      "A line-by-line code review of all software programs written that week"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Daily Standup is a concise, 15-minute daily sync for the team to inspect progress toward the Sprint Goal and flag impediments."
+  },
+  {
+    "id": "MBA8105_086",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'DevOps'?",
+    "options": [
+      "A computer hardware manufacturing union",
+      "A set of cultural philosophies, practices, and automated tools that integrates software development (Dev) and IT operations (Ops) to shorten the systems development lifecycle and deliver continuous, high-quality releases (CI/CD)",
+      "A type of computer screen used by graphic artists",
+      "A programming language developed in the 1970s for mainframes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DevOps bridges development and operations through automation (CI/CD pipelines, automated testing, containerization), enabling rapid, reliable, continuous deployment."
+  },
+  {
+    "id": "MBA8105_087",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "In software engineering, what is 'CI/CD'?",
+    "options": [
+      "Corporate Identity and Customer Delivery",
+      "Continuous Integration and Continuous Delivery / Continuous Deployment",
+      "Central Interface and Database Compiler",
+      "Computer Inspection and Compliance Directory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI/CD automates the building, testing, and deployment of code changes, ensuring rapid feedback and reliable software delivery into production environments."
+  },
+  {
+    "id": "MBA8105_088",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'Kanban' in Agile project management?",
+    "options": [
+      "A strict mathematical formula for calculating project budgets",
+      "A visual workflow management method that visualizes work items on a board, limits Work-in-Progress (WIP), and optimizes the continuous flow of tasks from backlog to completion",
+      "A programming language used for robotics",
+      "An annual performance appraisal metric for executives"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kanban uses visual boards (To-Do, In-Progress, Review, Done) and explicit WIP limits to optimize flow, prevent bottlenecks, and balance capacity."
+  },
+  {
+    "id": "MBA8105_089",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'User Acceptance Testing' (UAT)?",
+    "options": [
+      "Testing whether users can physically plug in computer power cords",
+      "The final phase of the software testing process where actual end-users test the system in real-world scenarios to verify it satisfies business requirements before live deployment",
+      "Testing whether an employee qualifies for a company credit card",
+      "Checking user credit scores before granting internet access"
+    ],
+    "correctAnswer": 1,
+    "explanation": "UAT is the final gate where business users validate that software functions according to business needs and acceptance criteria before signing off on deployment."
+  },
+  {
+    "id": "MBA8105_090",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'Technical Debt' in software development?",
+    "options": [
+      "The monetary bank loans taken out to purchase office laptops",
+      "The implied cost of additional future rework and maintenance caused by choosing an easy, fast, or suboptimal coding solution now instead of using a better, well-architected approach",
+      "The salary owed to software engineers at the end of the month",
+      "The annual depreciation expense of corporate server racks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Technical debt accumulates when teams take architectural shortcuts to ship fast; like financial debt, it incurs 'interest' in slower development and maintenance overhead until refactored."
+  },
+  {
+    "id": "MBA8105_091",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'Prototyping' in system requirements analysis?",
+    "options": [
+      "Constructing the final commercial software system before gathering user feedback",
+      "Building an early, simplified, interactive working model of a system to demonstrate concepts, clarify user requirements, and gather early stakeholder feedback",
+      "Writing a 500-page theoretical specification manual",
+      "Purchasing server hardware five years before software development begins"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prototyping creates mockups or functional wireframes early, helping users visualize workflows and refining requirements before full-scale engineering."
+  },
+  {
+    "id": "MBA8105_092",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'Regression Testing'?",
+    "options": [
+      "Testing software on older 1990s computer monitors",
+      "Re-running functional and non-functional tests to ensure that newly developed code changes, bug fixes, or enhancements have not adversely affected or broken existing features",
+      "Testing software while running development teams in reverse hierarchy",
+      "Measuring employee typing speed decline over a working day"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regression testing verifies that new code releases or patches do not unintentionally break previously working features in the application."
+  },
+  {
+    "id": "MBA8105_093",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "SDLC & Project Methodologies",
+    "question": "What is 'Change Management' (e.g., Prosci ADKAR model) in IT system implementation?",
+    "options": [
+      "Upgrading computer server operating systems during scheduled maintenance",
+      "A structured approach to supporting individuals, teams, and organizations in transitioning from a current state to a desired future state when adopting new technological systems and processes",
+      "Swapping paper currency for corporate cryptocurrency tokens",
+      "Replacing broken office furniture with ergonomic desks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Change management addresses the human side of IT adoption—communication, training, coaching, and overcoming resistance—to ensure systems are embraced and utilized."
+  },
+  {
+    "id": "MBA8105_094",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_095",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_096",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_097",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_098",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_099",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_100",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_101",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_102",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_103",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_104",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_105",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_106",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_107",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_108",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_109",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_110",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_111",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_112",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_113",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_114",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_115",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_116",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_117",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_118",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_119",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_120",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_121",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_122",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_123",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_124",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_125",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_126",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_127",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_128",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_129",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_130",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_131",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_132",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_133",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_134",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_135",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_136",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_137",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_138",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_139",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_140",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_141",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_142",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_143",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 4",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing continuous database replication?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_144",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 5",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated load balancing?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_145",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 6",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing centralized log aggregation?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_146",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 1",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing automated data validation pipelines?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_147",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 2",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing fault-tolerant server clustering?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_148",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Information Systems Module 3",
+    "question": "In enterprise Management Information Systems design, what is the primary operational objective of implementing role-based access control (RBAC)?",
+    "options": [
+      "To maximize system reliability, security, data integrity, and operational business continuity",
+      "To slow down network processing speeds by 50%",
+      "To eliminate all software testing before production deployments",
+      "To mandate that all employees access the system using identical generic passwords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterprise MIS architectures implement automated controls, redundancy, and access governance to safeguard data assets and ensure mission-critical availability."
+  },
+  {
+    "id": "MBA8105_149",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Database Systems & SQL",
+    "question": "What is the SQL command used to combine rows from two or more tables based on a related column between them?",
+    "options": [
+      "JOIN",
+      "MERGE",
+      "COMBINE",
+      "ATTACH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The SQL JOIN clause is used to query data from multiple related tables based on matching foreign/primary key relationships."
+  },
+  {
+    "id": "MBA8105_150",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Database Systems & SQL",
+    "question": "In database design, Third Normal Form (3NF) requires that a table is in 2NF and has no:",
+    "options": [
+      "Transitive functional dependencies",
+      "Primary keys",
+      "Foreign keys",
+      "Text columns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "3NF eliminates transitive dependencies (where a non-key column depends on another non-key column)."
+  },
+  {
+    "id": "MBA8105_151",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Database Systems & SQL",
+    "question": "Which SQL clause is used to filter query results after an aggregate GROUP BY operation?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "ORDER BY",
+      "FILTER"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HAVING filters aggregated groups, whereas WHERE filters individual rows prior to grouping."
+  },
+  {
+    "id": "MBA8105_152",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Encryption",
+    "question": "What is 'Symmetric Encryption'?",
+    "options": [
+      "An encryption scheme that uses the same single secret key for both encryption and decryption",
+      "An encryption method that uses public and private key pairs",
+      "A method that converts text into audio signals",
+      "A security mechanism used only for Wi-Fi routers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Symmetric encryption (e.g., AES) utilizes a single shared key for both encrypting and decrypting data, offering high speed for bulk data."
+  },
+  {
+    "id": "MBA8105_153",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Encryption",
+    "question": "What is a 'Man-in-the-Middle' (MitM) attack?",
+    "options": [
+      "An attacker secretly intercepts and relays communications between two parties who believe they are communicating directly with each other",
+      "A burglar who breaks into a physical computer server room",
+      "A software developer who reviews code between two engineers",
+      "An employee who mediates a dispute between two managers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "MitM attacks eavesdrop or alter data in transit between endpoints (mitigated by HTTPS/TLS encryption and certificate validation)."
+  },
+  {
+    "id": "MBA8105_154",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Encryption",
+    "question": "What is 'SQL Injection' (SQLi)?",
+    "options": [
+      "A cyber attack where malicious SQL code is inserted into input fields to manipulate backend databases and extract unauthorized data",
+      "A routine database maintenance script executed by the DBA",
+      "An automated hardware upgrade for database servers",
+      "A method of compressing database backup files"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SQL Injection exploits unsanitized input to execute arbitrary SQL commands on the database, mitigated by parameterized queries/prepared statements."
+  },
+  {
+    "id": "MBA8105_155",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cybersecurity & Encryption",
+    "question": "What is 'Cross-Site Scripting' (XSS)?",
+    "options": [
+      "A web security vulnerability that allows an attacker to inject malicious client-side scripts into web pages viewed by other users",
+      "A physical exercise performed by web designers",
+      "A method of linking two websites using hyperlinks",
+      "An error that occurs when a web server runs out of memory"
+    ],
+    "correctAnswer": 0,
+    "explanation": "XSS allows attackers to execute malicious JavaScript in victims' browsers to hijack session cookies, deface sites, or redirect users."
+  },
+  {
+    "id": "MBA8105_156",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Systems & ERP",
+    "question": "In SAP ERP architecture, what is the core module responsible for Financial Accounting and reporting?",
+    "options": [
+      "SAP FI (Financial Accounting)",
+      "SAP SD (Sales and Distribution)",
+      "SAP MM (Materials Management)",
+      "SAP PP (Production Planning)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SAP FI handles balance sheet, general ledger, accounts payable/receivable, and legal financial statements."
+  },
+  {
+    "id": "MBA8105_157",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Enterprise Systems & ERP",
+    "question": "What is the primary function of the SAP MM (Materials Management) module?",
+    "options": [
+      "Managing procurement, vendor evaluation, inventory management, and invoice verification",
+      "Designing company marketing logos",
+      "Calculating employee pension withholdings",
+      "Managing corporate travel itineraries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SAP MM oversees purchasing workflows, purchase orders, goods receipt, inventory valuation, and warehouse stock tracking."
+  },
+  {
+    "id": "MBA8105_158",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud & Virtualization",
+    "question": "What is 'Hypervisor' (Virtual Machine Monitor)?",
+    "options": [
+      "Software or firmware that creates and runs virtual machines by abstracting hardware resources",
+      "A high-resolution computer display monitor",
+      "A security guard assigned to corporate data centers",
+      "A high-speed optical internet cable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A hypervisor (Type 1 bare-metal or Type 2 hosted) virtualizes CPU, memory, and storage to run multiple isolated guest OS instances."
+  },
+  {
+    "id": "MBA8105_159",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud & Virtualization",
+    "question": "What is a 'Container' (e.g., Docker) compared to a Virtual Machine?",
+    "options": [
+      "Containers package an application and its dependencies together sharing the host OS kernel, making them much lighter and faster to start than full VMs",
+      "Containers are physical shipping crates used for mainframe servers",
+      "Containers require 100 times more memory than virtual machines",
+      "Containers can only run on desktop computers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Containers share the host operating system kernel and isolate user spaces, providing lightweight, ultra-fast portable software deployment."
+  },
+  {
+    "id": "MBA8105_160",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Cloud & Virtualization",
+    "question": "What is 'Kubernetes' (K8s)?",
+    "options": [
+      "An open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications",
+      "A proprietary programming language developed for database servers",
+      "A type of computer screen used in graphic design",
+      "A physical networking router used by telecom providers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kubernetes orchestrates container clusters, managing auto-healing, load balancing, rolling updates, and service discovery across cloud environments."
+  },
+  {
+    "id": "MBA8105_161",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "E-Commerce & Digital Strategy",
+    "question": "What is 'B2B' (Business-to-Business) E-Commerce?",
+    "options": [
+      "Commercial electronic transactions conducted directly between two businesses (e.g., manufacturer and wholesaler)",
+      "Transactions between businesses and individual retail consumers",
+      "Transactions between individual private citizens",
+      "Transactions between citizens and government agencies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "B2B e-commerce involves high-volume, automated procurement transactions between corporate trading partners."
+  },
+  {
+    "id": "MBA8105_162",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "E-Commerce & Digital Strategy",
+    "question": "What is 'Omnichannel Retailing'?",
+    "options": [
+      "A multichannel sales approach that provides the customer with an integrated, seamless shopping experience across online desktop, mobile, and physical brick-and-mortar stores",
+      "Selling products exclusively through a single retail kiosk",
+      "A television broadcast network that airs shopping commercials 24/7",
+      "An export strategy focused on a single foreign nation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Omnichannel unifies customer data, inventory visibility, and experiences across digital and physical touchpoints seamlessly (e.g., buy online, return in store)."
+  },
+  {
+    "id": "MBA8105_163",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "E-Commerce & Digital Strategy",
+    "question": "What is 'Search Engine Optimization' (SEO)?",
+    "options": [
+      "The process of improving the quality and quantity of website traffic from search engines through unpaid (organic) search results",
+      "Paying search engines $10 per click for sponsored ads",
+      "Deleting search engine history on company laptops",
+      "A mathematical formula used for sorting database records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SEO optimizes website architecture, metadata, content relevance, and backlink authority to maximize organic search rankings on Google/Bing."
+  },
+  {
+    "id": "MBA8105_164",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Emerging Technologies & AI",
+    "question": "What is 'Machine Learning' (ML)?",
+    "options": [
+      "A subset of artificial intelligence where algorithms learn patterns from historical data to make predictions or decisions without being explicitly programmed",
+      "Teaching humans how to assemble computer hardware",
+      "An automated factory machine that cleans floors",
+      "A software program that only follows hardcoded if-then rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Machine Learning uses statistical algorithms to train models on data, generalizing patterns to make predictions on unseen inputs (supervised, unsupervised, reinforcement)."
+  },
+  {
+    "id": "MBA8105_165",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Emerging Technologies & AI",
+    "question": "What is 'Supervised Learning' in Machine Learning?",
+    "options": [
+      "Training an algorithm on labeled data where each input example is paired with the correct output target",
+      "Training algorithms without any human data or labels",
+      "A manager standing behind a software engineer watching them code",
+      "A computer system that operates only during supervised office hours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Supervised learning trains models on labeled training datasets (e.g., classification of spam/not-spam, regression for price forecasting)."
+  },
+  {
+    "id": "MBA8105_166",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Emerging Technologies & AI",
+    "question": "What is 'Unsupervised Learning'?",
+    "options": [
+      "Training algorithms on unlabeled data to discover hidden patterns, groupings, or clusters on their own (e.g., customer segmentation via K-Means)",
+      "An algorithm that runs with zero electricity",
+      "A software project completed without a project manager",
+      "A database query that produces zero results"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Unsupervised learning identifies intrinsic structures in unlabeled data (clustering, dimensionality reduction, association rule mining)."
+  },
+  {
+    "id": "MBA8105_167",
+    "courseCode": "MBA 8105",
+    "courseTitle": "Management Information Systems",
+    "topic": "Emerging Technologies & AI",
+    "question": "What is 'Robotic Process Automation' (RPA)?",
+    "options": [
+      "Deploying software 'bots' to automate repetitive, rules-based routine digital tasks (e.g., data entry, invoice processing) across user interfaces",
+      "Building humanoid mechanical robots that walk through office hallways",
+      "Replacing all corporate executives with artificial intelligence",
+      "An automated sprinkler system installed in office ceilings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RPA uses software robots to automate manual, repetitive transactional workflows across legacy applications without expensive backend API refactoring."
+  }
+]

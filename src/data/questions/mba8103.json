@@ -1,0 +1,2507 @@
+[
+  {
+    "id": "MBA8103_001",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "According to Joseph Schumpeter, the core function of the entrepreneur in economic development is:",
+    "options": [
+      "Providing routine clerical supervision",
+      "Executing innovation and carrying out new combinations of productive means ('Creative Destruction')",
+      "Maintaining static equilibrium in traditional cottage industries",
+      "Complying with municipal price ceilings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Schumpeter defined the entrepreneur as an innovator whose 'creative destruction' disrupts market equilibria by introducing new products, methods, markets, or sources of supply."
+  },
+  {
+    "id": "MBA8103_002",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "Which psychological characteristic is most strongly correlated with entrepreneurial persistence and resilience?",
+    "options": [
+      "External Locus of Control",
+      "High Internal Locus of Control and Self-Efficacy",
+      "High Risk Aversion",
+      "Passive Conformity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Entrepreneurs with a high internal locus of control believe that their actions, effort, and decisions directly determine outcomes rather than external chance or luck."
+  },
+  {
+    "id": "MBA8103_003",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "In the Lean Startup methodology (Eric Ries), what is the primary purpose of building a Minimum Viable Product (MVP)?",
+    "options": [
+      "To generate maximum gross revenue on day one",
+      "To test core business hypotheses and begin validated learning with the least effort and time",
+      "To secure immediate patent protection before competitors hear about it",
+      "To provide a complete, final, polished feature set to all customer segments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An MVP is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort."
+  },
+  {
+    "id": "MBA8103_004",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is a 'Pivot' in the context of startup development?",
+    "options": [
+      "A structured course correction designed to test a new fundamental hypothesis about the product, strategy, or engine of growth",
+      "The immediate legal liquidation of corporate assets upon failure",
+      "A rotational shift in physical manufacturing floor machinery",
+      "A 360-degree performance appraisal conducted on founders"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A pivot is a strategic change in direction (e.g., customer segment, problem solved, revenue model) without changing the overarching vision."
+  },
+  {
+    "id": "MBA8103_005",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "The 'Build-Measure-Learn' feedback loop is the core operational framework of:",
+    "options": [
+      "Six Sigma DMAIC",
+      "The Lean Startup",
+      "Waterfall Software Engineering",
+      "Taylor's Scientific Management"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Build-Measure-Learn is the central iterative feedback loop of Lean Startup, emphasizing rapid experimentation and validated customer feedback."
+  },
+  {
+    "id": "MBA8103_006",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is 'Intrapreneurship'?",
+    "options": [
+      "Entrepreneurial innovation and venture creation practiced by employees within an established corporation",
+      "An illegal corporate espionage practice",
+      "The outsourcing of all internal R&D to offshore software houses",
+      "A government-sponsored unemployment rehabilitation program"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intrapreneurship refers to employees behaving like entrepreneurs inside an established firm, championing innovative projects and new business units."
+  },
+  {
+    "id": "MBA8103_007",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "In Design Thinking, which sequential stages comprise the standard human-centered innovation process?",
+    "options": [
+      "Empathize, Define, Ideate, Prototype, and Test",
+      "Analyze, Budget, Contract, Deliver, and Evaluate",
+      "Monopolize, Liquidate, Consolidate, and Regulate",
+      "Conceive, Invalidate, Terminate, and Rebrand"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Stanford d.school Design Thinking framework follows 5 stages: Empathize (understand users), Define (state needs), Ideate (brainstorm), Prototype (create solutions), and Test."
+  },
+  {
+    "id": "MBA8103_008",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is 'Effectuation', a decision-making logic identified by Saras Sarasvathy among expert entrepreneurs?",
+    "options": [
+      "A predictive logic that begins with fixed goals and selects the optimal means through statistical forecasting",
+      "A creative logic that starts with given means (who I am, what I know, whom I know) and generates emergent goals through iterative experimentation",
+      "A rigid legal doctrine requiring all startups to incorporate as public benefit corporations",
+      "A mathematical formula for pricing convertible debt notes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Effectuation is an entrepreneurial approach where founders begin with available means and co-create opportunities through affordable loss and partnerships, rather than predictive causal planning."
+  },
+  {
+    "id": "MBA8103_009",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "The 'Affordable Loss Principle' in entrepreneurial finance suggests that entrepreneurs should:",
+    "options": [
+      "Risk everything they own including primary residences on a single high-stakes bet",
+      "Evaluate opportunities based on whether the potential downside loss is tolerable rather than focusing solely on hypothetical upside returns",
+      "Avoid spending any capital whatsoever during product development",
+      "Borrow the maximum allowable credit limit from commercial banks at inception"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under affordable loss, entrepreneurs focus on how much they can afford to lose at each step, limiting downside risk while pursuing innovation."
+  },
+  {
+    "id": "MBA8103_010",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "Which form of innovation creates a new market and value network, eventually disrupting an existing market and displacing established market-leading firms?",
+    "options": [
+      "Incremental Innovation",
+      "Sustaining Innovation",
+      "Disruptive Innovation",
+      "Defensive Innovation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Disruptive innovation (Clayton Christensen) introduces simpler, more affordable alternatives that capture underserved customers before overtaking the mainstream market."
+  },
+  {
+    "id": "MBA8103_011",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is 'Opportunity Recognition' in entrepreneurship?",
+    "options": [
+      "Copying an established competitor's product catalog word-for-word",
+      "The process of identifying a latent consumer pain point, market inefficiency, or technological possibility and connecting it to a viable business concept",
+      "Filing a patent lawsuit against a startup founder",
+      "Signing an employment contract with a Fortune 500 company"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Opportunity recognition involves identifying market gaps or unfulfilled needs and developing novel, value-generating solutions to exploit them commercially."
+  },
+  {
+    "id": "MBA8103_012",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "A 'Blue Ocean Strategy' (Kim & Mauborgne) advises entrepreneurs to:",
+    "options": [
+      "Compete aggressively in crowded, existing market spaces with fierce price wars ('Red Oceans')",
+      "Create uncontested market space and make the competition irrelevant through value innovation",
+      "Acquire all direct competitors through leveraged debt buyouts",
+      "Focus exclusively on government defense procurement contracts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blue Ocean Strategy advocates opening new, uncontested market spaces (value innovation) rather than fighting over existing market share in crowded red oceans."
+  },
+  {
+    "id": "MBA8103_013",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is an 'Entrepreneurial Ecosystem'?",
+    "options": [
+      "A greenhouse garden planted in a tech incubator lobby",
+      "A dynamic network of interconnected actors (universities, investors, mentors, government policies, infrastructure, culture) that support high-growth venture creation in a region",
+      "A corporate recycling initiative for office computer monitors",
+      "A bilateral trade agreement signed between two sovereign nations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An entrepreneurial ecosystem comprises systemic regional elements—capital, talent, incubators, legal frameworks, culture—that catalyze venture growth (e.g., Silicon Valley, Tel Aviv)."
+  },
+  {
+    "id": "MBA8103_014",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "Which of the following is a classic cognitive bias that startup founders must guard against when validating their product ideas?",
+    "options": [
+      "Confirmation Bias (only seeking evidence that validates preconceived beliefs while ignoring disconfirming data)",
+      "Overly rigorous financial skepticism",
+      "Excessive legal due diligence",
+      "Premature scaling of distribution logistics"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Confirmation bias leads entrepreneurs to overvalue positive customer feedback while dismissing negative signals about product viability."
+  },
+  {
+    "id": "MBA8103_015",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is the 'Pain-Gain Ratio' evaluated by consumers when adopting an entrepreneurial innovation?",
+    "options": [
+      "The comparison between the perceived benefits (gains) of the new solution versus the switching costs, effort, and habits required to adopt it (pain)",
+      "The physical soreness experienced by factory labor during overtime shifts",
+      "The ratio between corporate gross revenues and marketing advertising expenses",
+      "The percentage of equity shares granted to early angel investors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Innovations must provide disproportionate value (often 9x-10x improvement) to overcome the consumer inertia and switching friction associated with changing habits."
+  },
+  {
+    "id": "MBA8103_016",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What does 'Product-Market Fit' (PMF) signify for a startup?",
+    "options": [
+      "The date when the business files its formal articles of incorporation",
+      "The state where a startup has built a product that satisfies a strong market demand in a sizeable market, evidenced by organic retention and pull",
+      "The total square footage of warehouse space leased for physical inventory",
+      "The registration of trademark logos in twenty international jurisdictions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Product-Market Fit occurs when the product satisfies strong customer demand, resulting in sustainable organic growth, retention, and word-of-mouth adoption."
+  },
+  {
+    "id": "MBA8103_017",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "In startup metrics, 'Vanity Metrics' are best described as:",
+    "options": [
+      "Numbers that look impressive on social media (e.g., page views, registered accounts) but do not correlate with business growth, revenue, or active customer engagement",
+      "Audited financial net cash flows certified by independent CPAs",
+      "Monthly recurring subscription revenues from paid enterprise clients",
+      "Customer churn rates calculated across cohort retention tables"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vanity metrics give a false sense of success without reflecting core underlying unit economics or customer engagement (e.g., app downloads vs. daily active users)."
+  },
+  {
+    "id": "MBA8103_018",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is 'Frugal Innovation' (or 'Jugaad') in emerging market entrepreneurship?",
+    "options": [
+      "Developing luxurious, expensive products for high-net-worth individuals",
+      "The process of creating high-quality, resilient, resource-efficient solutions at extremely low cost for budget-constrained consumers",
+      "Evading income taxes through offshore shell corporations",
+      "Outsourcing all engineering tasks to luxury design agencies in Milan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Frugal innovation designs affordable, durable, and functional solutions using minimal resources, specifically tailored for resource-scarce environments."
+  },
+  {
+    "id": "MBA8103_019",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "Which innovation typology involves reconfiguring an existing product's components without changing the core underlying technology?",
+    "options": [
+      "Architectural Innovation",
+      "Radical Innovation",
+      "Disruptive Innovation",
+      "Basic Scientific Discovery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Architectural innovation changes how components of a product are linked together while leaving the core design concepts and components largely intact."
+  },
+  {
+    "id": "MBA8103_020",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "In business terminology, an entrepreneur who continuously conceives, launches, scales, and sells distinct new business ventures over their career is a:",
+    "options": [
+      "Social Intrapreneur",
+      "Serial Entrepreneur",
+      "Sole Proprietor",
+      "Franchisee"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A serial entrepreneur creates, scales, and exits multiple new ventures consecutively rather than managing a single enterprise for life."
+  },
+  {
+    "id": "MBA8103_021",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What does 'Customer Discovery' involve according to Steve Blank's Customer Development methodology?",
+    "options": [
+      "Buying email mailing lists from direct mail marketing brokers",
+      "Getting 'out of the building' to interview potential customers, understand their genuine pain points, and validate problem-solution fit",
+      "Designing the final commercial billboard before manufacturing the product",
+      "Filing a patent infringement lawsuit against market incumbents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Customer Discovery involves direct engagement with potential users to test foundational hypotheses about customer problems, needs, and willingness to pay."
+  },
+  {
+    "id": "MBA8103_022",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is 'Value Proposition' in entrepreneurial strategy?",
+    "options": [
+      "The statutory corporate income tax rate paid to municipal governments",
+      "A clear statement explaining the unique benefit a company delivers, how it solves customer problems, and why it is superior to alternatives",
+      "The total market value of the founder's personal real estate assets",
+      "The discount percentage offered during end-of-season retail clearances"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A value proposition articulates why a customer should purchase from the company by identifying specific benefits, pain relief, and differentiators."
+  },
+  {
+    "id": "MBA8103_023",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "The 'Crossing the Chasm' framework (Geoffrey Moore) addresses the critical adoption gap between which two customer segments in technology adoption life cycles?",
+    "options": [
+      "Innovators and Early Adopters",
+      "Early Adopters (Visionaries) and the Early Majority (Pragmatists)",
+      "The Early Majority and Late Majority",
+      "Late Majority and Laggards"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Chasm' represents the difficult transition between visionary Early Adopters and mainstream, pragmatic Early Majority buyers."
+  },
+  {
+    "id": "MBA8103_024",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "What is 'Social Capital' for an entrepreneur?",
+    "options": [
+      "The cash accumulated in the startup's primary corporate checking account",
+      "The network of relationships, trust, goodwill, and mutual obligations that enable an entrepreneur to access resources, advice, and opportunities",
+      "The statutory share capital mandated by the corporate affairs commission",
+      "The total value of public welfare benefits claimed by employees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Social capital represents the value embedded in social networks that facilitates access to talent, mentorship, capital, and commercial partnerships."
+  },
+  {
+    "id": "MBA8103_025",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Mindset & Innovation",
+    "question": "In startup terminology, 'Churn Rate' measures:",
+    "options": [
+      "The speed at which factory machinery completes a manufacturing cycle",
+      "The percentage of subscribers or customers who cancel or discontinue their service within a given time period",
+      "The rate at which physical cash is printed by the national mint",
+      "The turnover of executive board members during an annual general meeting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Customer churn rate is the percentage of existing customers lost over a specific period, a critical metric for subscription and SaaS business models."
+  },
+  {
+    "id": "MBA8103_026",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "A comprehensive Feasibility Analysis for a new business concept typically evaluates which four key dimensions?",
+    "options": [
+      "Political, Ideological, Rhetorical, and Legal",
+      "Product/Service Feasibility, Industry/Target Market Feasibility, Organizational Feasibility, and Financial Feasibility",
+      "Historical, Geological, Meteorological, and Astrological",
+      "Advertising, PR, Slogans, and Packaging"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Feasibility analysis systematically evaluates product/service desirability/demand, industry/market attractiveness, organizational capabilities, and financial viability."
+  },
+  {
+    "id": "MBA8103_027",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "The Business Model Canvas (Osterwalder & Pigneur) consists of how many building blocks?",
+    "options": [
+      "Four",
+      "Seven",
+      "Nine",
+      "Twelve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The BMC comprises 9 building blocks: Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partnerships, and Cost Structure."
+  },
+  {
+    "id": "MBA8103_028",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "In the Business Model Canvas, 'Channels' represent:",
+    "options": [
+      "The maritime canals used to transport international container ships",
+      "How a company communicates with and reaches its customer segments to deliver its value proposition (sales, distribution, communication)",
+      "The internal grievances filing procedures for factory staff",
+      "The television networks where commercials are broadcast"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Channels describe touchpoints through which an enterprise delivers value, communicates, and sells to customer segments (direct, indirect, digital, physical)."
+  },
+  {
+    "id": "MBA8103_029",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is the 'Freemium' business model?",
+    "options": [
+      "Giving away 100% of all goods and services for free with zero monetization",
+      "Providing basic features or tiers of a digital service free of charge while charging a premium for advanced functionalities or capacities",
+      "Charging a high upfront license fee with free annual maintenance visits",
+      "Operating as an unregistered charity organization"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Freemium offers basic software/services for free to drive massive user acquisition while charging a subset of users for advanced/enterprise features."
+  },
+  {
+    "id": "MBA8103_030",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "The 'Razor and Blade' (Bait and Hook) business model is best illustrated by:",
+    "options": [
+      "Selling physical desktop printers at low margins or loss and generating high recurrent profits on proprietary ink cartridges",
+      "Selling luxury sports cars with free lifetime gasoline refills",
+      "Offering free haircuts at beauty salons on national holidays",
+      "Providing free enterprise consulting with no contract terms"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Razor and Blade model sells a durable base product at low cost to lock in continuous, high-margin sales of consumable complementary items."
+  },
+  {
+    "id": "MBA8103_031",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "In financial feasibility analysis, the 'Break-Even Point' is calculated as:",
+    "options": [
+      "Total Fixed Costs divided by (Selling Price per unit minus Variable Cost per unit)",
+      "Total Variable Costs multiplied by Total Sales Volume",
+      "Gross Profit Margin minus Corporation Tax Rate",
+      "Total Assets divided by Total Shareholder Equity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Break-even quantity = Fixed Costs / Unit Contribution Margin ($P - VC$), representing the volume where total revenue exactly equals total costs."
+  },
+  {
+    "id": "MBA8103_032",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is 'Contribution Margin' per unit?",
+    "options": [
+      "The retail sales price plus wholesale freight cost",
+      "The selling price per unit minus variable cost per unit",
+      "The net profit after subtracting federal corporate income taxes",
+      "The annual bonus allocated to executive sales managers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unit contribution margin is $P - VC$, indicating the incremental amount generated per unit sold that contributes toward covering fixed costs and generating profit."
+  },
+  {
+    "id": "MBA8103_033",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "Which building block in the Business Model Canvas maps the most critical physical, intellectual, human, and financial assets required for the model to work?",
+    "options": [
+      "Key Resources",
+      "Customer Segments",
+      "Revenue Streams",
+      "Channels"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key Resources describes the most important assets required to create value, maintain relationships, and earn revenues (e.g., tech infrastructure, patents, talent)."
+  },
+  {
+    "id": "MBA8103_034",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What does a 'Two-Sided Platform' business model (e.g., Airbnb, eBay, Uber) require to succeed?",
+    "options": [
+      "Simultaneously attracting and coordinating two distinct user groups that provide mutual network value to one another",
+      "Owning all physical real estate and vehicles used by platform users",
+      "Charging equal flat fees to both buyers and sellers regardless of transaction volume",
+      "Prohibiting credit card transactions on the web interface"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Two-sided platforms create value by bringing together two interdependent groups (e.g., hosts and guests, drivers and riders), solving the chicken-and-egg problem."
+  },
+  {
+    "id": "MBA8103_035",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "In target market feasibility, 'TAM', 'SAM', and 'SOM' represent:",
+    "options": [
+      "Total Available Market, Serviceable Available Market, and Serviceable Obtainable Market",
+      "Targeted Advertising Margin, Sales Allocation Model, and Standard Operating Metric",
+      "Tactical Acquisition Method, Systematic Accounting Model, and Shareholder Options Market",
+      "Total Asset Management, Solvency Assessment Model, and Senior Operational Manager"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TAM represents total market demand; SAM is the portion targeted by your products/channels; SOM is the realistic share captured in the near term."
+  },
+  {
+    "id": "MBA8103_036",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is 'Concept Testing' in product feasibility analysis?",
+    "options": [
+      "The mass manufacture of 100,000 retail inventory units before conducting customer interviews",
+      "Presenting a written/visual description of a product concept to prospective consumers to gauge initial interest, desirability, and purchase intent",
+      "Testing electrical equipment in an engineering laboratory for durability",
+      "Conducting an internal audit of corporate accounting software"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Concept testing validates whether a proposed product idea resonates with target buyers before investing heavily in engineering and commercialization."
+  },
+  {
+    "id": "MBA8103_037",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "A 'Subscription' business model generates revenue by:",
+    "options": [
+      "Charging a one-time lifetime payment for perpetual ownership",
+      "Charging customers a recurring periodic fee (monthly or annually) for continuous access to a product, content, or service",
+      "Auctioning individual product units to the highest bidder",
+      "Relying exclusively on voluntary customer donations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subscription models provide recurring predictable revenues (MRR/ARR) and foster ongoing customer lifetime relationships (e.g., Netflix, SaaS)."
+  },
+  {
+    "id": "MBA8103_038",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is 'Customer Acquisition Cost' (CAC)?",
+    "options": [
+      "The total cost of manufacturing a physical product unit",
+      "The total sales and marketing spend divided by the number of new customers acquired during a given period",
+      "The discount price offered to first-time shoppers at retail checkout",
+      "The salary paid to the chief marketing officer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CAC measures the average expense incurred in sales, advertising, and marketing to acquire a single paying customer ($CAC = Total Sales & Mktg Spend / New Customers$)."
+  },
+  {
+    "id": "MBA8103_039",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is 'Customer Lifetime Value' (LTV or CLV)?",
+    "options": [
+      "The chronological age of the oldest customer registered in the database",
+      "The projected net profit or gross contribution generated from a customer relationship over its entire duration",
+      "The average retail price of products sold during Black Friday sales",
+      "The total market capitalization of the startup divided by employee headcount"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LTV calculates the total monetary value a business expects to earn from a customer relationship over time. A healthy SaaS benchmark is $LTV:CAC \\ge 3:1$."
+  },
+  {
+    "id": "MBA8103_040",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "If a SaaS startup has a CAC of $300 and an LTV of $1,200, what is the LTV-to-CAC ratio?",
+    "options": [
+      "1:4",
+      "4:1",
+      "0.25:1",
+      "12:3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LTV:CAC = $1200 / 300 = 4:1$, indicating a highly efficient and economically attractive customer acquisition model (exceeding the standard 3:1 healthy benchmark)."
+  },
+  {
+    "id": "MBA8103_041",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is 'Unbundled Corporation' theory in business model design?",
+    "options": [
+      "The legal dissolution of a corporate entity by court order",
+      "The concept that businesses consist of three distinct types of activities (Customer Relationship management, Product Innovation, and Infrastructure management) with different economic imperatives",
+      "Splitting a corporate headquarters into five regional offices",
+      "Prohibiting software packages from including more than one application"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Osterwalder posits that corporations combine customer relationship, innovation, and infrastructure businesses, which often have conflicting operational cultures."
+  },
+  {
+    "id": "MBA8103_042",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "Which building block in the Business Model Canvas addresses the financial expenditures incurred to operate the business model?",
+    "options": [
+      "Revenue Streams",
+      "Cost Structure",
+      "Key Partnerships",
+      "Customer Segments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cost Structure details all fixed and variable expenses required to operate the business model (e.g., server hosting, salaries, marketing, manufacturing)."
+  },
+  {
+    "id": "MBA8103_043",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is the difference between a 'Cost-Driven' and 'Value-Driven' business model?",
+    "options": [
+      "Cost-driven focuses on minimizing costs at every opportunity (e.g., Southwest Airlines); Value-driven focuses on premium value creation and personalized luxury (e.g., Rolex)",
+      "Cost-driven models operate without budgets; Value-driven models have no pricing",
+      "Cost-driven models are non-profit; Value-driven models are publicly traded",
+      "Cost-driven models have zero fixed expenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cost-driven models prioritize lean operations and low prices; value-driven models prioritize premium experiences, high customization, and prestige."
+  },
+  {
+    "id": "MBA8103_044",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "In a Business Plan, the 'Executive Summary' should be:",
+    "options": [
+      "Written first before doing any research and span 50 pages",
+      "A concise, compelling 1-2 page synthesis of the entire venture proposal, highlighting problem, solution, market size, business model, team, and financial ask",
+      "A collection of technical software code snippets",
+      "A copy of the founder's personal birth certificate and driver's license"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Executive Summary is the most critical section of a business plan, giving investors a clear snapshot of the venture's value proposition and financial potential."
+  },
+  {
+    "id": "MBA8103_045",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is a 'Pro Forma Financial Statement' in a business plan?",
+    "options": [
+      "Historical financial statements audited from 10 years ago",
+      "Forward-looking financial projections (Income Statement, Balance Sheet, Cash Flow) based on explicit operating and market assumptions",
+      "A receipt issued upon the delivery of office stationery",
+      "An official tax penalty notice issued by the revenue agency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pro forma statements present projected future financial performance (revenues, expenses, cash runway, balance sheet) to evaluate commercial viability."
+  },
+  {
+    "id": "MBA8103_046",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "In startup unit economics, what is 'Payback Period' on CAC?",
+    "options": [
+      "The time it takes for a customer to receive their physical package by courier",
+      "The number of months of gross margin required for a company to recover the sales and marketing money spent to acquire that customer",
+      "The statutory grace period allowed for filing quarterly tax reports",
+      "The duration of a founder's non-compete employment contract"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CAC Payback Period measures capital efficiency ($CAC / [Monthly Revenue \times Gross Margin]$), showing how quickly acquisition spend is recouped."
+  },
+  {
+    "id": "MBA8103_047",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is the primary risk addressed by 'Organizational Feasibility' analysis?",
+    "options": [
+      "Whether the proposed technology violates the laws of physics",
+      "Whether the founding team possesses the management prowess, domain expertise, execution capability, and key human capital to execute the venture",
+      "Whether global crude oil prices will fluctuate next year",
+      "Whether municipal parking spaces are available for delivery vans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Organizational feasibility assesses team competence, leadership skills, human resources, and operational readiness to successfully launch and run the business."
+  },
+  {
+    "id": "MBA8103_048",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is a 'Network Effect' (Metcalfe's Law) in platform business models?",
+    "options": [
+      "The physical wiring connecting computers in an office network",
+      "The dynamic where a service becomes incrementally more valuable to every user as total platform adoption expands",
+      "The electrical power surges experienced across manufacturing facilities",
+      "The legal requirement to file annual network security compliance audits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metcalfe's Law states that the value of a network is proportional to the square of the number of connected users ($V \\propto n^2$)."
+  },
+  {
+    "id": "MBA8103_049",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "Which pricing strategy charges a high initial price to early adopters before gradually lowering prices over time to capture price-sensitive segments?",
+    "options": [
+      "Penetration Pricing",
+      "Price Skimming",
+      "Predatory Pricing",
+      "Cost-Plus Markup"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Price skimming sets high launch prices to capture consumer surplus from innovators/early adopters, progressively reducing prices for broader market tiers (e.g., Apple)."
+  },
+  {
+    "id": "MBA8103_050",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Feasibility Analysis & Business Model Canvas",
+    "question": "What is 'Penetration Pricing' in startup go-to-market strategy?",
+    "options": [
+      "Setting an artificially high price to position the product as ultra-exclusive luxury",
+      "Setting a low initial entry price to rapidly capture market share, build user scale, and discourage new competitors",
+      "Charging variable prices depending on customer age and gender",
+      "Auctioning inventory units to international wholesale distributors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penetration pricing utilizes low initial pricing to rapidly achieve high market volume, build network effects, and erect barriers against rival entrants."
+  },
+  {
+    "id": "MBA8103_051",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Bootstrapping' in entrepreneurship?",
+    "options": [
+      "Raising $50 million from institutional venture capital funds in Series A",
+      "Financing and growing a startup using founders' personal savings, lean operations, and internally generated customer revenues without external equity capital",
+      "Taking out high-interest payday loans to fund international business trips",
+      "Applying for sovereign government defense development grants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bootstrapping involves self-funding a business through personal resources, sweating equity, and reinvesting early operational cash flows."
+  },
+  {
+    "id": "MBA8103_052",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is the primary difference between an 'Angel Investor' and a 'Venture Capitalist' (VC)?",
+    "options": [
+      "Angel investors are accredited high-net-worth individuals investing their own personal capital in early-stage startups; VCs are professional money managers investing institutional pooled funds",
+      "Angel investors only fund non-profit religious charities; VCs fund oil exploration",
+      "Angel investors manage $500M institutional pension funds; VCs invest personal pocket money",
+      "Angel investors require 100% board control; VCs take zero voting equity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angels invest personal capital in seed/early stages, whereas VCs are fiduciary fund managers investing institutional limited partners' (LPs) capital into scalable ventures."
+  },
+  {
+    "id": "MBA8103_053",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Cap Table' (Capitalization Table)?",
+    "options": [
+      "A physical conference room table where executive directors sit",
+      "A formal spreadsheet detailing the company's equity ownership breakdown, including shares, options, warrants, and valuation stakes across all founders and investors",
+      "A list of corporate capital assets subject to annual accounting depreciation",
+      "A schedule of municipal tax liabilities owed on commercial real estate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Cap Table records the ownership capitalization of a company, tracking equity percentages, share classes, convertible notes, and dilution through funding rounds."
+  },
+  {
+    "id": "MBA8103_054",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "If a startup has a 'Pre-Money Valuation' of $4 million and raises $1 million in new cash investment, what is the 'Post-Money Valuation' and the investor's ownership percentage?",
+    "options": [
+      "Post-Money: $5 million; Ownership: 20%",
+      "Post-Money: $3 million; Ownership: 25%",
+      "Post-Money: $4 million; Ownership: 25%",
+      "Post-Money: $5 million; Ownership: 25%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Post-Money Valuation = Pre-Money ($4M) + Investment ($1M) = $5M. Investor ownership = $1M / $5M = 20%."
+  },
+  {
+    "id": "MBA8103_055",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'SAFE' (Simple Agreement for Future Equity) created by Y Combinator?",
+    "options": [
+      "A high-interest commercial bank mortgage secured by real estate assets",
+      "A financing contract that grants an investor the right to convert their investment into equity shares in a future priced equity round, without setting an immediate valuation or accruing interest",
+      "A mandatory insurance policy covering office equipment theft",
+      "A guaranteed lifetime employment contract for early software engineers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A SAFE is a popular early-stage instrument allowing startups to receive capital without setting a fixed valuation, converting to shares during a priced round."
+  },
+  {
+    "id": "MBA8103_056",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Dilution' in equity financing?",
+    "options": [
+      "The reduction in existing shareholders' ownership percentage resulting from the issuance of new shares to incoming investors or option pools",
+      "The process of mixing chemicals in manufacturing facilities",
+      "A decrease in product quality during high-volume assembly line production",
+      "The write-down of obsolete physical inventory on financial balance sheets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dilution occurs when a company issues new shares to raise capital, reducing the proportional ownership percentage held by existing shareholders."
+  },
+  {
+    "id": "MBA8103_057",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What does a 'Valuation Cap' in a convertible note or SAFE protect?",
+    "options": [
+      "It protects the founder from giving up more than 5% equity regardless of round size",
+      "It protects the early investor by setting a maximum effective valuation at which their note will convert into equity, ensuring adequate share reward for early risk",
+      "It limits the maximum salary payable to the chief executive officer",
+      "It caps the total sales revenue a company can earn before paying corporation taxes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Valuation Cap guarantees early investors an equity conversion price based on a maximum agreed company value, rewarding early high-risk capital."
+  },
+  {
+    "id": "MBA8103_058",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "In Venture Capital terminology, what is 'Carried Interest' ('Carry')?",
+    "options": [
+      "The interest rate charged by commercial banks on corporate overdraft facilities",
+      "The share of investment profits (typically 20%) that venture capital fund managers (GPs) receive as performance compensation above capital return",
+      "The physical weight of luggage transported during investor roadshows",
+      "The annual management fee charged by fund managers to cover operational overhead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carried interest is the performance fee (typically 20% of net fund profits) earned by VC general partners after returning invested capital to limited partners (LPs)."
+  },
+  {
+    "id": "MBA8103_059",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is the '2 and 20' fee structure standard in venture capital and private equity funds?",
+    "options": [
+      "2% annual management fee on committed capital and 20% carried interest on net investment profits",
+      "2 years of lockup and 20% guaranteed annual dividend yield",
+      "2 board seats and 20% immediate common share voting dilution",
+      "2 days of due diligence and 20 portfolio companies per partner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "VC funds conventionally charge a 2% annual management fee (to cover salaries, legal, operations) and 20% carried interest on fund profits."
+  },
+  {
+    "id": "MBA8103_060",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Crowdfunding'?",
+    "options": [
+      "A protest conducted outside a commercial banking branch",
+      "The practice of raising monetary contributions from a large pool of individuals (the crowd) typically via internet platforms (e.g., Kickstarter, Crowdcube)",
+      "An emergency loan issued by the International Monetary Fund",
+      "A municipal grant funded by local property tax assessments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crowdfunding harnesses digital platforms to raise capital from large numbers of people (donation, reward-based, equity-based, or peer-to-peer lending)."
+  },
+  {
+    "id": "MBA8103_061",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Term Sheet' in venture financing negotiations?",
+    "options": [
+      "A formal, legally binding 200-page final closing purchase agreement",
+      "A non-binding summary of key terms and conditions (valuation, investment amount, governance, liquidation preference, anti-dilution) outlining a proposed venture financing",
+      "A dictionary of technical engineering terms used in product manuals",
+      "A schedule of office lease termination dates"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A term sheet is a preliminary document outlining the key financial and legal parameters of an investment round before drafting definitive transaction agreements."
+  },
+  {
+    "id": "MBA8103_062",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a '1x Non-Participating Liquidation Preference'?",
+    "options": [
+      "Investors lose 100% of their investment upon company sale",
+      "In an exit/sale, preferred shareholders are entitled to receive their original investment capital back first before common shareholders, or convert to common shares to share pro-rata",
+      "Investors receive 10 times their investment plus 50% of all future revenues",
+      "Common shareholders take all exit proceeds before preferred shareholders get anything"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 1x non-participating liquidation preference ensures preferred investors get 1x their investment returned first, or convert to common if pro-rata distribution yield is higher."
+  },
+  {
+    "id": "MBA8103_063",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "In startup operations, 'Burn Rate' refers to:",
+    "options": [
+      "The temperature at which factory waste is incinerated",
+      "The rate at which a company spends its cash reserves to cover operational overhead before reaching positive cash flow (Net Burn = Cash Outflows - Cash Inflows)",
+      "The speed at which physical paper files are shredded for confidentiality",
+      "The turnover rate of entry-level warehouse employees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Burn rate tracks monthly net cash depletion. Cash Runway = Total Cash Balance / Monthly Burn Rate."
+  },
+  {
+    "id": "MBA8103_064",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "If a startup has $600,000 in cash reserves and a net monthly burn rate of $50,000, how many months of 'Cash Runway' does it have?",
+    "options": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cash Runway = Total Cash / Monthly Net Burn = $600,000 / $50,000 = 12 months."
+  },
+  {
+    "id": "MBA8103_065",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is an 'Option Pool' (ESOP) in startup equity structuring?",
+    "options": [
+      "A recreational swimming facility constructed at tech corporate headquarters",
+      "A reserved percentage of company equity shares (typically 10-20%) set aside to attract, incentivize, and retain key employees through stock option grants",
+      "A pool of cash reserved exclusively for paying vendor invoices",
+      "A financial derivatives trading account managed on Wall Street"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An Employee Stock Ownership Plan (ESOP) pool reserves equity to incentivize talent with stock options, aligning employee incentives with venture growth."
+  },
+  {
+    "id": "MBA8103_066",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Vesting' with a standard '4-year vesting with a 1-year cliff' for startup founders and early employees?",
+    "options": [
+      "Employees receive 100% of their equity shares on day one with zero clawbacks",
+      "Employees earn equity incrementally over 4 years; if they leave before 12 months (the cliff), they receive 0% equity, but earn 25% at month 12 and 1/48th monthly thereafter",
+      "Employees must work 4 years without any cash compensation before receiving minimum wage",
+      "The company commits to buying back shares at a 10x premium after 12 months"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 1-year cliff with 4-year monthly vesting ensures long-term commitment: zero equity vests before year 1, after which 25% vests, followed by monthly accrual."
+  },
+  {
+    "id": "MBA8103_067",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Drag-Along Right' in a shareholder agreement?",
+    "options": [
+      "A clause allowing majority shareholders who sell their stake to force minority shareholders to join the sale on the same terms and price",
+      "A clause allowing employees to bring family members to office boardrooms",
+      "A rule requiring board meetings to last at least twelve continuous hours",
+      "A legal right permitting minority investors to block any product launch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Drag-along rights allow majority owners to compel minority shareholders to sell their shares during an acquisition, preventing minority holdouts from blocking a deal."
+  },
+  {
+    "id": "MBA8103_068",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Tag-Along Right' (Co-Sale Right) in investor agreements?",
+    "options": [
+      "A contractual right allowing minority shareholders to participate in a share sale initiated by majority founders/investors under the exact same pricing and terms",
+      "A marketing tactic where digital banner ads follow web users across websites",
+      "A clause requiring every board member to wear identity name tags",
+      "A statutory mandate requiring all startups to hire local legal counsel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tag-along rights protect minority shareholders from being left behind when majority shareholders sell their equity to a third party."
+  },
+  {
+    "id": "MBA8103_069",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "In venture capital, a 'Unicorn' is defined as:",
+    "options": [
+      "A mythical creature featured in corporate branding campaigns",
+      "A privately held startup company valued at $1 billion or more",
+      "A company that achieves $1 billion in annual net cash dividend payouts",
+      "A startup that operates with zero software engineers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Coined by Aileen Lee in 2013, a 'Unicorn' refers to any privately held tech startup with a post-money valuation exceeding $1 billion."
+  },
+  {
+    "id": "MBA8103_070",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Venture Debt'?",
+    "options": [
+      "An unsecured loan issued by credit unions for buying personal motor vehicles",
+      "Specialized debt financing provided to venture-backed startups that complements equity funding, offering growth runway without heavy equity dilution",
+      "A penalty fee levied by stock exchanges for late annual report filings",
+      "Defaulted loans written off by commercial retail banks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Venture debt provides non-dilutive or low-dilution debt capital (often with equity warrants) to venture-backed startups with strong investor backing."
+  },
+  {
+    "id": "MBA8103_071",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is an 'IPO' (Initial Public Offering)?",
+    "options": [
+      "The first internal presentation made to angel investors",
+      "The process through which a private corporate entity sells its shares to the general public and lists on an institutional stock exchange for the first time",
+      "The initial purchase order issued to a raw material supplier",
+      "An inspection conducted by municipal health and safety regulators"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An IPO marks the transition of a private enterprise into a publicly traded corporation on a public stock exchange (e.g., NYSE, NASDAQ, LSE)."
+  },
+  {
+    "id": "MBA8103_072",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is an 'Acqui-hire' in tech venture exits?",
+    "options": [
+      "Acquiring a company primarily for the specialized technical talent and skills of its founding and engineering team rather than its current product or earnings",
+      "Hiring human resource recruitment agencies on retainers",
+      "Outsourcing warehouse logistics to third-party providers",
+      "Buying used office computer equipment from bankrupt firms"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An acqui-hire is an acquisition executed primarily to bring on board an exceptional engineering or product team, often retiring the target's existing product."
+  },
+  {
+    "id": "MBA8103_073",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What does 'Due Diligence' entail in venture capital investments?",
+    "options": [
+      "A quick 5-minute telephone conversation between founders and investors",
+      "A comprehensive, systematic investigation and audit of a startup's financials, legal contracts, cap table, technology code, customer traction, and team background before closing an investment",
+      "The daily scheduling of corporate social media posts",
+      "Filing patent applications in local patent offices"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Due diligence is the rigorous audit conducted by investors to verify the financial, legal, intellectual property, and commercial veracity of a target startup."
+  },
+  {
+    "id": "MBA8103_074",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Down Round' in venture capital funding?",
+    "options": [
+      "A funding round where investors sit on floor cushions during meetings",
+      "A round of venture financing where a company raises capital at a lower pre-money valuation than in its previous funding round",
+      "A round where zero equity is issued to incoming investors",
+      "The final round before mandatory liquidation by bankruptcy courts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A down round occurs when a company raises capital at a lower valuation than its prior round, triggering dilution and anti-dilution protections."
+  },
+  {
+    "id": "MBA8103_075",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Full Ratchet Anti-Dilution' versus 'Broad-Based Weighted Average Anti-Dilution'?",
+    "options": [
+      "Full Ratchet reprices prior investor shares down to the lowest price per share in a down round regardless of the number of shares issued; Weighted Average adjusts the price based on both the new price and the relative volume of shares issued",
+      "Full Ratchet only applies to software startups; Weighted Average applies to hardware",
+      "Full Ratchet eliminates all voting rights; Weighted Average grants triple voting shares",
+      "Full Ratchet is a mechanical tool used in automotive engine repair"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Full Ratchet is severe for founders because it resets the conversion price entirely to the new lower price; Weighted Average takes dilution volume into account fairly."
+  },
+  {
+    "id": "MBA8103_076",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Seed Round' in the venture funding hierarchy?",
+    "options": [
+      "The final funding round before a company's shares are delisted from stock exchanges",
+      "The initial formal institutional/angel capital raised to finance early product development, market research, initial hiring, and MVP validation",
+      "An agricultural government subsidy for buying grain seed stocks",
+      "The annual dividend paid to municipal treasury authorities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Seed capital funds initial product development, early hires, customer discovery, and MVP testing before full-scale commercial market entry."
+  },
+  {
+    "id": "MBA8103_077",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Series A' funding primarily used for?",
+    "options": [
+      "Funding speculative initial brainstorm sessions",
+      "Scaling product-market fit, expanding marketing and sales teams, and building repeatable customer acquisition channels",
+      "Paying executive retirement pension liabilities",
+      "Covering personal credit card debt incurred by founders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Series A financing is raised by startups with validated product-market fit to optimize unit economics, expand the team, and scale distribution."
+  },
+  {
+    "id": "MBA8103_078",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is an 'Incubator' versus an 'Accelerator'?",
+    "options": [
+      "Incubators support very early-stage ideas over flexible, open-ended timelines; Accelerators run fixed-duration, highly competitive cohort programs (e.g., 3-6 months) ending in a Demo Day with seed capital and intensive mentorship",
+      "Incubators provide $100M growth debt; Accelerators provide zero money or advice",
+      "Incubators only support agriculture; Accelerators only support particle physics",
+      "Incubators are owned by commercial banks; Accelerators are run by trade unions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Incubators nurture nascent ideas over long horizons, while accelerators (like Y Combinator, Techstars) run intense 3-month fixed cohorts culminating in Demo Day."
+  },
+  {
+    "id": "MBA8103_079",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Demo Day' at the conclusion of a startup accelerator program?",
+    "options": [
+      "A day where founders demonstrate factory machinery safety to municipal inspectors",
+      "A formal showcase event where cohort startup founders pitch their validated businesses and traction to a room of active venture capitalists and angel investors",
+      "A scheduled holiday where all startup websites are taken offline for maintenance",
+      "An internal team meeting where software developers demonstrate debugging tools"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Demo Day is the flagship finale of accelerator cohorts, giving founders an exclusive platform to pitch to hundreds of active angel and VC investors."
+  },
+  {
+    "id": "MBA8103_080",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Bridge Financing' (or Bridge Loan)?",
+    "options": [
+      "A loan secured specifically to construct physical road bridges across rivers",
+      "Short-term interim financing designed to extend cash runway and carry a startup until a major financing round, acquisition, or milestone is finalized",
+      "A grant provided by international maritime freight associations",
+      "A permanent 30-year fixed corporate mortgage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bridge financing bridges the liquidity gap between two larger funding rounds or liquidity events, usually structured via convertible notes or SAFEs."
+  },
+  {
+    "id": "MBA8103_081",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Cap Rate' or 'Discount Rate' in convertible securities?",
+    "options": [
+      "The discount percentage (typically 15-25%) applied to the price per share of the next round when the convertible security converts into equity",
+      "The discount offered to retail shoppers during holiday sales",
+      "The interest rate charged by the Federal Reserve Bank on overnight repo lines",
+      "The statutory income tax rebate allowed for corporate research laboratories"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conversion discount (e.g., 20%) rewards early noteholders by letting them convert debt/SAFEs into equity at a 20% discount to the Series A share price."
+  },
+  {
+    "id": "MBA8103_082",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Corporate Venture Capital' (CVC)?",
+    "options": [
+      "Venture capital funds raised exclusively from municipal government property taxes",
+      "The investment of corporate funds directly into external innovative startup enterprises by established corporations (e.g., Google Ventures, Intel Capital)",
+      "Loans taken by corporations to buy corporate aircraft",
+      "Non-profit foundations providing food aid in famine regions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CVC involves established corporations investing balance sheet capital into startups to gain strategic technological insights, commercial partnerships, and financial returns."
+  },
+  {
+    "id": "MBA8103_083",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "In startup governance, what is a 'Board Observer'?",
+    "options": [
+      "A member of the general public permitted to watch board meetings via webcam",
+      "An individual granted the legal right to attend board meetings and receive board materials but who possesses no formal voting rights or fiduciary powers",
+      "A court-appointed bankruptcy receiver liquidating corporate assets",
+      "An undercover journalist reporting on corporate boardroom culture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Board observers participate in discussions and receive information packets, providing investor oversight without holding voting equity power."
+  },
+  {
+    "id": "MBA8103_084",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is a 'Right of First Refusal' (ROFR) in equity agreements?",
+    "options": [
+      "The right of an investor to refuse to answer questions during annual general meetings",
+      "A contractual right giving existing shareholders or the company the opportunity to match any third-party purchase offer before a shareholder sells equity to an outsider",
+      "The legal right of founders to decline all incoming venture capital term sheets",
+      "A clause allowing customers to return opened software packaging for full refunds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ROFR allows existing investors or the company to buy selling shareholders' stock on the same terms before it can be transferred to an outside third party."
+  },
+  {
+    "id": "MBA8103_085",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Financing & Venture Capital",
+    "question": "What is 'Sweat Equity' in early-stage ventures?",
+    "options": [
+      "The physical hydration drinks supplied to warehouse assembly workers",
+      "An equity stake earned in a startup through unpaid labor, mental effort, time, and intellectual contributions rather than monetary cash capital",
+      "A financial derivatives option traded on commodity exchanges",
+      "A health club membership benefit provided to executive officers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sweat equity represents the value contributed to a company through unpaid time, development effort, and expertise by founders and early builders."
+  },
+  {
+    "id": "MBA8103_086",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "Which business legal structure exposes the owner to unlimited personal liability for all debts and obligations of the business?",
+    "options": [
+      "Limited Liability Company (LLC)",
+      "C-Corporation",
+      "Sole Proprietorship",
+      "Public Limited Company (PLC)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a sole proprietorship, there is no legal distinction between the owner and the business; personal assets (house, savings) are exposed to business liabilities."
+  },
+  {
+    "id": "MBA8103_087",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is the primary advantage of forming a 'Limited Liability Company' (LLC) or 'S-Corporation' regarding taxation in many jurisdictions?",
+    "options": [
+      "Pass-through taxation (profits and losses flow directly to owners' personal tax returns without being taxed at the corporate level)",
+      "Complete statutory exemption from all personal income taxes indefinitely",
+      "Exemption from paying any employee wages or payroll levies",
+      "Mandatory double-taxation on both corporate earnings and dividend payouts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pass-through taxation avoids corporate double-taxation; profits pass directly to the owners' personal tax returns."
+  },
+  {
+    "id": "MBA8103_088",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "A 'C-Corporation' structure is typically required by venture capitalists because:",
+    "options": [
+      "It cannot issue shares to foreign investors",
+      "It allows multiple classes of stock (common and preferred stock), unlimited shareholders, and standardized institutional governance",
+      "It operates without a board of directors",
+      "It eliminates all reporting obligations to financial regulators"
+    ],
+    "correctAnswer": 1,
+    "explanation": "VCs prefer C-Corps (e.g., Delaware C-Corps) due to predictable corporate case law, clean stock class structuring (preferred vs. common), and tax compatibility with LP funds."
+  },
+  {
+    "id": "MBA8103_089",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What are the three fundamental statutory requirements for an invention to be granted a 'Utility Patent'?",
+    "options": [
+      "Novelty, Non-Obviousness (Inventive Step), and Industrial Applicability (Utility)",
+      "Popularity, Low Price, and Attractive Aesthetics",
+      "Digital Compatibility, Trademark Protection, and Social Media Virality",
+      "CEO Approval, Notarized Translation, and Board Resolution"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To secure a utility patent, an invention must be strictly novel (new), non-obvious to someone skilled in the art, and possess practical utility/industrial applicability."
+  },
+  {
+    "id": "MBA8103_090",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "How does a 'Trade Secret' differ fundamentally from a 'Patent'?",
+    "options": [
+      "Trade secrets expire automatically after 5 years; patents last forever",
+      "A patent requires public disclosure of the invention in exchange for a 20-year exclusive monopoly; a trade secret remains protected indefinitely as long as it is kept confidential and reasonable measures are taken to maintain secrecy",
+      "Trade secrets are granted by government ministries; patents are kept hidden in safes",
+      "Trade secrets only apply to agricultural grain formulas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Patents require full public technical disclosure for 20 years of exclusivity; trade secrets require secrecy (NDAs, access controls) and have no formal expiration."
+  },
+  {
+    "id": "MBA8103_091",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What does a 'Non-Disclosure Agreement' (NDA) legally establish?",
+    "options": [
+      "A binding obligation of confidentiality between parties regarding proprietary information and trade secrets shared during business discussions",
+      "A contract guaranteeing lifetime employment to an executive manager",
+      "An agreement to purchase fixed assets at a 50% discount",
+      "A formal lease contract for renting commercial office space"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An NDA is a legal contract that prohibits signatories from disclosing or misusing confidential information shared during negotiations."
+  },
+  {
+    "id": "MBA8103_092",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Franchising' as an entrepreneurial growth strategy?",
+    "options": [
+      "Selling 100% of the corporate shares to a foreign sovereign wealth fund",
+      "A contractual licensing agreement where the franchisor grants the franchisee the right to use its established brand, business model, and operational systems in exchange for upfront fees and ongoing royalties",
+      "The complete shutdown of physical stores in favor of an unregulated online forum",
+      "A non-profit community outreach program run by municipal authorities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Franchising allows rapid geographic expansion by licensing a proven business concept, brand, and operating manual to independent owner-operators (franchisees)."
+  },
+  {
+    "id": "MBA8103_093",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "In a franchise system, what is an ongoing 'Royalty Fee'?",
+    "options": [
+      "A one-time initiation fee paid upon signing the initial franchise contract",
+      "A regular, ongoing percentage fee (e.g., 4-8%) of gross revenues paid by the franchisee to the franchisor for continuous support, systems, and brand usage",
+      "The statutory corporation income tax paid to federal authorities",
+      "The hourly wage paid to entry-level retail counter personnel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Franchise royalties are continuous recurring percentage fees calculated on gross revenue, funding franchisor system maintenance, R&D, and support."
+  },
+  {
+    "id": "MBA8103_094",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Licensing' in intellectual property strategy?",
+    "options": [
+      "An agreement where an IP owner (licensor) permits another party (licensee) to produce, use, or sell the patented technology, software, or brand in exchange for royalties",
+      "The physical printing of driving license identity cards by municipal police",
+      "A hostile takeover of a patent office by private equity funds",
+      "The surrender of all intellectual property into the public domain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Licensing enables IP monetization and market scaling without capital-heavy manufacturing investments by granting third parties production/commercial rights."
+  },
+  {
+    "id": "MBA8103_095",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is a 'Strategic Alliance'?",
+    "options": [
+      "A formal, legally binding consolidation into a single corporate entity",
+      "A collaborative partnership between two or more independent enterprises to pursue common business objectives while maintaining their independent organizational identities",
+      "A military defense agreement ratified by national parliaments",
+      "A price-fixing cartel banned by competition authorities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strategic alliances allow firms to share R&D, market access, technology, or distribution channels while retaining independent corporate structures."
+  },
+  {
+    "id": "MBA8103_096",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is a 'Joint Venture' (JV)?",
+    "options": [
+      "A temporary telephone conference call between two sales managers",
+      "A distinct new legal business entity created and co-owned by two or more parent companies who pool resources, share risk, governance, and profits",
+      "A commercial bank overdraft facility used for working capital",
+      "A retail loyalty discount program shared between two grocery brands"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Joint Venture is a separate legal entity co-founded by two or more parent companies to execute a specific project or market entry (e.g., Sony-Ericsson)."
+  },
+  {
+    "id": "MBA8103_097",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "In startup growth mechanics, what is the 'Viral Coefficient' ($K$-factor)?",
+    "options": [
+      "The rate of airborne pathogen transmission across an open-plan office",
+      "The metric that measures how many new users each existing user brings into the product ($K = \text{invites sent per user} \times \text{conversion rate}$)",
+      "The speed at which a computer server processor overheats during peak traffic",
+      "The percentage of employees taking annual medical leave"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The viral coefficient ($K$) measures virality. If $K > 1$, every user generates more than one new user, resulting in exponential viral organic growth."
+  },
+  {
+    "id": "MBA8103_098",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Blitzscaling' (Reid Hoffman)?",
+    "options": [
+      "A slow, cautious, risk-free multi-decade expansion approach",
+      "A strategy of prioritizing hyper-speed over efficiency in the face of uncertainty to achieve massive scale and first-scaler advantage in winner-take-most markets",
+      "The immediate liquidation of a business after 90 days of operation",
+      "The complete automation of all accounting spreadsheets using mechanical calculating machines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blitzscaling prioritizes extreme speed of growth over operational efficiency to capture dominant network effects in global markets (e.g., Uber, Airbnb)."
+  },
+  {
+    "id": "MBA8103_099",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is a 'Non-Compete Clause' in an employment or founder agreement?",
+    "options": [
+      "A contractual agreement restricting an individual from starting or joining a directly competing business in a specific geographic area for a designated time period after departure",
+      "A clause prohibiting employees from playing competitive sports on weekends",
+      "An agreement mandating that all employees participate in annual marathons",
+      "A clause requiring founders to sell products at identical prices to competitors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Non-compete clauses prevent former employees or founders from taking proprietary know-how to launch or join rival firms within defined temporal/geographic bounds."
+  },
+  {
+    "id": "MBA8103_100",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Inorganic Growth' versus 'Organic Growth'?",
+    "options": [
+      "Inorganic growth is achieved through mergers, acquisitions, and strategic buyouts; Organic growth is achieved internally through core operational expansion, product innovation, and new customer sales",
+      "Inorganic growth uses synthetic fertilizers; Organic growth uses natural soil",
+      "Inorganic growth is illegal under corporate law; Organic growth is tax-exempt",
+      "Inorganic growth applies strictly to non-profit organizations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Organic growth expands from within (sales, hiring, new lines); inorganic growth accelerates scale through M&A and corporate acquisitions."
+  },
+  {
+    "id": "MBA8103_101",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Copyright' protection automatically applied to?",
+    "options": [
+      "Mechanical engine inventions and chemical pharmaceutical formulas",
+      "Original works of authorship fixed in a tangible medium of expression (e.g., software code, books, music, artistic illustrations, film)",
+      "Short brand slogans and corporate logos",
+      "Unrecorded verbal conversations between founders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Copyright protects original literary, artistic, musical, dramatic, and software works from unauthorized reproduction once fixed in a tangible medium."
+  },
+  {
+    "id": "MBA8103_102",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "In corporate intellectual property management, what is a 'Patent Troll' (Non-Practicing Entity - NPE)?",
+    "options": [
+      "A certified government patent examiner who audits technical blueprints",
+      "An entity that acquires patents not to manufacture products, but solely to aggressively enforce them against operating companies through opportunistic infringement litigation",
+      "A software algorithm that automatically files patent forms",
+      "A mechanical manufacturing robot deployed in automotive assembly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NPEs/Patent Trolls leverage acquired patent portfolios to extract licensing fees and settlements from operating businesses without creating products."
+  },
+  {
+    "id": "MBA8103_103",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Work Made for Hire' doctrine in copyright and employment law?",
+    "options": [
+      "An independent contractor retains 100% of all intellectual property created during a project unless sued",
+      "Any copyrightable work created by an employee within the scope of their regular employment is automatically owned by the employer as the statutory author",
+      "All intellectual property must be donated to public open-source repositories",
+      "A doctrine that bans companies from hiring freelance software developers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under 'Work for Hire,' employers own all IP created by employees during their employment; contracts with contractors must explicitly assign IP in writing."
+  },
+  {
+    "id": "MBA8103_104",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Horizontal Integration'?",
+    "options": [
+      "A company acquiring or merging with direct competitors operating at the same stage of the value chain within the same industry",
+      "A company purchasing its raw material suppliers upstream",
+      "A manufacturer opening its own retail stores downstream",
+      "The physical construction of single-story factory warehouses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Horizontal integration expands market share and eliminates rivalry by acquiring competitors at the same value-chain tier (e.g., Facebook buying Instagram)."
+  },
+  {
+    "id": "MBA8103_105",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Vertical Integration'?",
+    "options": [
+      "A company combining operations with firms at different stages of the production/distribution value chain (upstream suppliers or downstream distributors)",
+      "Two competing grocery stores sharing a single cash register",
+      "Constructing skyscraper office buildings to house corporate staff",
+      "Promoting entry-level employees directly to the board of directors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vertical integration controls multiple value-chain steps—backward into supplies (e.g., Tesla battery cells) or forward into retail/service delivery."
+  },
+  {
+    "id": "MBA8103_106",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Conglomerate Diversification'?",
+    "options": [
+      "Expanding into entirely new, unrelated industries that have no technological or commercial synergies with the firm's core business (e.g., Virgin Group)",
+      "Opening five additional retail shoe stores in the same city",
+      "Upgrading the internal operating system on office computers",
+      "Focusing 100% of corporate resources on a single niche product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conglomerate diversification enters unrelated industries, spreading commercial risk across uncorrelated market sectors."
+  },
+  {
+    "id": "MBA8103_107",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "In trademark law, what is 'Trademark Dilution'?",
+    "options": [
+      "Spilling cleaning solvents onto cardboard shipping boxes",
+      "The unauthorized use of a famous trademark in a way that weakens its distinctiveness (blurring) or harms its brand reputation (tarnishment), even without direct consumer confusion",
+      "The legal expiration of trademark rights after twenty calendar years",
+      "Offering 50% discount sales on branded luxury goods"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trademark dilution protects famous marks from being degraded (tarnishment) or having their unique association diminished (blurring) by third parties."
+  },
+  {
+    "id": "MBA8103_108",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is an 'Option Agreement' for purchasing intellectual property?",
+    "options": [
+      "A contract granting a party the exclusive right, but not the obligation, to buy or license IP on pre-negotiated terms within a specified timeframe",
+      "A mandatory requirement to purchase 1,000 shares of common stock",
+      "An agreement to exchange physical machinery for office furniture",
+      "A contract that allows consumers to return products within 30 days"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An IP option gives the holder exclusive time to evaluate technical viability and market potential before exercising the right to purchase or license."
+  },
+  {
+    "id": "MBA8103_109",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'White Labeling' in product commercialization?",
+    "options": [
+      "Printing plain white packaging to save on commercial printing costs",
+      "A manufacturing arrangement where a generic product or service produced by one company is rebranded and sold by another company under its own brand name",
+      "A legal sanction imposed by competition authorities for deceptive labeling",
+      "A trademark certification indicating 100% organic cotton content"
+    ],
+    "correctAnswer": 1,
+    "explanation": "White labeling allows brands to sell third-party manufactured products under their own branding, avoiding R&D and factory setup overhead."
+  },
+  {
+    "id": "MBA8103_110",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Growth Hacking' in digital startup marketing?",
+    "options": [
+      "Illegally breaking into competitors' computer servers to steal customer databases",
+      "A rapid, data-driven experimentation process across marketing funnels, product development, and engineering to identify the most efficient ways to scale a business",
+      "Cutting down trees to construct wooden billboard advertisements",
+      "Hiring 500 door-to-door salesmen on temporary hourly contracts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Growth hacking combines engineering, analytics, and creative marketing experiments to achieve scalable customer acquisition at low cost."
+  },
+  {
+    "id": "MBA8103_111",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "In startup team structuring, what is a 'Founders' Agreement'?",
+    "options": [
+      "A casual verbal agreement made during a dinner toast",
+      "A legally binding document between co-founders establishing roles, equity splits, vesting schedules, IP assignments, voting rights, and buyout mechanisms in case of founder departure",
+      "A lease contract signed with a co-working incubator space",
+      "A certificate of incorporation issued by the municipal authorities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A founders' agreement prevents devastating co-founder disputes by establishing clear equity vesting, responsibilities, decision-making rules, and exit terms."
+  },
+  {
+    "id": "MBA8103_112",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Open Innovation' (Henry Chesbrough)?",
+    "options": [
+      "Keeping all corporate research strictly classified inside corporate vaults",
+      "A business innovation model that actively combines internal and external ideas, technologies, and paths to market to advance company capabilities",
+      "Making all corporate banking records accessible to the general public online",
+      "Allowing customers to enter factory manufacturing lines without safety gear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Open innovation leverages external R&D, partnerships, crowdsourcing, and licensing alongside internal development to accelerate innovation."
+  },
+  {
+    "id": "MBA8103_113",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Goodwill' on an acquiring company's balance sheet during an M&A transaction?",
+    "options": [
+      "A voluntary cash donation made to a local community sports club",
+      "An intangible asset recorded when the purchase price of an acquired company exceeds the fair market value of its identifiable net tangible and intangible assets",
+      "The positive morale and happiness reported by factory workers in annual surveys",
+      "The total value of inventory returned by satisfied customers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goodwill represents the premium paid over fair net asset value during an acquisition, reflecting brand reputation, customer relationships, and synergies."
+  },
+  {
+    "id": "MBA8103_114",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Reverse Engineering' in product development and IP law?",
+    "options": [
+      "Driving manufacturing delivery trucks backwards into warehouse loading docks",
+      "The lawful process of taking apart an existing commercially available product to examine its components, design, and operation to understand how it works",
+      "Writing software code backwards from end to beginning",
+      "Canceling a signed commercial engineering contract"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reverse engineering is generally legally permissible (absent patent protection or contractual anti-reverse engineering clauses) to analyze how products function."
+  },
+  {
+    "id": "MBA8103_115",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Freedom to Operate' (FTO) analysis in entrepreneurial risk management?",
+    "options": [
+      "A municipal business operating license issued to retail food trucks",
+      "A formal legal search and assessment conducted to ensure that commercializing a new product will not infringe on any valid existing third-party patents",
+      "A constitutional clause guaranteeing the right to peaceful assembly",
+      "An evaluation of whether employees have flexible working hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FTO due diligence ensures that producing and selling a new product will not trigger costly patent infringement litigation from third-party IP holders."
+  },
+  {
+    "id": "MBA8103_116",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is an 'IP Assignment Agreement' for startup employees and contractors?",
+    "options": [
+      "A document authorizing employees to use office computers for personal study",
+      "A legal contract transferring all intellectual property rights created by an employee or contractor during their work to the startup company",
+      "A schedule of quarterly patent royalty payouts",
+      "An insurance policy against computer software viruses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IP assignments ensure the corporate entity—not individual founders or contractors—owns all proprietary code, designs, and patents, essential for raising venture capital."
+  },
+  {
+    "id": "MBA8103_117",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Cannibalization' in corporate growth and product line extensions?",
+    "options": [
+      "A reduction in sales volume, revenue, or market share of an existing product caused by the introduction of a new product by the same company",
+      "Competitors buying out a startup's supplier network",
+      "A hostile takeover where all executive board members are fired",
+      "Disposing of defective raw materials in landfill sites"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cannibalization occurs when a new product steals sales from the firm's existing product lines (e.g., iPhone cannibalizing iPod sales)."
+  },
+  {
+    "id": "MBA8103_118",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Co-opetition' (Brandenburger & Nalebuff)?",
+    "options": [
+      "A labor dispute between two rival trade unions",
+      "The strategic collaboration between business competitors in certain areas (e.g., joint industry standards, infrastructure) while continuing to compete in others",
+      "A monopolistic agreement to fix retail consumer prices",
+      "A cooperative grocery store owned by neighborhood residents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Co-opetition blends cooperation and competition—firms cooperate to expand the overall market pie while competing fiercely for their individual slice."
+  },
+  {
+    "id": "MBA8103_119",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is 'Brand Equity'?",
+    "options": [
+      "The physical real estate value of corporate retail storefronts",
+      "The commercial value derived from consumer perception and brand name recognition rather than from the product or service itself",
+      "The total monetary investment spent on billboard advertising over ten years",
+      "The statutory trademark registration fees paid to the government registry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brand equity is the premium value generated by brand awareness, loyalty, perceived quality, and strong brand associations (e.g., Apple, Nike)."
+  },
+  {
+    "id": "MBA8103_120",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Legal Entities, IP & Growth",
+    "question": "What is a 'Spin-off' (Spin-out) in corporate entrepreneurship?",
+    "options": [
+      "A manufacturing defect that causes machinery rotors to spin erratically",
+      "The creation of an independent new company through the sale or distribution of new shares of an existing business division or parent corporate entity",
+      "A public relations campaign launched to counter negative press coverage",
+      "A fast-paced brainstorming session conducted by marketing interns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A corporate spin-off establishes a standalone independent business entity from a parent company division, allowing it to raise independent capital and focus strategically."
+  },
+  {
+    "id": "MBA8103_121",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Family Business & Succession",
+    "question": "What is the 'Three-Circle Model' of Family Business?",
+    "options": [
+      "Family, Ownership, and Business",
+      "Finance, Accounting, and Marketing",
+      "Board, CEO, and Employees",
+      "Customers, Suppliers, and Competitors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Three-Circle Model (Tagiuri & Davis) analyzes the overlapping subsystems in family firms: Family, Ownership, and Business."
+  },
+  {
+    "id": "MBA8103_122",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Family Business & Succession",
+    "question": "What is the most common cause of failure in family business succession transitions?",
+    "options": [
+      "Lack of technical manufacturing machinery",
+      "Lack of formal succession planning, family governance, and unresolved intergenerational conflict",
+      "Government antitrust intervention",
+      "Inability to secure commercial bank checking accounts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Most family business succession failures stem from communication breakdown, lack of trust, and absence of formal governance and succession planning."
+  },
+  {
+    "id": "MBA8103_123",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Family Business & Succession",
+    "question": "What is a 'Family Council' in family business governance?",
+    "options": [
+      "A legal courtroom where family disputes are adjudicated by a judge",
+      "A governance body that serves as a forum for family members to discuss family values, succession, and business policies distinct from the corporate board",
+      "A board committee that handles executive payroll checks",
+      "A private trust managing real estate investments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Family Council provides structured governance for family members to align values, resolve conflicts, and establish family constitutions separate from daily management."
+  },
+  {
+    "id": "MBA8103_124",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Family Business & Succession",
+    "question": "In succession planning, what is the 'Founder's Trap'?",
+    "options": [
+      "A founder getting physically locked in the office building",
+      "A situation where an organization's growth is stalled because the business remains excessively dependent on the founder's personal decision-making, charisma, and centralized control",
+      "A founder selling 100% of their equity for $1",
+      "A lawsuit filed by early angel investors against the founder"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Founder's Trap occurs when a company outgrows the founder's ability to micro-manage, but the founder resists delegating authority or instituting professional management."
+  },
+  {
+    "id": "MBA8103_125",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Family Business & Succession",
+    "question": "What is a 'Family Constitution' (Family Charter)?",
+    "options": [
+      "A formal, written statement of the family's core values, vision, policies on family employment, ownership transfer, and conflict resolution mechanisms",
+      "The municipal building permit for constructing the family residence",
+      "A document filed with the tax authority to evade inheritance taxes",
+      "The last will and testament of the founding patriarch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Family Constitution guides family members on rights, responsibilities, employment eligibility, and wealth transfer across generations."
+  },
+  {
+    "id": "MBA8103_126",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "What is a 'B-Corp' (Certified B Corporation)?",
+    "options": [
+      "A bankrupt corporation being liquidated by trustees",
+      "A for-profit enterprise certified to meet rigorous standards of social and environmental performance, accountability, and transparency",
+      "A corporate branch that sells secondary discounted goods",
+      "A business that operates exclusively in developing nations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "B-Corps balance purpose and profit, legally required to consider the impact of decisions on workers, customers, suppliers, community, and the environment."
+  },
+  {
+    "id": "MBA8103_127",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "In social venture finance, what is 'Impact Investing'?",
+    "options": [
+      "Investments made with the explicit intention of generating measurable positive social and environmental impact alongside a financial return",
+      "High-risk speculative day trading in cryptocurrency futures",
+      "Donating 100% of capital with zero expectation of financial return (pure philanthropy)",
+      "Investing exclusively in heavy armaments manufacturing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Impact investing targets both social/environmental returns and financial capital preservation or profit."
+  },
+  {
+    "id": "MBA8103_128",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "What metric is commonly used to quantify the social and environmental value created per unit of capital invested in a social enterprise?",
+    "options": [
+      "Price-to-Earnings Ratio (P/E)",
+      "Social Return on Investment (SROI)",
+      "Weighted Average Cost of Capital (WACC)",
+      "Debt-to-Equity Ratio (D/E)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SROI assigns monetary values to social and ecological outcomes, comparing the net present value of social benefits to the investment cost."
+  },
+  {
+    "id": "MBA8103_129",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "What is a 'Hybrid Business Model' in social entrepreneurship?",
+    "options": [
+      "An automobile that operates on both gasoline and battery electricity",
+      "An organizational model that combines commercial revenue-generating market activities with a primary social or environmental mission",
+      "A company that has both an open-plan office and closed executive suites",
+      "A business registered in two different states simultaneously"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hybrid social enterprises blend market revenue models with social missions to achieve self-funding and sustainable impact."
+  },
+  {
+    "id": "MBA8103_130",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "What is 'Microfinance' pioneered by Muhammad Yunus and the Grameen Bank?",
+    "options": [
+      "The provision of small, collateral-free loans, savings, and financial services to low-income entrepreneurs and marginalized populations excluded from traditional banking",
+      "Financing the manufacture of microscopic computer microchips",
+      "Short-term payday lending at predatory interest rates",
+      "A government bailout fund for large industrial conglomerates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Microfinance delivers financial access and micro-credit to impoverished entrepreneurs, empowering self-employment and community poverty reduction."
+  },
+  {
+    "id": "MBA8103_131",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "What is 'Base of the Pyramid' (BoP) strategy (C.K. Prahalad)?",
+    "options": [
+      "Building corporate office towers with broad ground floors",
+      "Serving and co-creating business solutions with the 4 billion people living on low incomes, unlocking market potential while eradicating poverty",
+      "Focusing marketing exclusively on ultra-wealthy luxury buyers",
+      "Selling low-quality discarded goods to municipal charity centers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prahalad argued that serving the world's poorest consumers with dignified, affordable innovations generates massive mutual economic and social value."
+  },
+  {
+    "id": "MBA8103_132",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Social Entrepreneurship",
+    "question": "What is 'Corporate Venturing'?",
+    "options": [
+      "A corporate retreat where executives participate in outdoor adventures",
+      "The practice by established corporations of investing in or launching new entrepreneurial businesses, internal incubators, or spin-offs to foster innovation",
+      "A hostile takeover of a municipal utility company",
+      "A bankruptcy restructuring overseen by commercial debt holders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Corporate venturing involves large corporations creating internal startups (intrapreneurship) or investing in external venture opportunities to secure future growth."
+  },
+  {
+    "id": "MBA8103_133",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Management Buyout' (MBO)?",
+    "options": [
+      "Firing all senior management personnel and replacing them with interns",
+      "A transaction where a company's existing executive management team purchases a controlling equity stake in the business from the parent company or private owners",
+      "A government takeover of a private commercial corporation",
+      "An employee strike demanding higher monthly bonuses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In an MBO, internal managers partner with private equity or debt financiers to acquire and manage the enterprise they operate."
+  },
+  {
+    "id": "MBA8103_134",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Management Buy-In' (MBI)?",
+    "options": [
+      "When an external management team, backed by private equity, purchases a company and replaces the incumbent management team",
+      "When existing managers buy additional company coffee mugs",
+      "When employees buy discounted shares in the company store",
+      "When a company signs a 10-year office lease"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An MBI occurs when an outside executive team acquires a firm and takes over operational leadership from current management."
+  },
+  {
+    "id": "MBA8103_135",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Leveraged Buyout' (LBO)?",
+    "options": [
+      "Acquiring a company using a significant amount of borrowed money (debt) to meet the acquisition cost, using the target company's assets and cash flows as collateral",
+      "Buying a business using only physical gold bullion",
+      "A venture capital seed investment of $50,000",
+      "An outright grant provided by municipal economic councils"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An LBO uses substantial debt financing (often 70-85% of transaction value) secured by the acquired company's assets and operating cash flows to execute an acquisition."
+  },
+  {
+    "id": "MBA8103_136",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Trade Sale' (Strategic Acquisition) exit for a startup?",
+    "options": [
+      "Selling physical goods at a local trade fair exhibition",
+      "Selling the entire startup company and its equity/assets to another operating corporation in the same or adjacent industry",
+      "Exporting shipping containers of inventory to international ports",
+      "Distributing free product samples to retail consumers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A trade sale is an M&A exit where the startup is acquired by a strategic corporate buyer seeking technology, customers, market share, or talent."
+  },
+  {
+    "id": "MBA8103_137",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Secondary Sale' in venture capital?",
+    "options": [
+      "Selling damaged returned goods on discount retail forums",
+      "A transaction where existing shareholders (founders, angels, early employees) sell their already-issued shares directly to a new investor without issuing new company stock",
+      "A second Initial Public Offering conducted by a mature public firm",
+      "An auction of old office furniture by liquidators"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Secondary share sales provide liquidity to early investors and founders by selling existing shares rather than creating primary new dilution for company cash."
+  },
+  {
+    "id": "MBA8103_138",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is an 'Earn-Out' provision in M&A transactions?",
+    "options": [
+      "A contractual agreement where a portion of the purchase price is contingent upon the target business achieving specific future financial/operational milestones after acquisition",
+      "A requirement that all employees earn minimum wage for twelve months",
+      "An immediate full cash payout at closing with zero post-closing obligations",
+      "A penalty fee levied by stock exchanges on delinquent corporate filings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An earn-out bridges valuation gaps between buyer and seller by tying future contingent payments to post-acquisition revenue, profit, or milestone delivery."
+  },
+  {
+    "id": "MBA8103_139",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "In financial analysis, what does 'EBITDA' stand for?",
+    "options": [
+      "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+      "Equity Balance In Total Debt Assets",
+      "Executive Bonus Income Total Deductions Applied",
+      "Estimated Budget In Trade Development Accounts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EBITDA measures core operating profitability before non-operating expenses, financing structure, and non-cash depreciation/amortization accounting."
+  },
+  {
+    "id": "MBA8103_140",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is 'Recapitalization'?",
+    "options": [
+      "Rewriting the business plan using capital letters",
+      "Restructuring a company's debt and equity ratio to optimize capital structure, provide shareholder liquidity, or prevent hostile takeovers",
+      "Opening five additional bank checking accounts",
+      "Liquidating the company's fixed manufacturing machinery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recapitalization alters the mix of debt and equity on the balance sheet to improve financial flexibility, return capital, or prepare for expansion."
+  },
+  {
+    "id": "MBA8103_141",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is an 'Escrow Account' in an M&A transaction?",
+    "options": [
+      "A bank account where a portion of the purchase funds is held by a neutral third party for a specified indemnity period to cover potential warranty or liability breaches",
+      "A checking account used to pay weekly office lunch orders",
+      "An offshore tax haven account that evades corporate income taxes",
+      "A joint account shared between two competing corporate boards"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Escrow funds (often 10-15% of purchase price) protect the buyer against undisclosed liabilities or breach of representations during the post-closing warranty period."
+  },
+  {
+    "id": "MBA8103_142",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Golden Parachute'?",
+    "options": [
+      "A physical parachute decorated with gold leaf for executive parachutists",
+      "A substantial financial compensation package guaranteed to top executives if they lose their jobs following a corporate merger or hostile takeover",
+      "A special corporate jet allocated to the board chairman",
+      "An early retirement bonus paid to all factory floor workers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Golden parachutes provide generous severance packages (cash, stock options, benefits) to executives if their employment terminates due to a change of corporate control."
+  },
+  {
+    "id": "MBA8103_143",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is 'Vendor Due Diligence' (Sell-Side Due Diligence)?",
+    "options": [
+      "When the seller commissions an independent, comprehensive audit of their own business before approaching buyers to identify issues and expedite the sale process",
+      "When a vendor audits retail customers before selling merchandise",
+      "When a company checks the credit score of office stationery suppliers",
+      "A safety check conducted on factory vending machines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sell-side due diligence allows founders/sellers to prepare a thorough disclosure report, resolve red flags in advance, and streamline the M&A process for bidders."
+  },
+  {
+    "id": "MBA8103_144",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'SPAC' (Special Purpose Acquisition Company)?",
+    "options": [
+      "A space exploration technology startup funded by venture capital",
+      "A publicly traded shell company formed with the sole purpose of raising capital to acquire an existing private company and take it public ('Reverse Merger')",
+      "A specialized accounting software used exclusively by tax authorities",
+      "A commercial warehouse designed for storing hazardous chemical substances"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A SPAC ('blank check company') raises capital via IPO to acquire a private operating business within a set timeframe, taking the target public faster than a traditional IPO."
+  },
+  {
+    "id": "MBA8103_145",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is 'Lock-Up Period' following an Initial Public Offering (IPO)?",
+    "options": [
+      "A period during which company offices are locked for security audits",
+      "A predetermined period (typically 90 to 180 days) during which company insiders, founders, and early investors are legally restricted from selling their shares on the open market",
+      "The duration of a founder's prison sentence for securities fraud",
+      "A temporary halt in stock trading due to severe market volatility"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lock-up agreements prevent market flooding and share price collapse immediately following an IPO by prohibiting insiders from selling stock for 90-180 days."
+  },
+  {
+    "id": "MBA8103_146",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is a 'Staggered Board' (Classified Board) anti-takeover defense?",
+    "options": [
+      "A board where directors sit on staggered tiered seating in the boardroom",
+      "A corporate board structure where only a fraction (e.g., one-third) of directors are elected each year, preventing a hostile bidder from replacing the entire board in a single vote",
+      "A board that meets only once every five years",
+      "A board composed entirely of external independent legal advisors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A staggered board divides directors into classes with staggered multi-year terms, making hostile board replacement take multiple years and deterring takeovers."
+  },
+  {
+    "id": "MBA8103_147",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is 'Pari Passu' in debt and equity financing terms?",
+    "options": [
+      "A Latin legal phrase meaning 'on equal footing', where multiple securities or debts share equal seniority, rank, and claim on assets without preference",
+      "A contractual clause requiring immediate loan repayment upon default",
+      "A penalty fee levied by commercial banks on early loan terminations",
+      "An exclusive option to purchase preferred stock at a 50% discount"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pari passu ensures that all creditors or investors in that category are treated equally, with identical claim rights in liquidation and distributions."
+  },
+  {
+    "id": "MBA8103_148",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is the role of a 'Transfer Agent' in public and late-stage private corporations?",
+    "options": [
+      "A logistics manager who schedules airport taxi transfers for executives",
+      "A specialized trust company or financial institution responsible for maintaining accurate records of share ownership, issuing stock certificates, and processing share transfers and dividends",
+      "A software developer who transfers code between test and production servers",
+      "A real estate broker who negotiates commercial warehouse leases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transfer agents maintain official shareholder registers, cancel and issue share certificates, and manage dividend distributions and corporate actions accurately."
+  },
+  {
+    "id": "MBA8103_149",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is an 'Anchor Investor' in an institutional IPO or major venture round?",
+    "options": [
+      "A maritime shipping enterprise that invests in seaport infrastructure",
+      "A high-profile, prestigious institutional investor whose early, substantial commitment gives confidence to other potential investors and anchors the financing round",
+      "An investor who holds zero voting rights in company boardrooms",
+      "The legal counsel who drafts the final closing investment contracts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anchor investors provide major cornerstone capital commitments that validate the venture and create momentum for other institutional investors to participate."
+  },
+  {
+    "id": "MBA8103_150",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Exit Strategies & Liquidity",
+    "question": "What is the ultimate measure of success for an entrepreneurial venture according to modern venture capital practice?",
+    "options": [
+      "The total number of press releases published in national newspapers",
+      "Sustainable long-term value creation through scalable, profitable operations, customer delight, positive societal impact, and liquidity for founders and investors",
+      "Building the largest possible physical corporate office headquarters",
+      "Filing the maximum possible number of lawsuits against market competitors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "True venture success aligns sustainable unit economics, strong customer retention, societal value creation, and rewarding returns for all key stakeholders."
+  },
+  {
+    "id": "MBA8103_151",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Marketing",
+    "question": "What is 'Guerrilla Marketing' for startup ventures?",
+    "options": [
+      "Using military personnel to guard retail merchandise",
+      "An unconventional, high-impact, low-cost marketing strategy that relies on energy, creativity, and imagination rather than big advertising budgets",
+      "A marketing tactic banned by international trade treaties",
+      "A discount sale offered exclusively during weekend mornings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Guerrilla marketing leverages creativity and surprise to generate massive buzz and viral reach on a shoe-string budget."
+  },
+  {
+    "id": "MBA8103_152",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Marketing",
+    "question": "What is 'Inbound Marketing' compared to traditional 'Outbound Marketing'?",
+    "options": [
+      "Inbound marketing attracts customers through valuable content, SEO, and thought leadership; Outbound marketing pushes intrusive ads via cold calls and TV commercials",
+      "Inbound marketing is only used by postal shipping companies",
+      "Inbound marketing costs ten times more than Super Bowl ads",
+      "There is zero difference; all marketing is outbound"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Inbound marketing draws prospects organically via helpful content (blogs, tutorials, webinars) rather than interruptive outbound tactics."
+  },
+  {
+    "id": "MBA8103_153",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Venture Capital & Valuation",
+    "question": "The 'Berkus Method' for early-stage pre-revenue startup valuation assesses value by:",
+    "options": [
+      "Calculating audited 10-year EBITDA multiples",
+      "Assigning up to $500k in value to 5 key success drivers: Sound Idea, Prototype, Quality Management Team, Strategic Relationships, and Product Rollout/Sales",
+      "Counting the physical number of laptops in the office",
+      "Measuring the founder's academic grade point average"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Berkus Method estimates pre-revenue valuation by evaluating risk-reduction milestones across 5 fundamental qualitative criteria."
+  },
+  {
+    "id": "MBA8103_154",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Venture Capital & Valuation",
+    "question": "The 'Scorecard Valuation Method' (Bill Payne method) compares a target startup against:",
+    "options": [
+      "The market capitalization of Apple and Microsoft",
+      "Typical angel-funded startups in the same geographic region and sector, adjusting the baseline valuation based on factors like management strength, market size, and product",
+      "Sovereign government bond yields",
+      "The price of crude petroleum futures"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Scorecard method adjusts average regional angel pre-money valuations by weighting key factors against typical benchmark startups."
+  },
+  {
+    "id": "MBA8103_155",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Venture Capital & Valuation",
+    "question": "What is 'Discounted Cash Flow' (DCF) valuation in financial modeling?",
+    "options": [
+      "A coupon code entered on e-commerce retail checkouts",
+      "A valuation method that estimates the intrinsic value of an enterprise based on its projected future cash flows, discounted back to present value using a risk-adjusted discount rate (WACC)",
+      "An accounting method for recording cash register theft",
+      "A discount offered by commercial banks on loan interest rates"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DCF projects future free cash flows and discounts them to present value using the weighted average cost of capital ($PV = \\sum CF_t / (1+r)^t$)."
+  },
+  {
+    "id": "MBA8103_156",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Venture Capital & Valuation",
+    "question": "What is 'Capital Call' in venture capital fund operations?",
+    "options": [
+      "A phone call made to pitch venture capitalists in Silicon Valley",
+      "The formal request made by the General Partner (GP) to Limited Partners (LPs) to transfer committed capital to the fund when an investment is made",
+      "A telephone conference held during stock exchange trading hours",
+      "An emergency government bailout of insolvent commercial banks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Capital calls (drawdowns) occur when fund managers summon committed funds from LPs to execute portfolio company investments."
+  },
+  {
+    "id": "MBA8103_157",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Operations",
+    "question": "In modern tech startups, what does 'ARR' stand for?",
+    "options": [
+      "Annual Recurring Revenue",
+      "Average Retail Return",
+      "Asset Recovery Rate",
+      "Allocated Resource Ratio"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ARR (Annual Recurring Revenue) is the annualized value of recurring subscription contracts, a foundational health metric for SaaS startups."
+  },
+  {
+    "id": "MBA8103_158",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Operations",
+    "question": "What is 'Net Promoter Score' (NPS)?",
+    "options": [
+      "The net profit earned by a company per advertising impression",
+      "A customer loyalty metric calculated by asking customers how likely they are to recommend the company to a friend on a 0-10 scale (% Promoters minus % Detractors)",
+      "The average speed of computer processing units in data centers",
+      "A statutory credit rating assigned to corporate bonds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NPS measures customer advocacy and loyalty: Promoters (score 9-10) minus Detractors (score 0-6)."
+  },
+  {
+    "id": "MBA8103_159",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Operations",
+    "question": "What is 'Cohort Analysis' in user retention analytics?",
+    "options": [
+      "Analyzing customer groups broken down by demographic age",
+      "A technique that breaks behavioral data into related groups (cohorts) sharing a common characteristic over time (e.g., users who signed up in January vs. February) to track retention patterns",
+      "A statistical test comparing two pharmaceutical drugs",
+      "An audit of factory machinery maintenance intervals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cohort analysis tracks user engagement and retention across distinct signup time cohorts, revealing whether product changes improve retention over time."
+  },
+  {
+    "id": "MBA8103_160",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Operations",
+    "question": "What is 'Flywheel Effect' (Jim Collins) in business model scaling?",
+    "options": [
+      "A heavy mechanical wheel installed in automobile engines",
+      "The compounding momentum gained when different components of a business reinforce each other, making each turn of the business cycle easier and more powerful over time",
+      "A rapid price drop caused by competitive disruption",
+      "A sudden loss of control during corporate restructuring"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Flywheel describes how consistent strategic pushes across interconnected initiatives compound into self-reinforcing business momentum (e.g., Amazon Flywheel)."
+  },
+  {
+    "id": "MBA8103_161",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Governance",
+    "question": "What is 'Information Rights' granted to investors in a term sheet?",
+    "options": [
+      "The right of investors to read all employee personal text messages",
+      "The legal right of significant investors to receive periodic financial statements, annual budgets, and operational updates from the startup",
+      "The right to publish company trade secrets in newspapers",
+      "The right to install cameras inside employee homes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Information rights ensure investors receive quarterly/annual financial reports, audited balance sheets, and operational KPIs."
+  },
+  {
+    "id": "MBA8103_162",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Governance",
+    "question": "What is 'Pro-Rata Rights' (Preemptive Rights) in venture investment agreements?",
+    "options": [
+      "The right of investors to buy discounted lunch at the office cafeteria",
+      "The contractual right of an investor to participate in future funding rounds to maintain their current ownership percentage and prevent dilution",
+      "A clause allowing founders to cancel an investor's shares without payment",
+      "A mandatory 50% discount on all future retail products"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pro-rata rights enable existing investors to invest enough capital in follow-on rounds to avoid being diluted by incoming new investors."
+  },
+  {
+    "id": "MBA8103_163",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Startup Governance",
+    "question": "What is 'Cap Table Modeling' during fundraising?",
+    "options": [
+      "Simulating the impact of new investment rounds, option pool expansions, and convertible notes on share price, dilution, and founder ownership percentages",
+      "Designing physical wooden conference room tables",
+      "Auditing physical office stationery inventories",
+      "Measuring employee typing speeds on computer keyboards"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cap table modeling helps founders model post-round dilution, payout waterfalls under various exit valuations, and option pool sizing."
+  },
+  {
+    "id": "MBA8103_164",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Strategy",
+    "question": "What is 'First-Mover Disadvantage' (Late-Mover Advantage)?",
+    "options": [
+      "When a pioneering company enjoys zero competition indefinitely",
+      "When pioneers incur heavy R&D and market education costs, allowing late movers to enter cheaply, copy validated features, avoid pioneer mistakes, and capture market leadership",
+      "When a company enters an industry fifty years after everyone else has gone bankrupt",
+      "A legal sanction imposed by competition regulators"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Late movers often win by free-riding on pioneer market investments, observing customer feedback, and launching superior, lower-cost solutions (e.g., Google vs. AltaVista)."
+  },
+  {
+    "id": "MBA8103_165",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Strategy",
+    "question": "What is a 'Moat' (Economic Moat) as popularized by Warren Buffett?",
+    "options": [
+      "A water trench dug around physical corporate headquarters",
+      "A sustainable competitive advantage that protects a business's market share and profitability from being eroded by competitors (e.g., brand, network effects, cost advantage, patents)",
+      "A municipal taxation policy applied to manufacturing factories",
+      "An emergency cash loan provided by the International Monetary Fund"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An economic moat represents enduring structural advantages (network effects, switching costs, cost leadership, intangibles) that shield returns from competition."
+  },
+  {
+    "id": "MBA8103_166",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Strategy",
+    "question": "What is 'Blitzscaling' risk of premature scaling?",
+    "options": [
+      "Spending capital too quickly on marketing and expansion before achieving solid Product-Market Fit and sustainable unit economics",
+      "Hiring too many accountants during annual tax season",
+      "Opening an office in a country with high corporate taxes",
+      "Building software with too few engineering bugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premature scaling—pumping growth capital into customer acquisition before verifying retention, unit economics, and PMF—is the #1 cause of startup failure."
+  },
+  {
+    "id": "MBA8103_167",
+    "courseCode": "MBA 8103",
+    "courseTitle": "Entrepreneurship",
+    "topic": "Entrepreneurial Strategy",
+    "question": "What is 'Customer Segment' in Value Proposition Design?",
+    "options": [
+      "The total number of employees working in the sales department",
+      "A distinct group of people or organizations an enterprise aims to reach and serve, defined by common needs, behaviors, attributes, and willingness to pay",
+      "The physical distance between two retail grocery stores",
+      "A legal classification of corporate debt holders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Customer segments group users with homogeneous problems, behaviors, and buying criteria, ensuring tailored value propositions."
+  }
+]

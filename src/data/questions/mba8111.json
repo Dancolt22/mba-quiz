@@ -1,0 +1,2492 @@
+[
+  {
+    "id": "MBA8111_001",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "How is 'Multi-Factor Productivity' mathematically calculated?",
+    "options": [
+      "Total Units Produced divided by Direct Labor Hours only",
+      "Total Value of Outputs divided by Total Cost of Multiple Combined Inputs (e.g., Labor + Material + Energy + Capital + Overhead)",
+      "Net Income minus Corporation Tax divided by Total Assets",
+      "Total Inventory in Stock divided by Warehouse Square Footage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multi-Factor Productivity = Total Outputs / (Labor + Materials + Energy + Capital + Overhead), capturing overall resource conversion efficiency."
+  },
+  {
+    "id": "MBA8111_002",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "What is 'Little's Law' in process analysis and queuing theory?",
+    "options": [
+      "Profit = Revenue - Expenses",
+      "Average Work-in-Process Inventory ($I$) = Throughput Rate ($R$) $\times$ Flow Time ($T$) ($I = R \times T$)",
+      "Price = Cost $\times$ Markup Percentage",
+      "Defects = Total Opportunities $\times$ 3.4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Little's Law ($I = R \times T$) fundamental to operations: average inventory equals the throughput rate multiplied by average flow time through the process."
+  },
+  {
+    "id": "MBA8111_003",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "In process flow analysis, what is the 'Bottleneck'?",
+    "options": [
+      "The widest pipe in the factory plumbing infrastructure",
+      "The process step or stage with the lowest capacity or longest processing time, which limits the maximum throughput rate of the entire system",
+      "The executive manager who signs raw material purchase invoices",
+      "A storage rack used for glass beverage bottles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A bottleneck is the resource with the smallest capacity/longest cycle time, determining the maximum throughput rate of the whole process."
+  },
+  {
+    "id": "MBA8111_004",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "What is 'Cycle Time' in a manufacturing or service process?",
+    "options": [
+      "The total time a worker spends commuting to the factory",
+      "The average time between the completion of successive units of output in a process",
+      "The time required to clean and paint factory floors annually",
+      "The duration of a product's patent protection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cycle time is the recurring interval at which successive completed units emerge from a process (e.g., one car every 60 seconds)."
+  },
+  {
+    "id": "MBA8111_005",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "What is the difference between 'Design Capacity' and 'Effective Capacity'?",
+    "options": [
+      "Design Capacity is the theoretical maximum output achievable under ideal conditions; Effective Capacity is the realistic output expected given maintenance, product mix, scheduling, and breaks",
+      "Design Capacity applies only to graphic artists; Effective Capacity applies to accountants",
+      "Design Capacity is measured in dollars; Effective Capacity is measured in kilograms",
+      "There is zero difference between the two terms"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Design capacity represents theoretical engineering ceiling; effective capacity accounts for operational realities (changeovers, maintenance, shifts)."
+  },
+  {
+    "id": "MBA8111_006",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "How is 'Capacity Utilization' calculated?",
+    "options": [
+      "Actual Output divided by Design Capacity (expressed as a percentage)",
+      "Effective Capacity divided by Design Capacity",
+      "Actual Output divided by Effective Capacity (which is Efficiency)",
+      "Design Capacity multiplied by Selling Price"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Utilization = $(Actual\\ Output / Design\\ Capacity) \times 100\\%$. (Efficiency = $[Actual\\ Output / Effective\\ Capacity] \times 100\\%$)."
+  },
+  {
+    "id": "MBA8111_007",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "What is 'Economies of Scale' in manufacturing operations?",
+    "options": [
+      "A decrease in average unit cost of production as total production volume increases, due to fixed overhead spreading and learning curve efficiencies",
+      "An increase in unit costs caused by factory overcrowding",
+      "The physical weighing scales used in shipping warehouses",
+      "A financial penalty levied by customs authorities on bulk exports"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Economies of scale occur when expanding production volume reduces average per-unit costs by distributing fixed capital over more units and boosting specialization."
+  },
+  {
+    "id": "MBA8111_008",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "What is 'Diseconomies of Scale'?",
+    "options": [
+      "A decrease in fixed overhead expenses",
+      "An increase in average unit costs that occurs when an operational facility becomes excessively large, leading to bureaucratic complexity, coordination bottlenecks, and communication breakdown",
+      "The discount offered by suppliers for buying in bulk",
+      "An economic theory proving that small factories never make profits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diseconomies of scale occur beyond optimal plant scale when administrative friction, communication lags, and logistics congestion raise unit costs."
+  },
+  {
+    "id": "MBA8111_009",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "In facility location analysis, the 'Center of Gravity Method' is used to:",
+    "options": [
+      "Find the physical center of gravity of heavy manufacturing equipment to balance floor loads",
+      "Identify the optimal geographical location for a centralized distribution center or warehouse to minimize total transportation and shipping costs to multiple destination markets",
+      "Calculate earthquake resistance standards for warehouse structures",
+      "Determine the exact geographic center of a country's landmass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Center of Gravity method mathematically locates a central distribution facility based on market coordinates and shipping volume weights ($x = \frac{\\sum x_i W_i}{\\sum W_i}$), minimizing freight costs."
+  },
+  {
+    "id": "MBA8111_010",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations Strategy & Productivity",
+    "question": "In assembly line balancing, what is 'Takt Time'?",
+    "options": [
+      "The time workers spend taking coffee breaks",
+      "The pace of production needed to match the rate of customer demand ($Takt\\ Time = \frac{Available\\ Net\\ Production\\ Time}{Customer\\ Demand}$)",
+      "The time required to clean factory machines at the end of a shift",
+      "The shipping transit time from factory to retail store"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Takt time (from the German word for musical beat) sets the rhythmic manufacturing pace: the rate at which units must be completed to satisfy demand exactly."
+  },
+  {
+    "id": "MBA8111_011",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "What is the mathematical formula for the basic 'Economic Order Quantity' (EOQ)?",
+    "options": [
+      "$EOQ = \\sqrt{\frac{2DS}{H}}$ (where $D$ = Annual Demand, $S$ = Order/Setup Cost, $H$ = Annual Holding/Carrying Cost per unit)",
+      "$EOQ = \frac{D \times S}{H}$",
+      "$EOQ = \\sqrt{\frac{D + S}{2H}}$",
+      "$EOQ = 2D + S - H$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The classic Wilson EOQ formula balances annual ordering costs and inventory holding costs: $EOQ = \\sqrt{\frac{2DS}{H}}$."
+  },
+  {
+    "id": "MBA8111_012",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "At the Economic Order Quantity (EOQ), what is the relationship between Annual Ordering Costs and Annual Holding Costs?",
+    "options": [
+      "Annual Ordering Costs are ten times higher than Annual Holding Costs",
+      "Annual Ordering Costs and Annual Holding Costs are exactly equal to each other",
+      "Annual Holding Costs are zero",
+      "Annual Ordering Costs are zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "At the EOQ point on the total cost curve, the annual holding cost curve intersects the annual ordering cost curve, making them exactly equal ($Annual\\ Holding\\ Cost = Annual\\ Ordering\\ Cost$)."
+  },
+  {
+    "id": "MBA8111_013",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "What are the core assumptions of the basic EOQ model?",
+    "options": [
+      "Demand is constant and known, lead time is known and constant, purchase price is constant (no quantity discounts), order arrives in a single batch, and stockouts are not allowed",
+      "Demand is wildly unpredictable and changes randomly every hour",
+      "Holding inventory incurs zero carrying cost",
+      "Suppliers deliver inventory in partial random shipments over multiple years"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Classic EOQ assumes constant deterministic demand, fixed lead times, instantaneous batch delivery, fixed unit cost, and no allowable stockouts."
+  },
+  {
+    "id": "MBA8111_014",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "What is 'Safety Stock' in inventory control?",
+    "options": [
+      "Emergency fire extinguishers placed in warehouse aisles",
+      "Extra buffer inventory held to mitigate the risk of stockouts caused by unpredictable demand surges or supplier lead-time delays",
+      "Damaged inventory returned by customers awaiting destruction",
+      "The maximum inventory capacity allowed by municipal fire codes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Safety stock acts as a protective buffer against demand variability and supply lead-time uncertainty ($Safety\\ Stock = z \times \\sigma_{dL}$)."
+  },
+  {
+    "id": "MBA8111_015",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "In inventory management, the 'Reorder Point' (ROP) under constant demand and lead time is calculated as:",
+    "options": [
+      "$ROP = \text{Lead Time Demand} = d \times L$ (where $d$ = daily demand rate, $L$ = supplier lead time in days)",
+      "$ROP = \text{Annual Demand} / 365$",
+      "$ROP = \text{Holding Cost} \times \text{Ordering Cost}$",
+      "$ROP = \text{Warehouse Capacity} - \text{Current Stock}$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reorder Point specifies the inventory level that triggers placing a replenishment order: $ROP = (d \times L) + Safety\\ Stock$."
+  },
+  {
+    "id": "MBA8111_016",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "In 'ABC Inventory Classification' based on the Pareto Principle, 'Class A' items typically represent:",
+    "options": [
+      "Approximately 70-80% of total dollar inventory value, but only about 15-20% of total physical inventory items",
+      "90% of physical inventory volume with 5% of dollar value",
+      "Defective parts that must be scrapped immediately",
+      "Items that are ordered once every twenty years"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Class A items are high-value/critical items requiring tight control; Class B are moderate value; Class C represent bulk items with low dollar value."
+  },
+  {
+    "id": "MBA8111_017",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "What is the difference between a 'Continuous Review System' (Q-System) and a 'Periodic Review System' (P-System)?",
+    "options": [
+      "In a Q-System, inventory is tracked continuously and a fixed order quantity ($Q$) is placed whenever stock drops to the Reorder Point; In a P-System, inventory is reviewed at fixed time intervals ($P$) and a variable quantity is ordered up to a target level",
+      "Q-System is used only for perishable food; P-System is used for steel",
+      "Q-System requires zero records; P-System requires mainframe computers",
+      "Q-System has zero holding costs; P-System has zero ordering costs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Q-System monitors stock continuously and orders fixed $Q$ when hitting $ROP$; P-System reviews stock at fixed intervals $T$ and orders variable $Q$ to reach max capacity."
+  },
+  {
+    "id": "MBA8111_018",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Inventory Management & EOQ",
+    "question": "What are 'Inventory Carrying (Holding) Costs' composed of?",
+    "options": [
+      "Capital cost (opportunity cost of money tied up), storage space costs, insurance, taxes, obsolescence, damage, and pilferage/spoilage",
+      "The postage fees paid to mail invoice letters to suppliers",
+      "The base wholesale purchase price paid for raw materials",
+      "The commission paid to external sales agents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holding costs (typically 20-30% of inventory value annually) include cost of capital, warehousing space, insurance, handling, depreciation, shrinkage, and obsolescence."
+  },
+  {
+    "id": "MBA8111_019",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "In the Toyota Production System (TPS) developed by Taiichi Ohno, what is 'Muda'?",
+    "options": [
+      "A ceremonial Japanese factory opening ceremony",
+      "Any activity or consumption of resources that adds cost or time without creating value for the customer (Waste)",
+      "An advanced robotic welding arm",
+      "A formal bonus granted to top-performing assembly workers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Muda means waste—any non-value-adding activity across the seven classic wastes: Overproduction, Waiting, Transport, Overprocessing, Inventory, Motion, and Defects."
+  },
+  {
+    "id": "MBA8111_020",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "Which of the 7 classic wastes (Muda) is considered the 'worst' or most dangerous by Taiichi Ohno because it hides all other production problems?",
+    "options": [
+      "Waste of Overproduction",
+      "Waste of Motion",
+      "Waste of Waiting",
+      "Waste of Transportation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overproduction creates excess inventory that conceals equipment breakdowns, defect rates, bottleneck delays, and scheduling imbalances."
+  },
+  {
+    "id": "MBA8111_021",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What does 'Kanban' literally translate to, and how is it used in Lean/JIT production?",
+    "options": [
+      "'Visual Card' or 'Signboard'; a visual signaling system used to authorize production and material movement in a pull production system",
+      "'Fast Assembly'; an automated conveyor belt system",
+      "'Master Craftsman'; the title given to the chief plant engineer",
+      "'Zero Defects'; a mathematical formula for quality auditing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kanban uses cards/containers to signal downstream demand upstream, ensuring parts are produced only when actually consumed (pull system)."
+  },
+  {
+    "id": "MBA8111_022",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What is the difference between a 'Push System' (e.g., traditional MRP) and a 'Pull System' (e.g., JIT/Kanban)?",
+    "options": [
+      "In a Push system, goods are produced according to a forecasted schedule and pushed downstream into inventory; in a Pull system, production is triggered only by actual downstream customer consumption",
+      "Push systems use manual labor; Pull systems use electric motors",
+      "Push systems operate without managers; Pull systems have ten CEOs",
+      "Push systems produce zero inventory; Pull systems fill entire warehouses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Push systems build to forecast and hold inventory buffers; pull systems (Lean/JIT) build to actual demand, minimizing WIP and inventory holding."
+  },
+  {
+    "id": "MBA8111_023",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What are the '5S' workplace organization methodology steps (translated from Japanese)?",
+    "options": [
+      "Sort (Seiri), Set in Order (Seiton), Shine (Seiso), Standardize (Seiketsu), and Sustain (Shitsuke)",
+      "Speed, Stamina, Strength, Strategy, and Success",
+      "Sales, Shipping, Storage, Safety, and Security",
+      "Software, Silicon, Sensors, Storage, and Servers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "5S establishes visual workplace efficiency: Sort (eliminate unneeded), Set in Order (arrange/label), Shine (clean/inspect), Standardize (protocols), Sustain (discipline)."
+  },
+  {
+    "id": "MBA8111_024",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What is 'SMED' (Single-Minute Exchange of Die) developed by Shigeo Shingo?",
+    "options": [
+      "A system for running factory machines for single minutes at a time",
+      "A lean methodology for dramatically reducing equipment setup and changeover times to single-digit minutes (under 10 minutes) by converting internal setups to external setups",
+      "A financial derivatives trading system for foreign exchange",
+      "A single-minute disciplinary meeting held for tardy workers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SMED drastically slashes machine changeover downtime (under 10 mins) by separating internal tasks (done when stopped) from external tasks (done while running), enabling small-batch manufacturing."
+  },
+  {
+    "id": "MBA8111_025",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What is 'Andon' in lean manufacturing?",
+    "options": [
+      "A visual or audible signaling system (like an overhead light board or cord) that alerts operators and supervisors to a problem on the production line, allowing the line to be stopped immediately",
+      "A Japanese tea room constructed inside factory break areas",
+      "A mechanical safety lock installed on electrical generators",
+      "A spreadsheet template used for calculating employee bonuses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Andon is a visual control alert system empowering line workers to flag quality defects and stop production (Jidoka) until root causes are fixed."
+  },
+  {
+    "id": "MBA8111_026",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What is 'Jidoka' (Autonomation) in the Toyota Production System?",
+    "options": [
+      "Fully automating the factory so no humans work there",
+      "'Automation with a human touch' — equipping machines with the intelligence to automatically detect abnormalities, defects, or malfunctions and immediately stop production",
+      "Replacing metal parts with plastic components to reduce weight",
+      "A corporate hiring policy for assembly workers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jidoka prevents the propagation of defective units by designing machines that automatically stop when an anomaly occurs, ensuring quality at the source."
+  },
+  {
+    "id": "MBA8111_027",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What is 'Value Stream Mapping' (VSM) in lean process design?",
+    "options": [
+      "A geographic road atlas showing truck delivery routes",
+      "A visual flowchart tool that documents every step, material flow, and information flow required to bring a product from raw material to customer, separating value-adding from non-value-adding activities",
+      "A financial chart comparing corporate stock prices over five years",
+      "A software architecture diagram for database tables"
+    ],
+    "correctAnswer": 1,
+    "explanation": "VSM maps material and information flows from end to end, highlighting cycle times, lead times, WIP inventory, and waste to design an optimized Future State map."
+  },
+  {
+    "id": "MBA8111_028",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Lean Production & JIT",
+    "question": "What is 'Heijunka' in Lean operations?",
+    "options": [
+      "Production leveling and smoothing of volume and product mix over time to eliminate spikes and unevenness (Mura)",
+      "A violent labor strike conducted by manufacturing unions",
+      "A high-speed automated conveyor system",
+      "A legal copyright filed for mechanical patents"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heijunka levels production schedules by producing mixed batches in small, steady quantities rather than giant sporadic batches, stabilizing supply chains."
+  },
+  {
+    "id": "MBA8111_029",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Statistical Quality Control",
+    "question": "What is the difference between 'Variable Data' and 'Attribute Data' in Statistical Quality Control (SQC)?",
+    "options": [
+      "Variable data are continuous quantitative measurements (e.g., length, weight, temperature, voltage); Attribute data are discrete qualitative counts (e.g., conforming vs. non-conforming, number of defects)",
+      "Variable data applies only to software; Attribute data applies only to hardware",
+      "Variable data is always zero; Attribute data is always infinite",
+      "There is no mathematical difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Variable data (continuous measures: weight, diameter) use $\bar{X}$ and $R$ charts; Attribute data (pass/fail, defect counts) use $p$-charts and $c$-charts."
+  },
+  {
+    "id": "MBA8111_030",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Statistical Quality Control",
+    "question": "Which control charts are used for monitoring the process mean and process dispersion of continuous variable data?",
+    "options": [
+      "$p$-chart and $c$-chart",
+      "$\bar{X}$-chart (Mean chart) and $R$-chart (Range chart)",
+      "Pareto chart and Fishbone diagram",
+      "Gantt chart and Flowchart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$\bar{X}$-charts track central tendency (process mean) and $R$-charts track variability/spread (range) for continuous variables."
+  },
+  {
+    "id": "MBA8111_031",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Statistical Quality Control",
+    "question": "Which control chart is appropriate for monitoring the 'proportion or fraction of defective units' in attribute sampling?",
+    "options": [
+      "$\bar{X}$-chart",
+      "$R$-chart",
+      "$p$-chart",
+      "$c$-chart"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A $p$-chart monitors the proportion/fraction of defective items in samples; a $c$-chart monitors the total count of defects per unit."
+  },
+  {
+    "id": "MBA8111_032",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Statistical Quality Control",
+    "question": "In statistical process control, what does 'Upper Control Limit' (UCL) and 'Lower Control Limit' (LCL) typically represent?",
+    "options": [
+      "The engineering specification tolerances dictated by customer blueprints",
+      "$\\pm 3$ standard deviations ($\\pm 3\\sigma$) from the process centerline, capturing 99.73% of normal process variation under common-cause variability",
+      "The legal minimum and maximum retail prices permitted by law",
+      "The physical height limits of warehouse storage shelves"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Control limits ($\\pm 3\\sigma$) represent natural statistical voice-of-the-process variation; values outside these limits signal assignable/special causes."
+  },
+  {
+    "id": "MBA8111_033",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Statistical Quality Control",
+    "question": "What is the difference between 'Common Cause Variation' (Natural variation) and 'Special Cause Variation' (Assignable variation)?",
+    "options": [
+      "Common cause variation is inherent to the stable process design; Special cause variation arises from external, identifiable, and rectifiable anomalies (e.g., broken tool, operator error)",
+      "Common cause variation occurs on weekends; Special cause occurs on weekdays",
+      "Common cause variation is illegal; Special cause is mandatory",
+      "Common cause variation has zero variance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Common cause variation is random background noise inherent to the system; Special cause variation is non-random and requires immediate root-cause intervention."
+  },
+  {
+    "id": "MBA8111_034",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Statistical Quality Control",
+    "question": "What does the 'Process Capability Index' ($C_{pk}$) measure?",
+    "options": [
+      "The maximum electrical wattage consumed by factory machinery",
+      "The ability of a process to produce output within engineering specification limits, accounting for both process variability and process centering",
+      "The speed at which a delivery truck can travel on highways",
+      "The number of employees who hold university engineering degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$C_{pk} = \\min\\left[\frac{USL - \\mu}{3\\sigma}, \frac{\\mu - LSL}{3\\sigma}\right]$. A $C_{pk} \\ge 1.33$ or $1.67$ indicates a highly capable, well-centered process."
+  },
+  {
+    "id": "MBA8111_035",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Project Management (CPM/PERT)",
+    "question": "In the Critical Path Method (CPM), what is the 'Critical Path'?",
+    "options": [
+      "The most expensive sequence of tasks in the project budget",
+      "The longest continuous sequence of dependent activities through the project network diagram, which dictates the absolute minimum time needed to complete the project",
+      "The safest walking path through a construction site marked with yellow paint",
+      "The sequence of activities performed exclusively by senior executive directors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Critical Path is the longest path of dependent activities; any delay to an activity on the critical path delays the completion date of the entire project."
+  },
+  {
+    "id": "MBA8111_036",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Project Management (CPM/PERT)",
+    "question": "What is 'Slack Time' (Float) for a project activity?",
+    "options": [
+      "The scheduled lunch and break time allocated to project engineers",
+      "The amount of time an activity can be delayed without delaying the overall project completion date ($Slack = LS - ES = LF - EF$)",
+      "The time lost due to software programming errors",
+      "The duration of the project closing celebration dinner"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Slack (Float) = $LS - ES$ or $LF - EF$. Activities on the Critical Path have zero slack ($Slack = 0$)."
+  },
+  {
+    "id": "MBA8111_037",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Project Management (CPM/PERT)",
+    "question": "In PERT (Program Evaluation and Review Technique), how is the 'Expected Activity Duration' ($t_e$) calculated from three-time estimates?",
+    "options": [
+      "$t_e = \frac{a + 4m + b}{6}$ (where $a$ = Optimistic time, $m$ = Most likely time, $b$ = Pessimistic time)",
+      "$t_e = \frac{a + m + b}{3}$",
+      "$t_e = \frac{a + 2m + b}{4}$",
+      "$t_e = b - a$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PERT uses a weighted Beta distribution formula: $t_e = \frac{a + 4m + b}{6}$, giving four times the weight to the most likely estimate ($m$)."
+  },
+  {
+    "id": "MBA8111_038",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Project Management (CPM/PERT)",
+    "question": "In PERT, what is the formula for the variance of an activity's duration?",
+    "options": [
+      "$\\sigma^2 = \\left(\frac{b - a}{6}\right)^2$",
+      "$\\sigma^2 = \frac{b - a}{36}$",
+      "$\\sigma^2 = \frac{b + a}{6}$",
+      "$\\sigma^2 = (b - a)^2$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard deviation $\\sigma = \frac{b - a}{6}$, and variance $\\sigma^2 = \\left(\frac{b - a}{6}\right)^2$."
+  },
+  {
+    "id": "MBA8111_039",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Project Management (CPM/PERT)",
+    "question": "What is 'Project Crashing' in CPM/PERT?",
+    "options": [
+      "Accidentally deleting the project schedule database",
+      "Shortening the overall project duration by allocating additional resources (e.g., overtime, extra labor, expedited shipping) to critical path activities at the lowest crash cost per unit time",
+      "Terminating a project abruptly due to complete financial bankruptcy",
+      "Physical damage caused to equipment during construction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crashing reduces project time by spending extra funds on critical activities with the lowest Crash Cost per Period ($Crash\\ Cost/Day = \frac{\\Delta Cost}{\\Delta Time}$)."
+  },
+  {
+    "id": "MBA8111_040",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Project Management (CPM/PERT)",
+    "question": "What is a 'Work Breakdown Structure' (WBS)?",
+    "options": [
+      "A physical demolition blueprint for tearing down older factory buildings",
+      "A hierarchical decomposition of the total scope of work to be carried out by the project team to create the project deliverables and achieve project objectives",
+      "A disciplinary record of employees who breakdown under work stress",
+      "A list of broken factory tools awaiting repair"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The WBS decomposes project scope into manageable, deliverable-oriented work packages, serving as the basis for scheduling, budgeting, and resource assignment."
+  },
+  {
+    "id": "MBA8111_041",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Forecasting & Service Operations",
+    "question": "In quantitative forecasting, what is the formula for 'Simple Exponential Smoothing'?",
+    "options": [
+      "$F_{t+1} = F_t + \u0007lpha (A_t - F_t)$ (where $F_{t+1}$ = new forecast, $F_t$ = previous forecast, $A_t$ = actual demand, $\u0007lpha$ = smoothing constant)",
+      "$F_{t+1} = \frac{A_t + A_{t-1} + A_{t-2}}{3}$",
+      "$F_{t+1} = A_t \times \u0007lpha$",
+      "$F_{t+1} = F_t \times 2$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exponential smoothing updates the prior forecast by adding a fraction ($\u0007lpha$) of the most recent forecast error: $F_{t+1} = F_t + \u0007lpha(A_t - F_t)$."
+  },
+  {
+    "id": "MBA8111_042",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Forecasting & Service Operations",
+    "question": "If a forecaster sets the smoothing constant $\u0007lpha = 1.0$ in exponential smoothing, what does the next forecast become?",
+    "options": [
+      "The forecast becomes zero",
+      "The next forecast equals the most recent actual demand exactly ($F_{t+1} = A_t$)",
+      "The forecast equals the historical average of the last twenty years",
+      "The forecast increases by 100% every period"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When $\u0007lpha = 1$, the formula reduces to $F_{t+1} = A_t$, meaning the model responds 100% to the latest actual demand (naive forecast)."
+  },
+  {
+    "id": "MBA8111_043",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Forecasting & Service Operations",
+    "question": "What is 'MAD' (Mean Absolute Deviation) in forecasting error measurement?",
+    "options": [
+      "The percentage of disgruntled customer feedback forms",
+      "The average of the absolute values of the individual forecast errors: $MAD = \frac{\\sum |A_t - F_t|}{n}$",
+      "The maximum distance between factory delivery trucks",
+      "The variance of corporate profit margins over five quarters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MAD measures average forecast error magnitude without considering direction: $MAD = \frac{\\sum |Actual - Forecast|}{n}$."
+  },
+  {
+    "id": "MBA8111_044",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Forecasting & Service Operations",
+    "question": "What is the 'Delphi Method' in qualitative forecasting?",
+    "options": [
+      "An archaeological excavation technique used in Greece",
+      "An iterative forecasting process using a panel of independent experts who answer anonymous questionnaires in rounds with summarized feedback until consensus is reached",
+      "A mathematical linear programming equation solved by computers",
+      "A customer survey conducted at shopping mall entrances"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Delphi Method aggregates expert judgments anonymously through iterative questionnaire rounds, eliminating interpersonal bias and dominant personalities."
+  },
+  {
+    "id": "MBA8111_045",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Forecasting & Service Operations",
+    "question": "What are the four unique characteristics that distinguish 'Services' from 'Physical Manufactured Goods' (IHIP)?",
+    "options": [
+      "Intangibility, Heterogeneity (Variability), Inseparability (Simultaneous production/consumption), and Perishability",
+      "Inflation, Heavy weight, High price, and High risk",
+      "Inspection, Hardness, Impermeability, and Plasticity",
+      "Imported, Handcrafted, Industrial, and Packaged"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Services are characterized by IHIP: Intangibility (no physical form), Heterogeneity (variable delivery), Inseparability (produced and consumed simultaneously), and Perishability (cannot be inventoried)."
+  },
+  {
+    "id": "MBA8111_046",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Forecasting & Service Operations",
+    "question": "What is 'Service Blueprinting' in service design?",
+    "options": [
+      "A physical architectural floor plan for constructing a customer service center",
+      "A visual flowchart technique that maps customer journey touchpoints, front-stage visible actions, backstage invisible actions, and support processes separated by lines of visibility",
+      "An engineering technical schematic for computer wiring",
+      "A script read verbatim by call center operators"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Service Blueprint maps the end-to-end customer journey, separating visible frontstage customer touchpoints from backstage operational support systems via the Line of Visibility."
+  },
+  {
+    "id": "MBA8111_047",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_048",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_049",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_050",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_051",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_052",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_053",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_054",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_055",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_056",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_057",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_058",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_059",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_060",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_061",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_062",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_063",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_064",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_065",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_066",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_067",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_068",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_069",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_070",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_071",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_072",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_073",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_074",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_075",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_076",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_077",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_078",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_079",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_080",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_081",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_082",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_083",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_084",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_085",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_086",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_087",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_088",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_089",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_090",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_091",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_092",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_093",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_094",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_095",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_096",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_097",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_098",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_099",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_100",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_101",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_102",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_103",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_104",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_105",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_106",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_107",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_108",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_109",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_110",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_111",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_112",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_113",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_114",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_115",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_116",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_117",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_118",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_119",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_120",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_121",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_122",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_123",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_124",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_125",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_126",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_127",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_128",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_129",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_130",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_131",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_132",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_133",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_134",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_135",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_136",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_137",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_138",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_139",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_140",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_141",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_142",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_143",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_144",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_145",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_146",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_147",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_148",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_149",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_150",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_151",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_152",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_153",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_154",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_155",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_156",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_157",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_158",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_159",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_160",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_161",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_162",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 5",
+    "question": "In modern Operations Management, what is the primary operational objective of optimizing reorder points with safety stock buffers?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_163",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 1",
+    "question": "In modern Operations Management, what is the primary operational objective of reducing setup times through SMED methodologies?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_164",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 2",
+    "question": "In modern Operations Management, what is the primary operational objective of implementing point-of-sale visibility to mitigate the bullwhip effect?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_165",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 3",
+    "question": "In modern Operations Management, what is the primary operational objective of applying statistical process control to eliminate assignable causes?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  },
+  {
+    "id": "MBA8111_166",
+    "courseCode": "MBA 8111",
+    "courseTitle": "Operations Management",
+    "topic": "Operations & Supply Chain Engineering 4",
+    "question": "In modern Operations Management, what is the primary operational objective of balancing assembly line workstations to eliminate bottleneck idle time?",
+    "options": [
+      "To maximize throughput efficiency, reduce total holding/waste costs, stabilize quality, and achieve high service responsiveness",
+      "To increase warehouse inventory clutter and extend lead times",
+      "To double machine breakdown rates and factory downtime",
+      "To eliminate all preventative equipment maintenance schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Operations engineering focuses on eliminating waste, reducing variation, balancing cycle times, and optimizing inventory velocity."
+  }
+]

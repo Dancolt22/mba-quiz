@@ -1,0 +1,2507 @@
+[
+  {
+    "id": "MBA8107_001",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "The 'Big Five' (Five Factor Model - OCEAN) personality dimensions comprise:",
+    "options": [
+      "Openness to Experience, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (Emotional Stability)",
+      "Optimism, Creativity, Efficiency, Authority, and Narcissism",
+      "Organization, Competence, Empathy, Ambition, and Neutrality",
+      "Orientation, Control, Expectancy, Aptitude, and Negotiation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Big Five personality model includes Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (or Emotional Stability)."
+  },
+  {
+    "id": "MBA8107_002",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "Which Big Five personality trait is consistently found to be the strongest predictor of overall job performance across diverse occupations?",
+    "options": [
+      "Extraversion",
+      "Conscientiousness",
+      "Agreeableness",
+      "Openness to Experience"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conscientiousness—reflecting dependability, organization, self-discipline, and goal-directed persistence—is the strongest cross-occupational predictor of job performance."
+  },
+  {
+    "id": "MBA8107_003",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "An individual with a strong 'Internal Locus of Control' believes that:",
+    "options": [
+      "Outcomes in their life and career are primarily determined by luck, fate, powerful external forces, and chance",
+      "Their own personal choices, effort, skills, and actions directly determine what happens to them",
+      "Organizational politics is the sole determinant of career advancement",
+      "Performance appraisals should be conducted strictly by external consultants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Internal locus of control is the belief that one controls one's own destiny; external locus attributes outcomes to environmental factors or luck (Rotter)."
+  },
+  {
+    "id": "MBA8107_004",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "In Myers-Briggs Type Indicator (MBTI) terminology, the dimension of 'Judging (J) vs. Perceiving (P)' describes how an individual:",
+    "options": [
+      "Gathers and absorbs information from the external environment (Sensing vs. Intuition)",
+      "Makes decisions and forms logical conclusions (Thinking vs. Feeling)",
+      "Deals with and structures the outside world (preferring structured, organized closure vs. flexible, spontaneous adaptability)",
+      "Directs their mental energy (Extraversion vs. Introversion)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Judging types prefer structure, planning, deadlines, and closure; Perceiving types prefer open-ended flexibility, spontaneity, and exploring options."
+  },
+  {
+    "id": "MBA8107_005",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is 'Machiavellianism' in organizational personality traits?",
+    "options": [
+      "A personality characterized by high empathy, warm compassion, and selflessness",
+      "A personality trait characterized by pragmatic, emotionally detached manipulation, political maneuvering, and the belief that 'the end justifies the means'",
+      "A psychological syndrome causing extreme fear of public speaking",
+      "A management style focused exclusively on artistic creativity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "High Machs maintain emotional distance, manipulate interpersonal situations skillfully, and focus pragmatically on winning power and influence."
+  },
+  {
+    "id": "MBA8107_006",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is 'Type A Personality' characterized by in organizational settings?",
+    "options": [
+      "A calm, relaxed, patient approach to deadlines with low competitiveness",
+      "An aggressive involvement in a chronic, incessant struggle to achieve more and more in less and less time, accompanied by impatience, competitiveness, and urgency",
+      "A complete lack of interest in professional career advancement",
+      "A tendency to avoid all social interaction in workplace settings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Type A individuals exhibit intense competitiveness, time urgency, high work engagement, impatience, and higher susceptibility to stress-related ailments."
+  },
+  {
+    "id": "MBA8107_007",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "According to Harold Kelley's Attribution Theory, what three dimensions do people use to determine whether an observed behavior has an internal or external cause?",
+    "options": [
+      "Distinctiveness, Consensus, and Consistency",
+      "Direction, Intensity, and Persistence",
+      "Diligence, Competence, and Integrity",
+      "Dominance, Influence, and Compliance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Attribution Theory evaluates behavior across Consensus (do others act the same?), Distinctiveness (is this behavior unique to this task?), and Consistency (is this behavior regular over time?)."
+  },
+  {
+    "id": "MBA8107_008",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is the 'Fundamental Attribution Error'?",
+    "options": [
+      "Attributing internal software glitches to computer hardware failures",
+      "The tendency for observers to underestimate the impact of external situational factors and overestimate the influence of internal personal traits when judging others' behavior",
+      "The mistake of assuming all employees have identical MBTI profiles",
+      "Assuming that corporate profits are solely determined by tax rates"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fundamental attribution error leads people to blame others' mistakes on personality or character flaws rather than recognizing situational pressures."
+  },
+  {
+    "id": "MBA8107_009",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is 'Self-Serving Bias' in perceptual attribution?",
+    "options": [
+      "A retail customer demanding a 50% cash discount at checkout",
+      "The tendency for individuals to attribute their successes to internal factors (ability, effort) while blaming their failures on external factors (bad luck, difficult tasks, unfair bosses)",
+      "An employee who cooks their own lunch in the office cafeteria",
+      "A manager who delegates all presentation tasks to junior staff"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Self-serving bias protects self-esteem by taking personal credit for triumphs while deflecting blame for setbacks onto environmental circumstances."
+  },
+  {
+    "id": "MBA8107_010",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is the 'Halo Effect' in perceptual appraisal?",
+    "options": [
+      "A religious ceremony held in corporate meeting rooms",
+      "A cognitive bias where an observer's general favorable impression of a person in one area (e.g., attractiveness or charisma) positively influences their overall judgment of their abilities in unrelated areas",
+      "The illumination provided by modern LED office lighting fixtures",
+      "A management practice of rewarding all employees identical bonus sums"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Halo Effect occurs when a single positive attribute paints an entire favorable evaluation (e.g., assuming an articulate employee must also be good at data analysis)."
+  },
+  {
+    "id": "MBA8107_011",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is 'Stereotyping' in social perception?",
+    "options": [
+      "Operating industrial printing machinery in manufacturing plants",
+      "Judging someone on the basis of one's perception of the demographic or social group to which that person belongs rather than their individual traits",
+      "A technique used by audio recording engineers",
+      "A mandatory corporate training class on typing speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stereotyping generalizes characteristics to an individual based on their membership in a racial, gender, age, or cultural group, overlooking personal variation."
+  },
+  {
+    "id": "MBA8107_012",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is 'Emotional Intelligence' (EQ/EI) as conceptualized by Daniel Goleman?",
+    "options": [
+      "A measure of an individual's mathematical and spatial reasoning abilities",
+      "The ability to recognize, understand, manage, and reason with our own emotions and the emotions of others, comprising self-awareness, self-regulation, motivation, empathy, and social skills",
+      "The tendency to display intense emotional outbursts during boardroom debates",
+      "A psychological assessment used exclusively for clinical therapy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goleman's EQ framework consists of 5 core competencies: Self-Awareness, Self-Regulation, Internal Motivation, Empathy, and Social Skills."
+  },
+  {
+    "id": "MBA8107_013",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "In emotional labor theory (Arlie Hochschild), what is the difference between 'Surface Acting' and 'Deep Acting'?",
+    "options": [
+      "Surface acting modifies displayed facial expressions/emotions without altering underlying feelings; Deep acting involves actively modifying internal feelings to genuinely experience the required emotion",
+      "Surface acting takes place on theatrical stages; Deep acting takes place in cinema",
+      "Surface acting is practiced by executives; Deep acting is practiced by interns",
+      "Surface acting has zero emotional exhaustion; Deep acting is effortless"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Surface acting (faking expressions) causes high emotional dissonance and burnout; deep acting aligns internal emotions with organizational display rules."
+  },
+  {
+    "id": "MBA8107_014",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "What is 'Cognitive Dissonance' (Leon Festinger)?",
+    "options": [
+      "A severe hearing impairment caused by loud industrial machinery noise",
+      "A state of psychological tension and discomfort experienced when an individual holds two contradictory beliefs, values, or when their actions clash with their attitudes",
+      "An advanced neurological computing architecture used in AI",
+      "A formal dispute between two competing marketing research firms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cognitive dissonance arises from inconsistency between beliefs and behaviors, motivating individuals to change attitudes, justify behavior, or acquire new beliefs to restore consistency."
+  },
+  {
+    "id": "MBA8107_015",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Behaviour & Personality",
+    "question": "Which component of an attitude involves an individual's emotions, feelings, and affective evaluations toward an object or person?",
+    "options": [
+      "Cognitive component",
+      "Affective component",
+      "Behavioral (Conative) component",
+      "Structural component"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Attitudes consist of the ABC triad: Affective (feelings/emotions), Behavioral (intention to act), and Cognitive (beliefs/knowledge)."
+  },
+  {
+    "id": "MBA8107_016",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "According to Abraham Maslow's Hierarchy of Needs, which need emerges at the very apex of the pyramid once all deficiency needs are met?",
+    "options": [
+      "Physiological Needs",
+      "Safety and Security Needs",
+      "Social Belonging Needs",
+      "Self-Actualization Needs"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Self-Actualization—the drive to fulfill one's highest potential and achieve personal growth—sits at the apex of Maslow's hierarchy."
+  },
+  {
+    "id": "MBA8107_017",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "In Frederick Herzberg's Two-Factor (Motivation-Hygiene) Theory, which of the following is categorized as a 'Hygiene Factor'?",
+    "options": [
+      "Challenging work and personal achievement",
+      "Recognition and career advancement",
+      "Company policies, working conditions, base salary, and interpersonal supervision",
+      "Opportunities for autonomy and professional responsibility"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hygiene factors (salary, supervision, company policy, physical work conditions) prevent job dissatisfaction when adequate, but do not create genuine motivation/satisfaction."
+  },
+  {
+    "id": "MBA8107_018",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "According to Herzberg, true job satisfaction and high internal motivation are generated primarily by:",
+    "options": [
+      "'Motivator Factors' such as achievement, recognition, meaningful responsibility, personal growth, and challenging work itself",
+      "Providing free coffee and comfortable office chairs",
+      "Increasing the frequency of executive board meetings",
+      "Mandating strict 40-hour workweek punching clocks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Motivators are intrinsic to the content of the work (growth, responsibility, challenging tasks, accomplishment), fostering genuine long-term job satisfaction."
+  },
+  {
+    "id": "MBA8107_019",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "Douglas McGregor's 'Theory X' assumes that employees:",
+    "options": [
+      "Are naturally self-motivated, seek responsibility, and enjoy work as naturally as play",
+      "Inherently dislike work, avoid responsibility whenever possible, and must be coerced, controlled, and threatened with punishment to achieve organizational goals",
+      "Possess higher emotional intelligence than senior executive managers",
+      "Require zero managerial supervision in autonomous teams"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theory X assumes workers are inherently lazy, self-centered, dislike work, and require autocratic oversight and carrot-and-stick controls."
+  },
+  {
+    "id": "MBA8107_020",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "Douglas McGregor's 'Theory Y' posits that employees:",
+    "options": [
+      "Must be micro-managed with continuous electronic surveillance",
+      "Can view work as natural, exercise self-direction and self-control when committed to objectives, and actively seek creative problem-solving and responsibility",
+      "Will only work if given daily cash wage disbursements",
+      "Are incapable of learning complex analytical software"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theory Y holds an optimistic view: people are capable of self-direction, creativity, and intrinsic commitment when supportive environments are provided."
+  },
+  {
+    "id": "MBA8107_021",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "David McClelland's Acquired Needs Theory identifies which three primary acquired human motives?",
+    "options": [
+      "Need for Achievement (nAch), Need for Affiliation (nAff), and Need for Power (nPow)",
+      "Need for Food, Need for Sleep, and Need for Shelter",
+      "Need for Promotion, Need for Salary, and Need for Vacation",
+      "Need for Control, Need for Autonomy, and Need for Compliance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "McClelland's theory focuses on three learned social needs: nAch (mastery/excellence), nAff (warm social relationships), and nPow (influencing and directing others)."
+  },
+  {
+    "id": "MBA8107_022",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "Victor Vroom's Expectancy Theory expresses motivational force through which multiplicative formula?",
+    "options": [
+      "Motivation = Expectancy $\times$ Instrumentality $\times$ Valence ($M = E \times I \times V$)",
+      "Motivation = Effort $+$ Salary $+$ Promotion",
+      "Motivation = Ability $\times$ Education $\times$ Experience",
+      "Motivation = Supervision $-$ Stress $+$ Bonus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vroom's formula states: Expectancy (Effort $\rightarrow$ Performance probability) $\times$ Instrumentality (Performance $\rightarrow$ Outcome belief) $\times$ Valence (Value of the outcome). If any is zero, motivation is zero."
+  },
+  {
+    "id": "MBA8107_023",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "In Vroom's Expectancy Theory, 'Instrumentality' is the belief that:",
+    "options": [
+      "Exerting high effort will directly result in successful task performance",
+      "Successful task performance will lead to receiving a specific desired organizational outcome or reward",
+      "The organizational reward has positive personal emotional value to the individual",
+      "The company's mechanical machines are operating at peak efficiency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Instrumentality is the subjective probability that achieving a given level of performance will actually be rewarded with the promised compensation or recognition."
+  },
+  {
+    "id": "MBA8107_024",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "J. Stacy Adams' Equity Theory states that employees evaluate workplace fairness by:",
+    "options": [
+      "Comparing their own ratio of job inputs (effort, skill, education) to job outcomes (pay, recognition) with the perceived input-outcome ratio of relevant comparison others",
+      "Counting the total physical square footage of their cubicle desk",
+      "Comparing their base salary directly to the CEO's stock options",
+      "Measuring their daily typing speed against software benchmarks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Equity Theory shows that perceived inequity (under-reward or over-reward relative to referent others) creates psychological tension, prompting behavioral adjustments."
+  },
+  {
+    "id": "MBA8107_025",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "According to Edwin Locke and Gary Latham's Goal-Setting Theory, motivation and task performance are highest when goals are:",
+    "options": [
+      "Vague, generalized, and easy (e.g., 'Do your best')",
+      "Specific, challenging (difficult but attainable), accepted, and accompanied by continuous constructive feedback",
+      "Dictated autocratically without explaining the underlying strategic rationale",
+      "Kept strictly secret from team members until project completion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Locke & Latham established that specific, challenging goals with feedback yield higher performance than easy or vague instructions like 'do your best'."
+  },
+  {
+    "id": "MBA8107_026",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "In the Hackman & Oldham Job Characteristics Model (JCM), which five core job dimensions cultivate positive psychological states?",
+    "options": [
+      "Skill Variety, Task Identity, Task Significance, Autonomy, and Job Feedback",
+      "Salary, Supervision, Security, Status, and Seniority",
+      "Speed, Strength, Stamina, Strategy, and Structure",
+      "Software, Hardware, Bandwidth, Storage, and Memory"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The JCM identifies 5 core job dimensions (Skill Variety, Task Identity, Task Significance, Autonomy, Feedback) that drive experienced meaningfulness, responsibility, and knowledge of results."
+  },
+  {
+    "id": "MBA8107_027",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "What is 'Job Enrichment' as pioneered by Frederick Herzberg?",
+    "options": [
+      "Adding more routine, repetitive tasks of the same nature to a job (Job Enlargement)",
+      "Redesigning a job vertically to give the employee greater autonomy, responsibility, authority, and opportunities for personal and professional growth",
+      "Increasing the base hourly wage of assembly workers by $1 per hour",
+      "Rotating an employee between five different physical warehouse loading docks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Job enrichment vertically expands a role by incorporating planning, executing, and self-evaluating responsibilities, enhancing intrinsic motivation."
+  },
+  {
+    "id": "MBA8107_028",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "What is 'Self-Determination Theory' (Deci & Ryan) focused on?",
+    "options": [
+      "Financial wealth maximization through stock market trading",
+      "The fundamental human needs for Autonomy (choice/volition), Competence (mastery/effectiveness), and Relatedness (connectedness/belonging) that fuel intrinsic motivation",
+      "The legal right of sovereign nations to declare economic independence",
+      "The calculation of corporate profit margins using econometric equations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Self-Determination Theory identifies Autonomy, Competence, and Relatedness as essential psychological nutriments for autonomous, self-sustained intrinsic motivation."
+  },
+  {
+    "id": "MBA8107_029",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "What is the 'Overjustification Effect' in motivational psychology?",
+    "options": [
+      "When managers write 50-page formal justifications for hiring new staff",
+      "When introducing external tangible rewards (like cash) for an already intrinsically enjoyable activity diminishes the individual's intrinsic motivation to perform it",
+      "When a company pays employees double their contractual wage rate",
+      "When an employee works 80 hours a week without taking lunch breaks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The overjustification effect occurs when external incentives crowd out existing intrinsic interest, leading individuals to attribute their motivation purely to external rewards."
+  },
+  {
+    "id": "MBA8107_030",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation Theories & Applications",
+    "question": "What is 'Management by Objectives' (MBO) introduced by Peter Drucker?",
+    "options": [
+      "A top-down autocratic decree specifying daily hourly production quotas",
+      "A collaborative management process where managers and employees jointly set specific, measurable, time-bound objectives and periodically evaluate performance against those targets",
+      "An accounting method used for tracking capital asset depreciation",
+      "A legal framework for liquidating insolvent corporate subsidiaries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MBO aligns individual employee goals with enterprise strategic objectives through collaborative goal setting, objective progress tracking, and performance feedback."
+  },
+  {
+    "id": "MBA8107_031",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "Bruce Tuckman's model of team development identifies which sequential five stages?",
+    "options": [
+      "Forming, Storming, Norming, Performing, and Adjourning",
+      "Conceiving, Budgeting, Implementing, Auditing, and Liquidating",
+      "Recruiting, Training, Disciplining, Promoting, and Retiring",
+      "Planning, Organizing, Leading, Controlling, and Reviewing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tuckman's 5 stages trace group evolution: Forming (orientation), Storming (conflict/jockeying), Norming (cohesion/rules), Performing (synergy/execution), and Adjourning (dissolution)."
+  },
+  {
+    "id": "MBA8107_032",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "During which stage of Tuckman's model do team members typically experience interpersonal friction, power struggles, and disagreements over roles and leadership?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Performing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Storming involves interpersonal friction, competition for status, and role conflicts as members negotiate boundaries before establishing group norms."
+  },
+  {
+    "id": "MBA8107_033",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "What is 'Groupthink' as formulated by Irving Janis?",
+    "options": [
+      "A highly effective collaborative brainstorming session that generates hundreds of creative innovations",
+      "A mode of thinking that occurs when the desire for harmony, cohesion, and conformity in a decision-making group overrides realistic appraisal of alternatives, leading to flawed decisions",
+      "A computer network connecting multiple mainframe processors",
+      "A formal cognitive psychology exam administered to team managers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Groupthink is a dysfunctional consensus-seeking bias characterized by self-censorship, illusion of invulnerability, and pressure on dissenters (e.g., Bay of Pigs, Challenger disaster)."
+  },
+  {
+    "id": "MBA8107_034",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "What is 'Social Loafing' (the Ringelmann Effect) in group performance?",
+    "options": [
+      "Taking scheduled lunch breaks with colleagues in the corporate cafeteria",
+      "The tendency for individuals to exert less physical or cognitive effort when working collectively in a group than when working individually and held individually accountable",
+      "A relaxing team-building weekend retreat hosted at a beach resort",
+      "An employee who actively mentors junior apprentices during work hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Social loafing occurs when individual contributions are pooled and not individually identifiable, reducing perceived responsibility and personal effort."
+  },
+  {
+    "id": "MBA8107_035",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "What is 'Group Polarization' (or Groupshift)?",
+    "options": [
+      "When team members physically sit on opposite sides of the conference table",
+      "The tendency for group discussion to intensify and shift the group's collective decision toward a more extreme position (either much riskier or much more cautious) than the initial individual preferences",
+      "A total breakdown of communication resulting in immediate team dissolution",
+      "A legal dispute between two rival trade union factions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Group polarization occurs when deliberations reinforce and exaggerate pre-existing attitudes, leading to riskier or more extreme collective decisions than individuals would make alone."
+  },
+  {
+    "id": "MBA8107_036",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "In Meredith Belbin's Team Roles framework, the 'Plant' role is characterized as:",
+    "options": [
+      "The individual who waters the indoor office houseplants",
+      "An individual who is highly creative, imaginative, unconventional, and a natural generator of unorthodox ideas and solutions to complex problems",
+      "The strict disciplinarian who enforces punctual meeting attendance",
+      "The corporate legal counsel who reviews vendor contracts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Belbin's model, the 'Plant' is the innovative, creative intellect who proposes original, out-of-the-box ideas to solve tough problems."
+  },
+  {
+    "id": "MBA8107_037",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "What is the 'Nominal Group Technique' (NGT) in group decision-making?",
+    "options": [
+      "A casual group conversation with zero agenda or formal facilitator",
+      "A structured method where participants independently generate ideas in writing, share them in round-robin fashion, discuss for clarity, and vote/rank silently to reach a decision",
+      "A voting system where only senior executive directors are permitted to vote",
+      "An automated software algorithm that generates randomized slogans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NGT restricts verbal discussion during initial ideation to prevent dominant personalities from hijacking the session, using silent generation and pooled ranking."
+  },
+  {
+    "id": "MBA8107_038",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "What is 'Psychological Safety' in teams as researched by Amy Edmondson (and Google's Project Aristotle)?",
+    "options": [
+      "Installing bulletproof glass and security guards around office meeting rooms",
+      "A shared belief held by team members that the team is safe for interpersonal risk-taking, speaking up with ideas, asking questions, and admitting mistakes without fear of humiliation or punishment",
+      "Providing mandatory health insurance coverage to all employees",
+      "An assessment of building fire safety and emergency exit routes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Psychological safety is the bedrock of high-performing teams, allowing members to voice vulnerabilities, suggest wild ideas, and challenge assumptions safely."
+  },
+  {
+    "id": "MBA8107_039",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "In team structure design, what is a 'Cross-Functional Team'?",
+    "options": [
+      "A team composed of employees who are cross-trained in athletics",
+      "A group of individuals with diverse functional expertise (e.g., Engineering, Marketing, Finance, Operations) working together toward a common goal or project",
+      "A team where members rotate managers every calendar week",
+      "A team formed exclusively by external management consultants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross-functional teams bring together specialists from different departments to break down silos, accelerate innovation, and deliver complex integrated products."
+  },
+  {
+    "id": "MBA8107_040",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Group Dynamics & Teamwork",
+    "question": "What is 'Role Ambiguity' in organizational behaviour?",
+    "options": [
+      "When an actor forgets their lines in a corporate theatrical video",
+      "A condition where an employee lacks clear, definitive information about their job responsibilities, expectations, scope of authority, and performance evaluation criteria",
+      "A situation where two employees share the exact same job title",
+      "A corporate policy allowing employees to wear casual attire on Fridays"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Role ambiguity occurs when job duties and performance expectations are unclear, causing employee anxiety, stress, and lowered productivity."
+  },
+  {
+    "id": "MBA8107_041",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "In Blake and Mouton's Managerial Grid, which leadership style represents the optimal 'Team Management' (9,9) style?",
+    "options": [
+      "High concern for production (9) and low concern for people (1) - Authority-Compliance",
+      "High concern for people (9) and low concern for production (1) - Country Club",
+      "Low concern for production (1) and low concern for people (1) - Impoverished",
+      "High concern for both production (9) and people (9) - Team Management"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The 9,9 Team Management style integrates high dedication to operational excellence and productivity with deep commitment to employee trust, empowerment, and welfare."
+  },
+  {
+    "id": "MBA8107_042",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "Fred Fiedler's Contingency Model of leadership posits that effective group performance depends upon:",
+    "options": [
+      "The leader's genetic ancestry and biological physical height",
+      "The proper match between the leader's fixed personality style (task-oriented vs. relationship-oriented, measured by LPC) and the degree of situational control/favorableness",
+      "How much money the leader invests in annual advertising campaigns",
+      "The speed at which the leader makes unilateral decisions without consulting staff"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fiedler's LPC model argues that leadership style is fixed; leaders succeed by being matched to situations (Leader-Member Relations, Task Structure, Position Power) that fit their style."
+  },
+  {
+    "id": "MBA8107_043",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "In Hersey and Blanchard's Situational Leadership Theory (SLT), what leadership style is recommended for followers who have 'Low Competence but High Commitment' (Enthusiastic Beginner)?",
+    "options": [
+      "Directing / Telling (High Task, Low Relationship)",
+      "Coaching / Selling (High Task, High Relationship)",
+      "Supporting / Participating (Low Task, High Relationship)",
+      "Delegating (Low Task, Low Relationship)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For enthusiastic beginners with low skill but high eagerness, leaders should use a Directing/Telling style, providing clear, step-by-step guidance and close supervision."
+  },
+  {
+    "id": "MBA8107_044",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "Robert House's Path-Goal Theory states that the primary role of a leader is to:",
+    "options": [
+      "Dictate 100% of employee personal opinions and lifestyle choices",
+      "Clarify the paths to goals, remove roadblocks and obstacles, and provide appropriate support to help subordinates achieve both personal and organizational objectives",
+      "Construct physical paved walkways across corporate office parks",
+      "Maximize the number of disciplinary memos issued per quarter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Path-Goal theory (rooted in Expectancy theory) emphasizes that leaders must adapt behavior (directive, supportive, participative, achievement-oriented) to help followers reach goals."
+  },
+  {
+    "id": "MBA8107_045",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "According to Bernard Bass, what are the 'Four Is' of Transformational Leadership?",
+    "options": [
+      "Idealized Influence (Charisma), Inspirational Motivation, Intellectual Stimulation, and Individualized Consideration",
+      "Inspection, Intervention, Intimidation, and Isolation",
+      "Information, Implementation, Infrastructure, and Investment",
+      "Ideation, Iteration, Integration, and Institutionalization"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 4 Is of Transformational Leadership are Idealized Influence (role modeling), Inspirational Motivation (vision), Intellectual Stimulation (innovation), and Individualized Consideration (coaching)."
+  },
+  {
+    "id": "MBA8107_046",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "How does 'Transactional Leadership' differ fundamentally from 'Transformational Leadership'?",
+    "options": [
+      "Transactional leadership relies on exchange relationships, contingent rewards, and management-by-exception to maintain performance; Transformational leadership inspires followers to transcend self-interest for a shared vision and change",
+      "Transactional leadership is illegal in stock-listed corporations; Transformational is mandatory",
+      "Transactional leaders work only in retail banking; Transformational leaders work in software",
+      "Transactional leadership uses zero communication; Transformational leadership uses only email"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transactional leadership focuses on contracts, monitoring, and contingent rewards ($quid\\ pro\\ quo$), while transformational leadership drives change, vision, and intrinsic motivation."
+  },
+  {
+    "id": "MBA8107_047",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "In Robert Greenleaf's 'Servant Leadership' philosophy, the leader's primary priority is to:",
+    "options": [
+      "Accumulate personal power, status, and luxury corporate perks",
+      "Serve the needs of followers, help them develop and perform at their highest capacity, and prioritize the growth and well-being of people and communities",
+      "Ensure that employees serve the executive board with unquestioning obedience",
+      "Maximize short-term quarterly cash dividend yields for institutional funds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Servant leadership flips the traditional hierarchy: the leader serves first, empowering, developing, and supporting team members to flourish."
+  },
+  {
+    "id": "MBA8107_048",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "What is 'Leader-Member Exchange' (LMX) Theory?",
+    "options": [
+      "A currency exchange booth operated inside corporate office lobbies",
+      "A theory focusing on the two-way relationship between leaders and followers, showing that leaders form high-trust, high-quality exchanges with an 'In-Group' and formal transactional exchanges with an 'Out-Group'",
+      "A rotation program where managers and employees swap jobs every month",
+      "A mandatory performance appraisal conducted by labor unions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LMX theory demonstrates that leaders develop differentiated relationships with subordinates; high LMX ('in-group') followers receive greater trust, autonomy, and career support."
+  },
+  {
+    "id": "MBA8107_049",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "According to John French and Bertram Raven, which base of power stems from an individual's possession of specialized knowledge, unique technical expertise, or valuable skills?",
+    "options": [
+      "Legitimate Power",
+      "Reward Power",
+      "Coercive Power",
+      "Expert Power"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expert power derives from possessing specialized knowledge, advanced credentials, technical competence, or unique expertise that others depend upon."
+  },
+  {
+    "id": "MBA8107_050",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "What is 'Referent Power' in French and Raven's power taxonomy?",
+    "options": [
+      "Power derived from the formal organizational hierarchy and official job title",
+      "Power based on identification with, admiration for, and personal respect of a leader because of their charisma, integrity, and character",
+      "Power based on the ability to inflict disciplinary penalties and firing",
+      "Power based on having a large number of academic bibliography references"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Referent power is interpersonal influence rooted in charisma, personal magnetism, and the desire of others to emulate and follow the leader."
+  },
+  {
+    "id": "MBA8107_051",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "What is 'Coercive Power'?",
+    "options": [
+      "The capacity to reward employees with monetary bonuses and promotions",
+      "The ability to influence others through fear of punishment, withholding of rewards, demotion, termination, or official reprimands",
+      "Influence gained through gentle persuasive logical reasoning",
+      "Power established through unanimous democratic employee elections"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Coercive power relies on fear, threats, disciplinary sanctions, or negative consequences to compel compliance, often leading to resistance and resentment."
+  },
+  {
+    "id": "MBA8107_052",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Leadership Theories & Power",
+    "question": "What is 'Impression Management' in organizational politics?",
+    "options": [
+      "The physical printing of business cards on heavy cardstock",
+      "The deliberate process by which individuals attempt to control, shape, and influence the perceptions and impressions that other people form of them in the workplace",
+      "A graphic design technique used for product brochures",
+      "A formal performance appraisal metric used by HR"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Impression management utilizes self-promotion, ingratiation, exemplification, and strategic framing to cultivate a desired professional image."
+  },
+  {
+    "id": "MBA8107_053",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "In the Shannon-Weaver communication model, what represents any interference, distraction, or distortion that hinders the accurate transmission and decoding of a message?",
+    "options": [
+      "Encoder",
+      "Channel",
+      "Noise",
+      "Feedback"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Noise is any internal (bias, stress) or external (static, ambient sound, distraction) barrier that distorts or interferes with message transmission and reception."
+  },
+  {
+    "id": "MBA8107_054",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "What is the 'Grapevine' in organizational communication?",
+    "options": [
+      "A physical vineyard planted outside corporate cafeterias",
+      "The informal, unofficial, word-of-mouth communication network that operates across all levels of an organization outside formal channels",
+      "A secure encrypted email messaging system used by executive directors",
+      "A weekly printed company newsletter mailed to retirees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The grapevine is the informal network of social communication in organizations, rapidly transmitting rumors, news, and workplace sentiment."
+  },
+  {
+    "id": "MBA8107_055",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "What are the five conflict-handling modes identified in the Thomas-Kilmann Conflict Mode Instrument (TKM)?",
+    "options": [
+      "Competing, Collaborating, Compromising, Avoiding, and Accommodating",
+      "Attacking, Defending, Retaliating, Escaping, and Surrendering",
+      "Planning, Organizing, Leading, Controlling, and Executing",
+      "Ignoring, Denying, Litigating, Arbitrating, and Liquidating"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Thomas-Kilmann framework maps conflict styles across Assertiveness (satisfying own concerns) and Cooperativeness (satisfying others' concerns): Competing, Collaborating, Compromising, Avoiding, Accommodating."
+  },
+  {
+    "id": "MBA8107_056",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "In the Thomas-Kilmann model, which conflict style is characterized as high in assertiveness and high in cooperativeness, seeking an integrative 'Win-Win' solution?",
+    "options": [
+      "Competing",
+      "Collaborating",
+      "Avoiding",
+      "Accommodating"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Collaborating works creatively to find a win-win solution that fully satisfies the underlying concerns and vital interests of both parties."
+  },
+  {
+    "id": "MBA8107_057",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "What does 'BATNA' stand for in negotiation theory (Fisher & Ury, *Getting to Yes*)?",
+    "options": [
+      "Best Alternative To a Negotiated Agreement",
+      "Basic Assessment of Tactical Negotiation Assets",
+      "Board Approved Total Net Allocation",
+      "Bilateral Agreement for Tariff Neutral Action"
+    ],
+    "correctAnswer": 0,
+    "explanation": "BATNA is the most advantageous alternative course of action a party can take if negotiations reach an impasse, representing one's walkaway leverage."
+  },
+  {
+    "id": "MBA8107_058",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "What is the difference between 'Distributive Bargaining' and 'Integrative Bargaining'?",
+    "options": [
+      "Distributive bargaining is a zero-sum, fixed-pie negotiation ('Win-Lose'); Integrative bargaining expands the pie to create mutual value ('Win-Win')",
+      "Distributive bargaining is used only in agriculture; Integrative is used in software",
+      "Distributive bargaining requires five lawyers; Integrative requires none",
+      "Distributive bargaining is illegal under trade law; Integrative is mandatory"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Distributive bargaining divides a fixed amount of resources (competitive, adversarial); integrative bargaining searches for collaborative synergies to maximize collective value."
+  },
+  {
+    "id": "MBA8107_059",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Communication, Conflict & Negotiation",
+    "question": "What is the 'Zone of Possible Agreement' (ZOPA) in negotiation?",
+    "options": [
+      "A demilitarized border zone established by the United Nations",
+      "The overlapping range between the buyer's maximum willingness to pay (reservation price) and the seller's minimum acceptable price (reservation price) where an agreement can be reached",
+      "A designated quiet room inside corporate conference facilities",
+      "The total geographical area covered by a sales territory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ZOPA is the bargaining range between the reservation points of both parties; if reservation prices overlap, a mutually beneficial deal is mathematically possible."
+  },
+  {
+    "id": "MBA8107_060",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "According to Edgar Schein, what are the three levels of Organizational Culture, ordered from the most visible to the deepest and least visible?",
+    "options": [
+      "Artifacts, Espoused Values, and Basic Underlying Assumptions",
+      "Policies, Procedures, and Penalties",
+      "Logos, Slogans, and Commercials",
+      "Salaries, Bonuses, and Stock Options"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Schein's 3 levels: Surface Artifacts (dress code, office layout) $\rightarrow$ Espoused Values (stated philosophies/goals) $\rightarrow$ Basic Underlying Assumptions (deeply ingrained, unconscious beliefs)."
+  },
+  {
+    "id": "MBA8107_061",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "What are 'Basic Underlying Assumptions' in Schein's model of organizational culture?",
+    "options": [
+      "The annual financial budget assumptions approved by accountants",
+      "Unconscious, taken-for-granted, deeply embedded beliefs, perceptions, and values that guide member behavior and determine how they perceive and feel about reality",
+      "The written employee code of conduct handbook given to new hires",
+      "The architectural structural blueprints of company buildings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Basic underlying assumptions are the deepest, invisible core of culture—implicit assumptions about human nature, environment, and relationships that are rarely debated."
+  },
+  {
+    "id": "MBA8107_062",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "In the Competing Values Framework (Cameron & Quinn), which organizational culture type emphasizes internal focus, flexibility, teamwork, participation, and a family-like atmosphere?",
+    "options": [
+      "Hierarchy Culture",
+      "Market Culture",
+      "Clan Culture",
+      "Adhocracy Culture"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Clan culture prioritizes internal cohesion, collaboration, employee development, empowerment, and a nurturing, family-like work environment."
+  },
+  {
+    "id": "MBA8107_063",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "Which culture in the Competing Values Framework focuses externally on flexibility, dynamic innovation, entrepreneurship, and risk-taking?",
+    "options": [
+      "Adhocracy Culture",
+      "Hierarchy Culture",
+      "Clan Culture",
+      "Market Culture"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adhocracy culture thrives on agility, cutting-edge innovation, risk-taking, and rapid adaptation to dynamic external opportunities (e.g., tech startups)."
+  },
+  {
+    "id": "MBA8107_064",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "Kurt Lewin's classic Three-Step Change Model progresses through which phases?",
+    "options": [
+      "Unfreezing, Changing (Moving), and Refreezing",
+      "Planning, Budgeting, and Auditing",
+      "Conceiving, Executing, and Liquidating",
+      "Restructuring, Downsizing, and Outsourcing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lewin's 3-step model: Unfreezing (breaking equilibrium, creating readiness) $\rightarrow$ Changing (implementing new processes/behaviors) $\rightarrow$ Refreezing (reinforcing and institutionalizing changes)."
+  },
+  {
+    "id": "MBA8107_065",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "What is 'Force Field Analysis' introduced by Kurt Lewin?",
+    "options": [
+      "A physics experiment measuring magnetic fields around computers",
+      "A diagnostic tool that analyzes the balance between 'Driving Forces' (forces pushing for change) and 'Restraining Forces' (forces resisting change)",
+      "A military tactical assessment used for security perimeter planning",
+      "An evaluation of gravitational pull on factory equipment"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Force Field Analysis identifies driving forces that promote change and restraining forces that inhibit change, helping leaders design interventions to shift the equilibrium."
+  },
+  {
+    "id": "MBA8107_066",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "John Kotter's 8-Step Change Model begins with which crucial first step?",
+    "options": [
+      "Consolidating gains and producing more change",
+      "Creating a sense of urgency around a critical business need or opportunity",
+      "Empowering broad-based action by removing obstacles",
+      "Anchor new approaches in the corporate culture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Step 1 in Kotter's 8-step framework is 'Create a Sense of Urgency' by highlighting competitive threats or compelling opportunities to overcome organizational complacency."
+  },
+  {
+    "id": "MBA8107_067",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "What is the primary reason why organizational change initiatives encounter intense employee resistance?",
+    "options": [
+      "Employees inherently enjoy attending software training classes",
+      "Fear of the unknown, perceived loss of status/power, economic insecurity, habit disruption, and lack of trust in leadership communication",
+      "Employees wanting to work longer overtime hours",
+      "Excessive corporate cash bonus distributions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Resistance to change is driven by psychological fear of loss (control, competence, income, relationships), uncertainty, and disruption of established habits."
+  },
+  {
+    "id": "MBA8107_068",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "What is 'Burnout' in occupational psychology?",
+    "options": [
+      "A physical electrical fire occurring inside office servers",
+      "A syndrome of chronic workplace stress that has not been successfully managed, characterized by emotional exhaustion, depersonalization/cynicism, and reduced personal accomplishment",
+      "A scheduled corporate fireworks celebration for annual holidays",
+      "An employee retiring after 40 years of service with full pension benefits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "As recognized by the WHO, burnout is an occupational phenomenon manifesting as emotional exhaustion, cynicism/mental distance from work, and feelings of inefficacy."
+  },
+  {
+    "id": "MBA8107_069",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "What is 'Eustress' versus 'Distress' in stress management?",
+    "options": [
+      "Eustress is positive, motivating stress that enhances performance and focus; Distress is negative, overwhelming stress that impairs cognitive and physical functioning",
+      "Eustress occurs in European countries; Distress occurs in Asian countries",
+      "Eustress is experienced by managers; Distress is experienced by interns",
+      "There is zero difference; all stress is inherently destructive"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Eustress is constructive, optimal stress that stimulates alertness and peak performance (Yerkes-Dodson Law); Distress is excessive, debilitating strain."
+  },
+  {
+    "id": "MBA8107_070",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Culture, Change & Stress",
+    "question": "What is the 'Yerkes-Dodson Law' regarding stress and job performance?",
+    "options": [
+      "Performance increases linearly with stress to infinity",
+      "There is an inverted U-shaped relationship where performance peaks at moderate levels of arousal/stress and drops off when stress is too low or too high",
+      "Zero stress guarantees the highest possible intellectual productivity",
+      "Stress has no measurable relationship with work output"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Yerkes-Dodson law shows that moderate arousal/stress optimizes focus and productivity; too little causes boredom, while excessive strain causes anxiety and collapse."
+  },
+  {
+    "id": "MBA8107_071",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_072",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_073",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_074",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_075",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_076",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_077",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_078",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_079",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_080",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_081",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_082",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_083",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_084",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_085",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_086",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_087",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_088",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_089",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_090",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_091",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_092",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_093",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_094",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_095",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_096",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_097",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_098",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_099",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_100",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_101",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_102",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_103",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_104",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_105",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_106",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_107",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_108",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_109",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_110",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_111",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_112",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_113",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_114",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_115",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_116",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_117",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_118",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_119",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_120",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_121",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_122",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_123",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_124",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_125",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_126",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_127",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_128",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_129",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_130",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_131",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_132",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_133",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_134",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_135",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_136",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_137",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_138",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_139",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_140",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_141",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_142",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_143",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_144",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_145",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_146",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_147",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_148",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_149",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_150",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_151",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_152",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_153",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_154",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_155",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_156",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_157",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_158",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_159",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_160",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 1",
+    "question": "In organizational behaviour research, how does fostering high psychological safety directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_161",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 2",
+    "question": "In organizational behaviour research, how does establishing transformational leadership behaviors directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_162",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 3",
+    "question": "In organizational behaviour research, how does designing enriched autonomous job roles directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_163",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 4",
+    "question": "In organizational behaviour research, how does cultivating supportive leader-member exchange (LMX) directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_164",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Organizational Dynamics & Culture 5",
+    "question": "In organizational behaviour research, how does implementing transparent procedural justice frameworks directly impact employee performance and commitment?",
+    "options": [
+      "It significantly boosts intrinsic motivation, organizational citizenship behaviors (OCBs), innovation, and reduces turnover intentions",
+      "It automatically doubles absenteeism and employee grievances",
+      "It eliminates the need for organizational vision and strategy",
+      "It forces all employees to strictly follow micro-managed autocratic routines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Empirical OB studies consistently confirm that supportive leadership, fair procedures, and psychological safety drive engagement, OCBs, and high retention."
+  },
+  {
+    "id": "MBA8107_165",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Motivation & Work Design",
+    "question": "What is the 'Job Characteristics Model' formula for Motivating Potential Score (MPS)?",
+    "options": [
+      "$MPS = \\frac{\\text{Skill Variety} + \\text{Task Identity} + \\text{Task Significance}}{3} \\times \\text{Autonomy} \\times \\text{Feedback}$",
+      "$MPS = \\text{Skill Variety} \\times \\text{Autonomy} + \\text{Salary}$",
+      "$MPS = \\text{Task Identity} \\times \\text{Supervision} - \\text{Stress}$",
+      "$MPS = \\text{Feedback} \\times 5$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "MPS weights Skill Variety, Task Identity, and Task Significance together, multiplied by Autonomy and Feedback (Hackman & Oldham)."
+  },
+  {
+    "id": "MBA8107_166",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Differences",
+    "question": "In the Myers-Briggs Type Indicator (MBTI), what does the Sensing (S) vs. Intuition (N) dimension measure?",
+    "options": [
+      "How an individual prefers to take in and process information (concrete facts and details vs. abstract concepts, patterns, and future possibilities)",
+      "How an individual makes decisions (logic vs. emotion)",
+      "Where an individual draws their psychological energy (external world vs. internal thoughts)",
+      "How an individual manages time deadlines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sensing types focus on immediate, practical, tangible facts; Intuitive types focus on big-picture patterns, theories, and future potential."
+  },
+  {
+    "id": "MBA8107_167",
+    "courseCode": "MBA 8107",
+    "courseTitle": "Organisational Behaviour",
+    "topic": "Individual Differences",
+    "question": "What is 'Self-Efficacy' (Albert Bandura)?",
+    "options": [
+      "An individual's belief in their own capability to successfully execute specific tasks and achieve designated performance outcomes",
+      "The monetary salary earned by an employee in a year",
+      "The speed at which an employee completes clerical paperwork",
+      "An individual's physical fitness and cardiovascular stamina"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Self-efficacy is domain-specific task confidence, influenced by mastery experiences, vicarious modeling, verbal persuasion, and physiological state."
+  }
+]
