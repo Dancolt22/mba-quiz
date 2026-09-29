@@ -1,5 +1,5 @@
 // src/components/LandingPage.jsx
-import React from 'react';
+import React, { useState } from 'react';
 import { useQuiz } from '../context/QuizContext';
 import { COURSES, getCourseById } from '../data/courses';
 import ChapterSelectionModal from './ChapterSelectionModal';
@@ -10,37 +10,32 @@ import {
   Users2, 
   Briefcase, 
   Cpu, 
-  CheckCircle2, 
-  Circle, 
-  Shuffle, 
-  Timer, 
   Sparkles, 
-  CheckSquare, 
-  Layers, 
+  Timer, 
+  Award, 
+  BookOpen, 
+  Shuffle, 
   Play, 
   HelpCircle,
-  Award,
-  BookOpen,
-  SlidersHorizontal,
-  FolderTree
+  FolderTree,
+  ChevronDown,
+  Layers
 } from 'lucide-react';
 
-// Icon mapper helper
 const ICON_MAP = {
-  Globe2: Globe2,
-  Rocket: Rocket,
-  Database: Database,
-  Users2: Users2,
-  Briefcase: Briefcase,
-  Cpu: Cpu
+  Globe2,
+  Rocket,
+  Database,
+  Users2,
+  Briefcase,
+  Cpu
 };
 
 export default function LandingPage() {
   const {
     selectedCourseIds,
-    toggleCourse,
+    selectSingleCourse,
     selectAllCourses,
-    clearSelectedCourses,
     selectedChapterIds,
     getSelectedChapterCountForCourse,
     totalQuestionsAvailable,
@@ -49,181 +44,131 @@ export default function LandingPage() {
     closeChapterModal,
     quizSettings,
     setQuizSettings,
-    startQuiz,
-    setCurrentView
+    startQuiz
   } = useQuiz();
 
-  const isAllSelected = selectedCourseIds.length === COURSES.length;
+  // Current dropdown value: 'all' or course ID
+  const selectedDropdownValue = selectedCourseIds.length === COURSES.length ? 'all' : (selectedCourseIds[0] || 'all');
 
-  const handleStart = () => {
-    startQuiz();
+  const handleCourseChange = (e) => {
+    const val = e.target.value;
+    if (val === 'all') {
+      selectAllCourses();
+    } else {
+      selectSingleCourse(val);
+    }
   };
 
+  const handleStartQuizClick = () => {
+    // Open chapter selection modal so user can pick desired chapters before quiz starts
+    const courseIdForModal = selectedDropdownValue === 'all' ? null : selectedDropdownValue;
+    openChapterModal(courseIdForModal);
+  };
+
+  const activeCourse = selectedDropdownValue !== 'all' ? getCourseById(selectedDropdownValue) : null;
+  const ActiveIcon = activeCourse ? (ICON_MAP[activeCourse.iconName] || Globe2) : Layers;
+
   return (
-    <div className="landing-page">
-      {/* Hero Header */}
-      <section className="hero-section">
+    <div className="relaxed-landing">
+      {/* Calm & Minimal Hero Header */}
+      <section className="relaxed-hero">
         <div className="hero-badge">
           <Sparkles size={14} className="hero-badge-icon" />
-          <span>MBA Executive Exam Platform &bull; 1,000 Curated Questions &bull; Chapter Isolation</span>
+          <span>MBA Executive Exam Platform &bull; 1,000 Questions</span>
         </div>
-        <h1 className="hero-title">
+
+        <h1 className="relaxed-title">
           Master Your MBA Exams with <span className="gradient-text">Precision</span>
         </h1>
-        <p className="hero-subtitle">
-          Select courses and isolate syllabus chapters below. Challenge yourself with rigorous MBA multiple-choice questions, granular chapter targeting, verified explanations, and non-repeating shuffle logic.
-        </p>
 
-        {/* Highlight Stats Strip */}
-        <div className="hero-stats-strip">
-          <div className="stat-card">
-            <span className="stat-num">6</span>
-            <span className="stat-label">Core Courses</span>
-          </div>
-          <div className="stat-divider"></div>
-          <div className="stat-card">
-            <span className="stat-num">39</span>
-            <span className="stat-label">Segmented Chapters</span>
-          </div>
-          <div className="stat-divider"></div>
-          <div className="stat-card">
-            <span className="stat-num">1,000</span>
-            <span className="stat-label">Total Questions</span>
-          </div>
-          <div className="stat-divider"></div>
-          <div className="stat-card">
-            <span className="stat-num">100%</span>
-            <span className="stat-label">Verified Answers & Explanations</span>
-          </div>
-        </div>
+        <p className="relaxed-subtitle">
+          Select your course below. Clicking <strong>Start Quiz</strong> will open the chapter selector so you can target specific chapters or attempt the full course.
+        </p>
       </section>
 
-      {/* Main Course Selector Section */}
-      <section className="course-selection-section">
-        <div className="section-header">
-          <div className="section-title-group">
-            <h2 className="section-title">
-              <Layers size={22} className="section-title-icon" />
-              Select Courses & Chapters
-            </h2>
-            <p className="section-desc">
-              Choose one or multiple courses. Click "Segment by Chapters" or the chapter badge on any card to isolate specific syllabus units.
-            </p>
-          </div>
+      {/* Relaxed Quiz Setup Card */}
+      <section className="relaxed-card-container">
+        <div className="relaxed-card">
+          {/* Step 1: Course Selection via Grouped Dropdown */}
+          <div className="relaxed-form-group">
+            <label className="relaxed-label" htmlFor="course-select">
+              <Layers size={17} className="label-icon" />
+              <span>Choose Course</span>
+            </label>
 
-          <div className="selection-quick-actions">
-            <button
-              className="action-pill chapter-action active"
-              onClick={() => openChapterModal(null)}
-              title="Segment and customize individual chapters"
-            >
-              <SlidersHorizontal size={15} />
-              <span>Segment Chapters ({selectedChapterIds.length}/39)</span>
-            </button>
-            <button
-              className={`action-pill ${isAllSelected ? 'active' : ''}`}
-              onClick={selectAllCourses}
-            >
-              <CheckSquare size={15} />
-              <span>Select All Courses</span>
-            </button>
-            <button
-              className="action-pill outline"
-              onClick={clearSelectedCourses}
-            >
-              <span>Reset</span>
-            </button>
-          </div>
-        </div>
-
-        {/* 6 Course Cards Grid */}
-        <div className="courses-grid">
-          {COURSES.map((course) => {
-            const isSelected = selectedCourseIds.includes(course.id);
-            const IconComponent = ICON_MAP[course.iconName] || Globe2;
-            const totalCourseChapters = (course.chapters || []).length;
-            const activeCourseChapters = getSelectedChapterCountForCourse(course.id);
-
-            return (
-              <div
-                key={course.id}
-                className={`course-card ${isSelected ? 'selected' : ''}`}
-                onClick={() => toggleCourse(course.id)}
-                role="button"
-                tabIndex={0}
-                style={{ '--course-color': course.color }}
+            <div className="select-dropdown-wrapper">
+              <select
+                id="course-select"
+                className="relaxed-dropdown"
+                value={selectedDropdownValue}
+                onChange={handleCourseChange}
               >
-                <div className="course-card-top">
-                  <div className="course-icon-badge" style={{ backgroundColor: `${course.color}20`, color: course.color }}>
-                    <IconComponent size={24} />
-                  </div>
-                  <div className="course-code-tag" style={{ borderColor: `${course.color}40`, color: course.color }}>
-                    {course.code}
-                  </div>
-                  <div className="course-check">
-                    {isSelected ? (
-                      <CheckCircle2 size={22} className="check-icon checked" style={{ color: course.color }} />
-                    ) : (
-                      <Circle size={22} className="check-icon unchecked" />
-                    )}
-                  </div>
+                <option value="all">🌟 All 6 Courses (Comprehensive 1,000 Question Pool)</option>
+                <optgroup label="MBA Core Courses">
+                  {COURSES.map(course => (
+                    <option key={course.id} value={course.id}>
+                      {course.code}: {course.title} ({(course.chapters || []).length} Chapters &bull; {course.questionCount} Qs)
+                    </option>
+                  ))}
+                </optgroup>
+              </select>
+              <ChevronDown size={18} className="dropdown-arrow-icon" />
+            </div>
+
+            {/* Selected Course Quick Information Preview */}
+            <div className="course-quick-preview">
+              <div className="preview-top">
+                <div 
+                  className="preview-icon-badge" 
+                  style={{ 
+                    backgroundColor: activeCourse ? `${activeCourse.color}20` : 'rgba(200, 16, 46, 0.15)', 
+                    color: activeCourse ? activeCourse.color : 'var(--primary)' 
+                  }}
+                >
+                  <ActiveIcon size={18} />
                 </div>
-
-                <div className="course-card-content">
-                  <h3 className="course-card-title">{course.title}</h3>
-                  <p className="course-card-desc">{course.description}</p>
-                </div>
-
-                <div className="course-card-footer">
-                  <div className="course-q-count">
-                    <span className="count-num">{course.questionCount}</span> Questions
-                  </div>
-
-                  {/* Clickable Chapter Segmenter Trigger */}
-                  <button
-                    className={`card-chapter-segment-btn ${activeCourseChapters > 0 ? 'active' : ''}`}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      openChapterModal(course.id);
-                    }}
-                    title={`Customize chapters for ${course.code}`}
-                  >
-                    <FolderTree size={13} />
-                    <span>{activeCourseChapters}/{totalCourseChapters} Chs</span>
-                  </button>
-
-                  <span className="course-status-label">
-                    {isSelected ? 'Selected' : 'Click to add'}
+                <div className="preview-titles">
+                  <span className="preview-name">
+                    {activeCourse ? `${activeCourse.code}: ${activeCourse.title}` : 'All 6 MBA Courses'}
+                  </span>
+                  <span className="preview-meta">
+                    {activeCourse 
+                      ? `${(activeCourse.chapters || []).length} Chapters • ${activeCourse.questionCount} Questions` 
+                      : '39 Chapters • 1,000 Questions across all courses'}
                   </span>
                 </div>
               </div>
-            );
-          })}
-        </div>
-      </section>
 
-      {/* Quiz Configuration Drawer / Bar */}
-      <section className="config-section">
-        <div className="config-card">
-          <div className="config-grid">
+              <p className="preview-desc">
+                {activeCourse 
+                  ? activeCourse.description 
+                  : 'Comprehensive question pool covering Business Environment, Entrepreneurship, MIS, Organisational Behaviour, General Management, and Operations Management.'}
+              </p>
+            </div>
+          </div>
+
+          {/* Step 2: Quiz Mode & Configuration Settings */}
+          <div className="relaxed-settings-grid">
             {/* Number of Questions */}
-            <div className="config-group">
-              <label className="config-label">
-                <HelpCircle size={16} />
-                <span>Question Count</span>
+            <div className="relaxed-setting-box">
+              <label className="relaxed-sublabel">
+                <HelpCircle size={15} />
+                <span>Question Limit</span>
               </label>
-              <div className="preset-buttons">
-                {[15, 30, 60, 100].map(count => (
+              <div className="relaxed-preset-pills">
+                {[15, 30, 60].map(count => (
                   <button
                     key={count}
-                    className={`preset-btn ${quizSettings.presetCount === count && !quizSettings.customCount ? 'active' : ''}`}
+                    type="button"
+                    className={`relaxed-pill ${quizSettings.presetCount === count && !quizSettings.customCount ? 'active' : ''}`}
                     onClick={() => setQuizSettings(prev => ({ ...prev, presetCount: count, customCount: null }))}
                   >
                     {count} Qs
                   </button>
                 ))}
                 <button
-                  className={`preset-btn ${quizSettings.presetCount === 'all' && !quizSettings.customCount ? 'active' : ''}`}
+                  type="button"
+                  className={`relaxed-pill ${quizSettings.presetCount === 'all' && !quizSettings.customCount ? 'active' : ''}`}
                   onClick={() => setQuizSettings(prev => ({ ...prev, presetCount: 'all', customCount: null }))}
                 >
                   All ({totalQuestionsAvailable})
@@ -231,76 +176,65 @@ export default function LandingPage() {
               </div>
             </div>
 
-            {/* Test Mode */}
-            <div className="config-group">
-              <label className="config-label">
-                <Timer size={16} />
+            {/* Exam Mode vs Practice Mode */}
+            <div className="relaxed-setting-box">
+              <label className="relaxed-sublabel">
+                <Timer size={15} />
                 <span>Quiz Mode</span>
               </label>
-              <div className="mode-toggle-group">
+              <div className="relaxed-mode-toggle">
                 <button
-                  className={`mode-btn ${quizSettings.mode === 'exam' ? 'active' : ''}`}
+                  type="button"
+                  className={`mode-toggle-btn ${quizSettings.mode === 'exam' ? 'active' : ''}`}
                   onClick={() => setQuizSettings(prev => ({ ...prev, mode: 'exam' }))}
                 >
-                  <Award size={15} />
-                  <span>Timed Exam (60s / Q)</span>
+                  <Award size={14} />
+                  <span>Timed Exam (60s/Q)</span>
                 </button>
                 <button
-                  className={`mode-btn ${quizSettings.mode === 'practice' ? 'active' : ''}`}
+                  type="button"
+                  className={`mode-toggle-btn ${quizSettings.mode === 'practice' ? 'active' : ''}`}
                   onClick={() => setQuizSettings(prev => ({ ...prev, mode: 'practice' }))}
                 >
-                  <BookOpen size={15} />
-                  <span>Practice (Instant Answers)</span>
+                  <BookOpen size={14} />
+                  <span>Practice Mode</span>
                 </button>
-              </div>
-            </div>
-
-            {/* Shuffling Options */}
-            <div className="config-group">
-              <label className="config-label">
-                <Shuffle size={16} />
-                <span>Shuffle Logic</span>
-              </label>
-              <div className="checkbox-options">
-                <label className="toggle-label">
-                  <input
-                    type="checkbox"
-                    checked={quizSettings.shuffleQuestions}
-                    onChange={(e) => setQuizSettings(prev => ({ ...prev, shuffleQuestions: e.target.checked }))}
-                  />
-                  <span>Shuffle Questions</span>
-                </label>
-                <label className="toggle-label">
-                  <input
-                    type="checkbox"
-                    checked={quizSettings.shuffleOptions}
-                    onChange={(e) => setQuizSettings(prev => ({ ...prev, shuffleOptions: e.target.checked }))}
-                  />
-                  <span>Shuffle Choices</span>
-                </label>
               </div>
             </div>
           </div>
 
-          {/* Launch Action Bar */}
-          <div className="launch-action-bar">
-            <div className="launch-summary">
-              <span className="summary-main">
-                {selectedCourseIds.length} {selectedCourseIds.length === 1 ? 'Course' : 'Courses'} &bull; {selectedChapterIds.length} Chapters Active
-              </span>
-              <span className="summary-sub">
-                {quizSettings.presetCount === 'all' ? totalQuestionsAvailable : Math.min(quizSettings.presetCount, totalQuestionsAvailable)} questions sampled equally across active chapters using Fisher-Yates non-repeating logic.
-              </span>
-            </div>
+          {/* Shuffling Options */}
+          <div className="relaxed-shuffle-row">
+            <label className="relaxed-checkbox-label">
+              <input
+                type="checkbox"
+                checked={quizSettings.shuffleQuestions}
+                onChange={(e) => setQuizSettings(prev => ({ ...prev, shuffleQuestions: e.target.checked }))}
+              />
+              <span>Shuffle Questions</span>
+            </label>
+            <label className="relaxed-checkbox-label">
+              <input
+                type="checkbox"
+                checked={quizSettings.shuffleOptions}
+                onChange={(e) => setQuizSettings(prev => ({ ...prev, shuffleOptions: e.target.checked }))}
+              />
+              <span>Shuffle Options</span>
+            </label>
+          </div>
 
+          {/* Step 3: Start Quiz CTA Button */}
+          <div className="relaxed-action-area">
             <button
-              className="launch-quiz-btn"
-              onClick={handleStart}
-              disabled={selectedCourseIds.length === 0 || totalQuestionsAvailable === 0}
+              className="relaxed-start-btn"
+              onClick={handleStartQuizClick}
             >
               <Play size={20} fill="currentColor" />
-              <span>Begin MBA Quiz</span>
+              <span>Start Quiz</span>
             </button>
+            <span className="relaxed-start-hint">
+              Opens chapter selector to choose your target chapters before starting
+            </span>
           </div>
         </div>
       </section>

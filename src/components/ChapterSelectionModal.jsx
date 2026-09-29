@@ -22,7 +22,8 @@ import {
   Briefcase,
   Cpu,
   ChevronRight,
-  Check
+  Check,
+  Play
 } from 'lucide-react';
 
 const ICON_MAP = {
@@ -44,7 +45,8 @@ export default function ChapterSelectionModal({ isOpen, onClose }) {
     selectAllChapters,
     modalActiveCourseId,
     setModalActiveCourseId,
-    totalQuestionsAvailable
+    totalQuestionsAvailable,
+    startQuiz
   } = useQuiz();
 
   const [activeCourseFilter, setActiveCourseFilter] = useState('all');
@@ -356,15 +358,18 @@ export default function ChapterSelectionModal({ isOpen, onClose }) {
 
           <div className="modal-footer-actions">
             <button className="modal-cancel-btn" onClick={onClose}>
-              Cancel
+              Back
             </button>
             <button 
-              className="modal-apply-btn" 
-              onClick={onClose}
+              className="modal-apply-btn launch-quiz" 
+              onClick={() => {
+                onClose();
+                startQuiz();
+              }}
               disabled={totalQuestionsAvailable === 0}
             >
-              <CheckCircle2 size={16} />
-              <span>Apply Selection ({totalQuestionsAvailable} Qs)</span>
+              <Play size={16} fill="currentColor" />
+              <span>Start Quiz ({totalQuestionsAvailable} Qs)</span>
             </button>
           </div>
         </div>

@@ -104,6 +104,17 @@ export function QuizProvider({ children }) {
     setSelectedChapterIds(getAllChapters().map(ch => ch.id));
   };
 
+  const selectSingleCourse = (courseId) => {
+    if (courseId === 'all') {
+      selectAllCourses();
+      return;
+    }
+    const course = getCourseById(courseId);
+    if (!course) return;
+    setSelectedCourseIds([course.id]);
+    setSelectedChapterIds((course.chapters || []).map(ch => ch.id));
+  };
+
   const clearSelectedCourses = () => {
     // Keep first course and its chapters selected
     const firstCourse = COURSES[0];
@@ -466,6 +477,7 @@ export function QuizProvider({ children }) {
         setSelectedCourseIds,
         toggleCourse,
         selectAllCourses,
+        selectSingleCourse,
         clearSelectedCourses,
         selectedChapterIds,
         setSelectedChapterIds,
