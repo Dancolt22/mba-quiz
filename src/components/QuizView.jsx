@@ -179,8 +179,13 @@ export default function QuizView() {
       {/* Question Main Card Area */}
       <main className="quiz-main-container">
         <div className="question-card">
-          {/* Topic Badge */}
+          {/* Topic & Chapter Badge */}
           <div className="question-topic-bar">
+            {currentQuestion.chapterNumber && (
+              <span className="chapter-pill" style={{ borderColor: `${courseMeta.color}60`, color: courseMeta.color, backgroundColor: `${courseMeta.color}15` }}>
+                Chapter {currentQuestion.chapterNumber}: {currentQuestion.chapterShortTitle || currentQuestion.chapterTitle}
+              </span>
+            )}
             <span className="topic-pill">{currentQuestion.topic}</span>
             {isFlagged && (
               <span className="flagged-pill">

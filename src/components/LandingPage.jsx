@@ -2,6 +2,7 @@
 import React from 'react';
 import { useQuiz } from '../context/QuizContext';
 import { COURSES, getCourseById } from '../data/courses';
+import ChapterSelectionModal from './ChapterSelectionModal';
 import { 
   Globe2, 
   Rocket, 
@@ -19,7 +20,9 @@ import {
   Play, 
   HelpCircle,
   Award,
-  BookOpen
+  BookOpen,
+  SlidersHorizontal,
+  FolderTree
 } from 'lucide-react';
 
 // Icon mapper helper
@@ -38,15 +41,17 @@ export default function LandingPage() {
     toggleCourse,
     selectAllCourses,
     clearSelectedCourses,
+    selectedChapterIds,
+    getSelectedChapterCountForCourse,
+    totalQuestionsAvailable,
+    isChapterModalOpen,
+    openChapterModal,
+    closeChapterModal,
     quizSettings,
     setQuizSettings,
     startQuiz,
     setCurrentView
   } = useQuiz();
-
-  // Calculate stats for current selection
-  const selectedCourses = selectedCourseIds.map(id => getCourseById(id)).filter(Boolean);
-  const totalQuestionsAvailable = selectedCourses.reduce((acc, c) => acc + c.questionCount, 0);
 
   const isAllSelected = selectedCourseIds.length === COURSES.length;
 
@@ -60,13 +65,13 @@ export default function LandingPage() {
       <section className="hero-section">
         <div className="hero-badge">
           <Sparkles size={14} className="hero-badge-icon" />
-          <span>MBA Executive Exam Platform &bull; 1,000 Curated Questions</span>
+          <span>MBA Executive Exam Platform &bull; 1,000 Curated Questions &bull; Chapter Isolation</span>
         </div>
         <h1 className="hero-title">
           Master Your MBA Exams with <span className="gradient-text">Precision</span>
         </h1>
         <p className="hero-subtitle">
-          Select the courses you want to attempt below. Challenge yourself with realistic, rigorous MBA multiple-choice questions with full academic explanations and robust non-repeating shuffle logic.
+          Select courses and isolate syllabus chapters below. Challenge yourself with rigorous MBA multiple-choice questions, granular chapter targeting, verified explanations, and non-repeating shuffle logic.
         </p>
 
         {/* Highlight Stats Strip */}
@@ -74,6 +79,11 @@ export default function LandingPage() {
           <div className="stat-card">
             <span className="stat-num">6</span>
             <span className="stat-label">Core Courses</span>
+          </div>
+          <div className="stat-divider"></div>
+          <div className="stat-card">
+            <span className="stat-num">39</span>
+            <span className="stat-label">Segmented Chapters</span>
           </div>
           <div className="stat-divider"></div>
           <div className="stat-card">
@@ -85,11 +95,6 @@ export default function LandingPage() {
             <span className="stat-num">100%</span>
             <span className="stat-label">Verified Answers & Explanations</span>
           </div>
-          <div className="stat-divider"></div>
-          <div className="stat-card">
-            <span className="stat-num">0%</span>
-            <span className="stat-label">Question Repetitions</span>
-          </div>
         </div>
       </section>
 
@@ -99,20 +104,28 @@ export default function LandingPage() {
           <div className="section-title-group">
             <h2 className="section-title">
               <Layers size={22} className="section-title-icon" />
-              Select Courses to Attempt
+              Select Courses & Chapters
             </h2>
             <p className="section-desc">
-              Choose one or multiple courses. Questions are sampled equally across your selections.
+              Choose one or multiple courses. Click "Segment by Chapters" or the chapter badge on any card to isolate specific syllabus units.
             </p>
           </div>
 
           <div className="selection-quick-actions">
             <button
+              className="action-pill chapter-action active"
+              onClick={() => openChapterModal(null)}
+              title="Segment and customize individual chapters"
+            >
+              <SlidersHorizontal size={15} />
+              <span>Segment Chapters ({selectedChapterIds.length}/39)</span>
+            </button>
+            <button
               className={`action-pill ${isAllSelected ? 'active' : ''}`}
               onClick={selectAllCourses}
             >
               <CheckSquare size={15} />
-              <span>Select All (6 Courses)</span>
+              <span>Select All Courses</span>
             </button>
             <button
               className="action-pill outline"
@@ -128,6 +141,8 @@ export default function LandingPage() {
           {COURSES.map((course) => {
             const isSelected = selectedCourseIds.includes(course.id);
             const IconComponent = ICON_MAP[course.iconName] || Globe2;
+            const totalCourseChapters = (course.chapters || []).length;
+            const activeCourseChapters = getSelectedChapterCountForCourse(course.id);
 
             return (
               <div
@@ -163,6 +178,20 @@ export default function LandingPage() {
                   <div className="course-q-count">
                     <span className="count-num">{course.questionCount}</span> Questions
                   </div>
+
+                  {/* Clickable Chapter Segmenter Trigger */}
+                  <button
+                    className={`card-chapter-segment-btn ${activeCourseChapters > 0 ? 'active' : ''}`}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      openChapterModal(course.id);
+                    }}
+                    title={`Customize chapters for ${course.code}`}
+                  >
+                    <FolderTree size={13} />
+                    <span>{activeCourseChapters}/{totalCourseChapters} Chs</span>
+                  </button>
+
                   <span className="course-status-label">
                     {isSelected ? 'Selected' : 'Click to add'}
                   </span>
@@ -257,17 +286,17 @@ export default function LandingPage() {
           <div className="launch-action-bar">
             <div className="launch-summary">
               <span className="summary-main">
-                {selectedCourseIds.length} {selectedCourseIds.length === 1 ? 'Course' : 'Courses'} Selected
+                {selectedCourseIds.length} {selectedCourseIds.length === 1 ? 'Course' : 'Courses'} &bull; {selectedChapterIds.length} Chapters Active
               </span>
               <span className="summary-sub">
-                {quizSettings.presetCount === 'all' ? totalQuestionsAvailable : quizSettings.presetCount} questions will be drawn equally with Fisher-Yates non-repeating shuffle.
+                {quizSettings.presetCount === 'all' ? totalQuestionsAvailable : Math.min(quizSettings.presetCount, totalQuestionsAvailable)} questions sampled equally across active chapters using Fisher-Yates non-repeating logic.
               </span>
             </div>
 
             <button
               className="launch-quiz-btn"
               onClick={handleStart}
-              disabled={selectedCourseIds.length === 0}
+              disabled={selectedCourseIds.length === 0 || totalQuestionsAvailable === 0}
             >
               <Play size={20} fill="currentColor" />
               <span>Begin MBA Quiz</span>
@@ -275,6 +304,12 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+
+      {/* Chapter Selection Modal */}
+      <ChapterSelectionModal
+        isOpen={isChapterModalOpen}
+        onClose={closeChapterModal}
+      />
     </div>
   );
 }

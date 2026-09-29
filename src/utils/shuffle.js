@@ -1,5 +1,5 @@
 // src/utils/shuffle.js
-// Robust Fisher-Yates shuffle algorithms and session non-repetition manager
+// Robust Fisher-Yates shuffle algorithms and session non-repetition manager with course & chapter isolation
 
 /**
  * Standard in-place Fisher-Yates shuffle for generic arrays
@@ -43,8 +43,9 @@ export function shuffleQuestionOptions(question) {
 }
 
 /**
- * Generates an optimized, non-repeating quiz session from selected courses.
+ * Generates an optimized, non-repeating quiz session segmented by selected courses and chapters.
  * @param {Array} selectedCourses - Array of course objects
+ * @param {Array|Set|null} selectedChapterIds - Optional array or set of chapter IDs to isolate
  * @param {number} totalQuestionsRequested - How many total questions to draw
  * @param {boolean} shuffleQuestions - Whether to shuffle the question order
  * @param {boolean} shuffleOptions - Whether to shuffle the 4 option choices per question
@@ -52,6 +53,7 @@ export function shuffleQuestionOptions(question) {
  */
 export function generateQuizSession({
   selectedCourses,
+  selectedChapterIds = null,
   totalQuestionsRequested,
   shuffleQuestions = true,
   shuffleOptions = true,
@@ -61,34 +63,50 @@ export function generateQuizSession({
     return [];
   }
 
-  // Retrieve past history of answered questions
+  const chapterFilterSet = selectedChapterIds 
+    ? (selectedChapterIds instanceof Set ? selectedChapterIds : new Set(selectedChapterIds))
+    : null;
+
   const historySet = getAnsweredQuestionHistory();
 
-  // Determine question allocation per course to share equally
-  const numCourses = selectedCourses.length;
-  const basePerCourse = Math.floor(totalQuestionsRequested / numCourses);
-  let remainder = totalQuestionsRequested % numCourses;
+  // Prepare eligible questions for each selected course
+  const eligiblePerCourse = selectedCourses.map(course => {
+    let qs = course.questions || [];
+    if (chapterFilterSet && chapterFilterSet.size > 0) {
+      qs = qs.filter(q => chapterFilterSet.has(q.chapterId));
+    }
+    return {
+      course,
+      questions: qs
+    };
+  }).filter(item => item.questions.length > 0);
+
+  if (eligiblePerCourse.length === 0) {
+    return [];
+  }
+
+  const totalAvailable = eligiblePerCourse.reduce((acc, item) => acc + item.questions.length, 0);
+  const targetCount = Math.min(totalQuestionsRequested, totalAvailable);
+
+  const numActiveCourses = eligiblePerCourse.length;
+  const basePerCourse = Math.floor(targetCount / numActiveCourses);
+  let remainder = targetCount % numActiveCourses;
 
   let pool = [];
 
-  selectedCourses.forEach((course, index) => {
-    // Number of questions to draw from this course
+  eligiblePerCourse.forEach(({ course, questions: courseQuestions }) => {
     let countToTake = basePerCourse + (remainder > 0 ? 1 : 0);
     if (remainder > 0) remainder--;
-
-    // Course questions
-    let courseQuestions = [...course.questions];
+    countToTake = Math.min(countToTake, courseQuestions.length);
 
     if (prioritizeUnseen) {
       // Split into unseen vs seen
       const unseen = courseQuestions.filter(q => !historySet.has(q.id));
       const seen = courseQuestions.filter(q => historySet.has(q.id));
 
-      // Shuffle both subsets
       const shuffledUnseen = fisherYatesShuffle(unseen);
       const shuffledSeen = fisherYatesShuffle(seen);
 
-      // Take from unseen first, then seen if needed
       const courseDrawn = [...shuffledUnseen, ...shuffledSeen].slice(0, countToTake);
       pool.push(...courseDrawn);
     } else {
@@ -102,7 +120,7 @@ export function generateQuizSession({
     pool = pool.map(q => shuffleQuestionOptions(q));
   }
 
-  // If questions shuffle is enabled, shuffle across courses for a mixed experience
+  // If questions shuffle is enabled, shuffle across courses and chapters for a balanced mix
   if (shuffleQuestions) {
     pool = fisherYatesShuffle(pool);
   }

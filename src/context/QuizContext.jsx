@@ -1,6 +1,6 @@
 // src/context/QuizContext.jsx
-import React, { createContext, useContext, useState, useEffect } from 'react';
-import { COURSES, getCourseById, getAllQuestions, TOTAL_QUESTIONS_COUNT } from '../data/courses';
+import React, { createContext, useContext, useState, useEffect, useMemo } from 'react';
+import { COURSES, getCourseById, getAllQuestions, getAllChapters, getChapterById, TOTAL_QUESTIONS_COUNT } from '../data/courses';
 import { generateQuizSession, saveAnsweredQuestions, saveAttemptResult, getAnsweredQuestionHistory } from '../utils/shuffle';
 import confetti from 'canvas-confetti';
 
@@ -28,6 +28,24 @@ export function QuizProvider({ children }) {
   const [selectedCourseIds, setSelectedCourseIds] = useState(
     COURSES.map(c => c.id)
   );
+
+  // Selected chapter IDs (defaults to all chapters across all courses)
+  const [selectedChapterIds, setSelectedChapterIds] = useState(
+    getAllChapters().map(ch => ch.id)
+  );
+
+  // Chapter Modal state
+  const [isChapterModalOpen, setIsChapterModalOpen] = useState(false);
+  const [modalActiveCourseId, setModalActiveCourseId] = useState(null); // null means 'all'
+
+  const openChapterModal = (courseId = null) => {
+    setModalActiveCourseId(courseId);
+    setIsChapterModalOpen(true);
+  };
+
+  const closeChapterModal = () => {
+    setIsChapterModalOpen(false);
+  };
 
   // Quiz configuration settings
   const [quizSettings, setQuizSettings] = useState({
@@ -62,32 +80,120 @@ export function QuizProvider({ children }) {
 
   // Toggle single course selection
   const toggleCourse = (courseId) => {
+    const course = getCourseById(courseId);
+    const courseChapterIds = (course?.chapters || []).map(ch => ch.id);
+
     setSelectedCourseIds(prev => {
       if (prev.includes(courseId)) {
         if (prev.length === 1) return prev; // Keep at least one selected
-        return prev.filter(id => id !== courseId);
+        const nextCourses = prev.filter(id => id !== courseId);
+        // Remove this course's chapters
+        setSelectedChapterIds(prevCh => prevCh.filter(id => !courseChapterIds.includes(id)));
+        return nextCourses;
       } else {
-        return [...prev, courseId];
+        const nextCourses = [...prev, courseId];
+        // Add all chapters of this newly enabled course
+        setSelectedChapterIds(prevCh => Array.from(new Set([...prevCh, ...courseChapterIds])));
+        return nextCourses;
       }
     });
   };
 
   const selectAllCourses = () => {
     setSelectedCourseIds(COURSES.map(c => c.id));
+    setSelectedChapterIds(getAllChapters().map(ch => ch.id));
   };
 
   const clearSelectedCourses = () => {
-    // Keep first one selected so candidate is never empty
-    setSelectedCourseIds([COURSES[0].id]);
+    // Keep first course and its chapters selected
+    const firstCourse = COURSES[0];
+    setSelectedCourseIds([firstCourse.id]);
+    setSelectedChapterIds((firstCourse.chapters || []).map(ch => ch.id));
   };
+
+  // Chapter selection handlers
+  const toggleChapter = (chapterId) => {
+    const chInfo = getChapterById(chapterId);
+    if (!chInfo) return;
+
+    setSelectedChapterIds(prev => {
+      let next;
+      if (prev.includes(chapterId)) {
+        next = prev.filter(id => id !== chapterId);
+      } else {
+        next = [...prev, chapterId];
+        // Ensure parent course is selected
+        if (!selectedCourseIds.includes(chInfo.courseId)) {
+          setSelectedCourseIds(prevC => [...prevC, chInfo.courseId]);
+        }
+      }
+      return next;
+    });
+  };
+
+  const selectAllChaptersForCourse = (courseId) => {
+    const course = getCourseById(courseId);
+    if (!course) return;
+    const courseChapterIds = (course.chapters || []).map(ch => ch.id);
+
+    // Ensure course is in selected courses
+    if (!selectedCourseIds.includes(courseId)) {
+      setSelectedCourseIds(prev => [...prev, courseId]);
+    }
+
+    setSelectedChapterIds(prev => Array.from(new Set([...prev, ...courseChapterIds])));
+  };
+
+  const clearChaptersForCourse = (courseId) => {
+    const course = getCourseById(courseId);
+    if (!course) return;
+    const courseChapterIds = (course.chapters || []).map(ch => ch.id);
+
+    setSelectedChapterIds(prev => prev.filter(id => !courseChapterIds.includes(id)));
+  };
+
+  const selectAllChapters = () => {
+    selectAllCourses();
+  };
+
+  const isChapterSelected = (chapterId) => {
+    return selectedChapterIds.includes(chapterId);
+  };
+
+  const getSelectedChapterCountForCourse = (courseId) => {
+    const course = getCourseById(courseId);
+    if (!course) return 0;
+    return (course.chapters || []).filter(ch => selectedChapterIds.includes(ch.id)).length;
+  };
+
+  // Dynamically compute available questions based on active course & chapter filters
+  const totalQuestionsAvailable = useMemo(() => {
+    const selectedCourses = selectedCourseIds.map(id => getCourseById(id)).filter(Boolean);
+    const chapterSet = new Set(selectedChapterIds);
+
+    let count = 0;
+    selectedCourses.forEach(course => {
+      (course.questions || []).forEach(q => {
+        if (chapterSet.has(q.chapterId)) {
+          count++;
+        }
+      });
+    });
+    return count;
+  }, [selectedCourseIds, selectedChapterIds]);
 
   // Start a new quiz
   const startQuiz = (customOverrides = {}) => {
     const config = { ...quizSettings, ...customOverrides };
     const selectedCourses = selectedCourseIds.map(id => getCourseById(id)).filter(Boolean);
 
-    // Calculate total questions available for selected courses
-    const maxAvailable = selectedCourses.reduce((acc, c) => acc + c.questionCount, 0);
+    // Ensure we have active questions
+    let maxAvailable = totalQuestionsAvailable;
+    if (maxAvailable === 0) {
+      // Fallback: reset all chapters of selected courses
+      selectAllChapters();
+      maxAvailable = TOTAL_QUESTIONS_COUNT;
+    }
 
     let count = config.presetCount === 'all' ? maxAvailable : Number(config.presetCount);
     if (config.customCount) {
@@ -98,6 +204,7 @@ export function QuizProvider({ children }) {
 
     const sessionQuestions = generateQuizSession({
       selectedCourses,
+      selectedChapterIds,
       totalQuestionsRequested: count,
       shuffleQuestions: config.shuffleQuestions,
       shuffleOptions: config.shuffleOptions,
@@ -112,7 +219,7 @@ export function QuizProvider({ children }) {
 
     // Timer calculation for exam mode
     if (config.mode === 'exam') {
-      const totalSeconds = count * config.timePerQuestion;
+      const totalSeconds = sessionQuestions.length * config.timePerQuestion;
       setTimeRemaining(totalSeconds);
       setTimerActive(true);
     } else {
@@ -179,7 +286,7 @@ export function QuizProvider({ children }) {
     }
   };
 
-  // Submit quiz and calculate performance analytics
+  // Submit quiz and calculate performance analytics with course AND chapter breakdowns
   const submitQuiz = (autoSubmitted = false) => {
     setTimerActive(false);
     const endTime = Date.now();
@@ -188,6 +295,7 @@ export function QuizProvider({ children }) {
     let correctCount = 0;
     const answeredIds = [];
     const courseBreakdown = {};
+    const chapterBreakdown = {};
 
     // Initialize course stats
     selectedCourseIds.forEach(id => {
@@ -220,6 +328,25 @@ export function QuizProvider({ children }) {
         }
       }
 
+      // Track by chapter
+      const chKey = q.chapterId || q.topic || 'General';
+      if (!chapterBreakdown[chKey]) {
+        chapterBreakdown[chKey] = {
+          id: q.chapterId,
+          number: q.chapterNumber,
+          title: q.chapterTitle || q.topic,
+          shortTitle: q.chapterShortTitle || q.topic,
+          courseCode: q.courseCode,
+          total: 0,
+          correct: 0,
+          percentage: 0
+        };
+      }
+      chapterBreakdown[chKey].total += 1;
+      if (isCorrect) {
+        chapterBreakdown[chKey].correct += 1;
+      }
+
       return {
         ...q,
         selectedAnswer: selectedIdx,
@@ -231,6 +358,11 @@ export function QuizProvider({ children }) {
 
     // Calculate course percentages
     Object.values(courseBreakdown).forEach(item => {
+      item.percentage = item.total > 0 ? Math.round((item.correct / item.total) * 100) : 0;
+    });
+
+    // Calculate chapter percentages
+    Object.values(chapterBreakdown).forEach(item => {
       item.percentage = item.total > 0 ? Math.round((item.correct / item.total) * 100) : 0;
     });
 
@@ -259,7 +391,8 @@ export function QuizProvider({ children }) {
       timeSpentSeconds,
       autoSubmitted,
       timestamp: new Date().toISOString(),
-      courseBreakdown: Object.values(courseBreakdown),
+      courseBreakdown: Object.values(courseBreakdown).filter(c => c.total > 0),
+      chapterBreakdown: Object.values(chapterBreakdown).sort((a, b) => (a.number || 0) - (b.number || 0)),
       questions: detailedList,
       coursesAttempted: selectedCourseIds.map(id => getCourseById(id)?.title).filter(Boolean)
     };
@@ -290,27 +423,9 @@ export function QuizProvider({ children }) {
     if (onlyIncorrect) {
       retakeQuestions = results.questions
         .filter(q => !q.isCorrect)
-        .map(q => ({
-          id: q.id,
-          courseCode: q.courseCode,
-          courseTitle: q.courseTitle,
-          topic: q.topic,
-          question: q.question,
-          options: q.options,
-          correctAnswer: q.correctAnswer,
-          explanation: q.explanation
-        }));
+        .map(q => ({ ...q }));
     } else {
-      retakeQuestions = results.questions.map(q => ({
-        id: q.id,
-        courseCode: q.courseCode,
-        courseTitle: q.courseTitle,
-        topic: q.topic,
-        question: q.question,
-        options: q.options,
-        correctAnswer: q.correctAnswer,
-        explanation: q.explanation
-      }));
+      retakeQuestions = results.questions.map(q => ({ ...q }));
     }
 
     if (retakeQuestions.length === 0) {
@@ -352,6 +467,20 @@ export function QuizProvider({ children }) {
         toggleCourse,
         selectAllCourses,
         clearSelectedCourses,
+        selectedChapterIds,
+        setSelectedChapterIds,
+        toggleChapter,
+        selectAllChaptersForCourse,
+        clearChaptersForCourse,
+        selectAllChapters,
+        isChapterSelected,
+        getSelectedChapterCountForCourse,
+        totalQuestionsAvailable,
+        isChapterModalOpen,
+        openChapterModal,
+        closeChapterModal,
+        modalActiveCourseId,
+        setModalActiveCourseId,
         quizSettings,
         setQuizSettings,
         startQuiz,

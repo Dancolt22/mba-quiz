@@ -3271,6 +3271,780 @@ body {
 }
 
 /* ==========================================================================
+   CHAPTER SEGMENTATION MODAL & COMPONENTS
+   ========================================================================== */
+
+/* Quick Action Chapter Trigger Pill on Landing Page */
+.action-pill.chapter-action {
+  background-color: var(--primary-subtle);
+  border-color: rgba(200, 16, 46, 0.4);
+  color: var(--text-primary);
+}
+
+.action-pill.chapter-action:hover {
+  background-color: rgba(200, 16, 46, 0.25);
+  border-color: var(--primary);
+}
+
+/* Card Chapter Pill Trigger */
+.card-chapter-segment-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 9px;
+  border-radius: var(--radius-full);
+  font-size: 0.74rem;
+  font-weight: 600;
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.card-chapter-segment-btn:hover {
+  border-color: var(--course-color, var(--primary));
+  color: var(--text-primary);
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.card-chapter-segment-btn.active {
+  border-color: rgba(200, 16, 46, 0.35);
+  background-color: rgba(200, 16, 46, 0.08);
+  color: var(--text-primary);
+}
+
+/* Modal Backdrop & Container */
+.chapter-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.78);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  animation: modalFadeIn 0.2s ease-out;
+}
+
+@keyframes modalFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.chapter-modal-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg), 0 0 40px rgba(200, 16, 46, 0.12);
+  width: 100%;
+  max-width: 980px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: modalSlideUp 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes modalSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Modal Header */
+.chapter-modal-header {
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  background-color: var(--bg-secondary);
+}
+
+.modal-title-group {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.modal-title-icon-wrapper {
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-md);
+  background-color: var(--primary-subtle);
+  border: 1px solid rgba(200, 16, 46, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary);
+  flex-shrink: 0;
+}
+
+.chapter-modal-title {
+  font-size: 1.28rem;
+  letter-spacing: -0.01em;
+}
+
+.chapter-modal-subtitle {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 2px;
+  line-height: 1.4;
+}
+
+.chapter-modal-close {
+  width: 34px;
+  height: 34px;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.chapter-modal-close:hover {
+  color: var(--text-primary);
+  background-color: rgba(200, 16, 46, 0.15);
+  border-color: var(--primary);
+}
+
+/* Modal Controls: Course Tabs & Search */
+.chapter-modal-controls {
+  padding: 14px 24px;
+  border-bottom: 1px solid var(--border-color);
+  background-color: var(--bg-card);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.chapter-course-tabs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: thin;
+}
+
+.course-tab-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.course-tab-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-hover);
+}
+
+.course-tab-btn.active {
+  background-color: var(--primary);
+  border-color: var(--primary);
+  color: #FFFFFF;
+}
+
+.course-tab-btn.has-selection:not(.active) {
+  border-color: var(--tab-color, var(--primary));
+  color: var(--text-primary);
+}
+
+.tab-count-pill {
+  font-size: 0.72rem;
+  padding: 1px 6px;
+  border-radius: var(--radius-full);
+  background-color: rgba(0, 0, 0, 0.25);
+  color: inherit;
+}
+
+.chapter-search-and-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.chapter-search-box {
+  flex: 1;
+  min-width: 240px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.chapter-search-icon {
+  position: absolute;
+  left: 12px;
+  color: var(--text-muted);
+  pointer-events: none;
+}
+
+.chapter-search-box input {
+  width: 100%;
+  padding: 7px 32px 7px 36px;
+  background-color: var(--bg-input);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: 0.84rem;
+  font-family: inherit;
+  transition: all 0.2s ease;
+}
+
+.chapter-search-box input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px rgba(200, 16, 46, 0.2);
+}
+
+.clear-search-mini {
+  position: absolute;
+  right: 10px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-quick-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.modal-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: var(--radius-md);
+  font-size: 0.8rem;
+  font-weight: 600;
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  transition: all 0.2s ease;
+}
+
+.modal-action-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-hover);
+}
+
+.modal-action-btn.select-all:hover {
+  background-color: rgba(200, 16, 46, 0.12);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+/* Modal Body */
+.chapter-modal-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.modal-course-block {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.course-block-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.course-block-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.course-block-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.course-block-code-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.course-block-code {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: var(--course-color, var(--primary));
+}
+
+.course-block-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.course-block-meta {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.course-select-all-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 0.76rem;
+  font-weight: 600;
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  transition: all 0.2s ease;
+}
+
+.course-select-all-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-hover);
+}
+
+.course-select-all-btn.all-active {
+  background-color: rgba(200, 16, 46, 0.1);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+/* Chapter Cards Grid */
+.chapter-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+
+.chapter-card {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  user-select: none;
+}
+
+.chapter-card:hover {
+  border-color: var(--border-hover);
+  background-color: var(--bg-card-hover);
+  transform: translateY(-1px);
+}
+
+.chapter-card.selected {
+  border-color: var(--course-color, var(--primary));
+  background-color: rgba(255, 255, 255, 0.02);
+  box-shadow: 0 0 16px rgba(200, 16, 46, 0.08);
+}
+
+.chapter-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.chapter-num-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  border: 1px solid;
+  letter-spacing: 0.02em;
+}
+
+.chapter-q-badge {
+  font-size: 0.74rem;
+  color: var(--text-muted);
+}
+
+.chapter-checkbox {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1.5px solid var(--border-hover);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFFFFF;
+  transition: all 0.2s ease;
+  background-color: var(--bg-input);
+}
+
+.chapter-checkbox.checked {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.chapter-card-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--text-primary);
+}
+
+.chapter-card-desc {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.chapter-topics-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+}
+
+.chapter-topic-tag {
+  font-size: 0.68rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background-color: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.chapter-empty-search {
+  padding: 40px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.chapter-empty-search .empty-icon {
+  color: var(--text-muted);
+}
+
+.chapter-empty-search h3 {
+  font-size: 1.15rem;
+}
+
+.chapter-empty-search p {
+  color: var(--text-secondary);
+  font-size: 0.88rem;
+  max-width: 480px;
+}
+
+/* Modal Sticky Footer */
+.chapter-modal-footer {
+  padding: 16px 24px;
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.modal-footer-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.footer-stat-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.88rem;
+}
+
+.footer-stat-highlight {
+  font-weight: 700;
+  color: var(--milan-gold);
+}
+
+.footer-stat-sep {
+  color: var(--text-muted);
+}
+
+.footer-stat-text {
+  color: var(--text-secondary);
+}
+
+.footer-warning-pill {
+  font-size: 0.74rem;
+  color: #EF4444;
+  font-weight: 600;
+}
+
+.modal-footer-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.modal-cancel-btn {
+  padding: 8px 16px;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-subtle);
+  transition: all 0.2s ease;
+}
+
+.modal-cancel-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-hover);
+}
+
+.modal-apply-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 20px;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  background-color: var(--primary);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  transition: all 0.2s ease;
+}
+
+.modal-apply-btn:hover:not(:disabled) {
+  background-color: var(--primary-hover);
+  box-shadow: 0 4px 14px rgba(200, 16, 46, 0.4);
+}
+
+.modal-apply-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Question Topic Bar Chapter Pill in QuizView */
+.chapter-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  font-size: 0.76rem;
+  font-weight: 700;
+  border: 1px solid;
+}
+
+/* Results & Review Chapter Tag */
+.review-chapter-tag {
+  font-size: 0.74rem;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  background-color: var(--milan-gold-subtle);
+  color: var(--milan-gold);
+  border: 1px solid rgba(197, 160, 89, 0.25);
+  font-weight: 600;
+}
+
+.chapter-num-tag {
+  font-size: 0.72rem;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background-color: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border-color);
+}
+
+/* Results Chapter Breakdown Grid */
+.performance-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.breakdown-toggle-tabs {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  padding: 4px;
+  border-radius: var(--radius-md);
+}
+
+.breakdown-tab-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  transition: all 0.2s ease;
+}
+
+.breakdown-tab-btn:hover {
+  color: var(--text-primary);
+}
+
+.breakdown-tab-btn.active {
+  background-color: var(--primary);
+  color: #FFFFFF;
+}
+
+.chapter-breakdown-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.chapter-stat-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: all 0.2s ease;
+}
+
+.chapter-stat-card:hover {
+  border-color: var(--border-hover);
+  background-color: var(--bg-card-hover);
+}
+
+.chapter-stat-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.chapter-stat-badge {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.chapter-stat-score {
+  font-size: 1rem;
+  font-weight: 800;
+  font-family: var(--font-heading);
+}
+
+.chapter-stat-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+/* StudyHub Chapter Filter Pills */
+.chapter-filter-pills {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  margin-top: 4px;
+  scrollbar-width: thin;
+}
+
+.chapter-filter-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.chapter-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.chapter-pill-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-hover);
+}
+
+.chapter-pill-btn.active {
+  background-color: var(--primary);
+  border-color: var(--primary);
+  color: #FFFFFF;
+}
+
+.study-chapter-tag {
+  font-size: 0.72rem;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  background-color: var(--milan-gold-subtle);
+  color: var(--milan-gold);
+  border: 1px solid rgba(197, 160, 89, 0.25);
+  font-weight: 600;
+}
+
+/* ==========================================================================
    PRINT STYLES
    ========================================================================== */
 @media print {
@@ -3279,7 +4053,8 @@ body {
   .review-tabs,
   .review-search-bar,
   .app-footer,
-  .theme-toggle-btn {
+  .theme-toggle-btn,
+  .chapter-modal-backdrop {
     display: none !important;
   }
 
@@ -3288,10 +4063,11 @@ body {
     color: #000000 !important;
   }
 
-  .results-hero, .course-stat-card, .review-card {
+  .results-hero, .course-stat-card, .review-card, .chapter-stat-card {
     border: 1px solid #CCCCCC !important;
     background: #FFFFFF !important;
     box-shadow: none !important;
   }
 }
+
 
