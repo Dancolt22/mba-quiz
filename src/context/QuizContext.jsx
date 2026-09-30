@@ -85,7 +85,6 @@ export function QuizProvider({ children }) {
 
     setSelectedCourseIds(prev => {
       if (prev.includes(courseId)) {
-        if (prev.length === 1) return prev; // Keep at least one selected
         const nextCourses = prev.filter(id => id !== courseId);
         // Remove this course's chapters
         setSelectedChapterIds(prevCh => prevCh.filter(id => !courseChapterIds.includes(id)));
@@ -104,6 +103,11 @@ export function QuizProvider({ children }) {
     setSelectedChapterIds(getAllChapters().map(ch => ch.id));
   };
 
+  const deselectAllCourses = () => {
+    setSelectedCourseIds([]);
+    setSelectedChapterIds([]);
+  };
+
   const selectSingleCourse = (courseId) => {
     if (courseId === 'all') {
       selectAllCourses();
@@ -116,10 +120,7 @@ export function QuizProvider({ children }) {
   };
 
   const clearSelectedCourses = () => {
-    // Keep first course and its chapters selected
-    const firstCourse = COURSES[0];
-    setSelectedCourseIds([firstCourse.id]);
-    setSelectedChapterIds((firstCourse.chapters || []).map(ch => ch.id));
+    deselectAllCourses();
   };
 
   // Chapter selection handlers
@@ -140,6 +141,10 @@ export function QuizProvider({ children }) {
       }
       return next;
     });
+  };
+
+  const deselectAllChapters = () => {
+    setSelectedChapterIds([]);
   };
 
   const selectAllChaptersForCourse = (courseId) => {
@@ -477,6 +482,7 @@ export function QuizProvider({ children }) {
         setSelectedCourseIds,
         toggleCourse,
         selectAllCourses,
+        deselectAllCourses,
         selectSingleCourse,
         clearSelectedCourses,
         selectedChapterIds,
@@ -485,6 +491,7 @@ export function QuizProvider({ children }) {
         selectAllChaptersForCourse,
         clearChaptersForCourse,
         selectAllChapters,
+        deselectAllChapters,
         isChapterSelected,
         getSelectedChapterCountForCourse,
         totalQuestionsAvailable,

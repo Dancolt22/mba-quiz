@@ -1,5 +1,5 @@
 // src/data/courses.js
-// Metadata, chapter segmentation, and configurations for the 6 MBA courses styled in AC Milan (Rossoneri) aesthetic
+// Metadata, chapter segmentation, and configurations for the 6 MBA courses styled in Modern Executive Academic palette
 
 import mba8101 from './questions/mba8101.json';
 import mba8103 from './questions/mba8103.json';
@@ -17,9 +17,9 @@ export const COURSES = [
     description: 'Macro & micro environmental forces, PESTEL analysis, Porter\'s five forces, monetary & fiscal policies, globalization, WTO, ESG, and corporate governance.',
     questionCount: 167,
     questions: mba8101,
-    color: '#C8102E', // Iconic AC Milan Rossoneri Red
-    accentColor: '#99001A',
-    bgGradient: 'from-red-950 to-neutral-950',
+    color: '#3B82F6', // Royal Sapphire Blue
+    accentColor: '#1D4ED8',
+    bgGradient: 'from-blue-950 to-neutral-950',
     iconName: 'Globe2',
     modules: [
       'Macro & Micro Environment (PESTEL)',
@@ -104,8 +104,8 @@ export const COURSES = [
     description: 'Venture creation, lean startup methodology, opportunity discovery, business model canvas, venture capital, cap tables, angel financing, IP, and growth scaling.',
     questionCount: 167,
     questions: mba8103,
-    color: '#C5A059', // AC Milan Trophy Champagne Gold
-    accentColor: '#8C6D2D',
+    color: '#F59E0B', // Vibrant Amber Gold
+    accentColor: '#D97706',
     bgGradient: 'from-amber-950 to-neutral-950',
     iconName: 'Rocket',
     modules: [
@@ -191,9 +191,9 @@ export const COURSES = [
     description: 'Strategic role of IT, ERP (SAP/Oracle), CRM, SCM, relational databases (SQL), cloud computing (IaaS/PaaS/SaaS), cybersecurity (CIA triad), and Agile/DevOps SDLC.',
     questionCount: 167,
     questions: mba8105,
-    color: '#64748B', // San Siro Steel / Silver Grey
-    accentColor: '#475569',
-    bgGradient: 'from-slate-800 to-neutral-950',
+    color: '#6366F1', // Electric Indigo Blue
+    accentColor: '#4F46E5',
+    bgGradient: 'from-indigo-950 to-neutral-950',
     iconName: 'Database',
     modules: [
       'IS Strategy & Organizational Hierarchy',
@@ -278,9 +278,9 @@ export const COURSES = [
     description: 'Individual psychology (Big Five, MBTI), motivation models (Maslow, Herzberg, Vroom, Equity), team dynamics (Tuckman, Groupthink), leadership, conflict, and organizational culture.',
     questionCount: 167,
     questions: mba8107,
-    color: '#991B1B', // Deep Crimson Red
-    accentColor: '#7F1D1D',
-    bgGradient: 'from-red-950 to-neutral-950',
+    color: '#10B981', // Emerald Mint
+    accentColor: '#059669',
+    bgGradient: 'from-emerald-950 to-neutral-950',
     iconName: 'Users2',
     modules: [
       'Individual Behaviour, Personality & Perception',
@@ -365,9 +365,9 @@ export const COURSES = [
     description: 'Evolution of management thought (Taylor, Fayol, Weber), POLC functions, Mintzberg roles, strategic management (BCG, Ansoff, VRIO), bounded rationality, and TQM/Six Sigma.',
     questionCount: 166,
     questions: mba8109,
-    color: '#71717A', // Carbon Onyx / Titanium Grey
-    accentColor: '#52525B',
-    bgGradient: 'from-zinc-800 to-neutral-950',
+    color: '#8B5CF6', // Royal Purple / Violet
+    accentColor: '#7C3AED',
+    bgGradient: 'from-purple-950 to-neutral-950',
     iconName: 'Briefcase',
     modules: [
       'Evolution of Management Thought (Taylor, Fayol, Weber)',
@@ -434,9 +434,9 @@ export const COURSES = [
     description: 'Process analysis & Little\'s law, capacity & location, EOQ inventory modeling, Lean / TPS 7 wastes, SPC control charts ($C_{pk}$), CPM/PERT project management, and forecasting.',
     questionCount: 166,
     questions: mba8111,
-    color: '#A16207', // Classic Milan Star Gold / Bronze
-    accentColor: '#713F12',
-    bgGradient: 'from-yellow-950 to-neutral-950',
+    color: '#0EA5E9', // Sky Cyan / Azure
+    accentColor: '#0284C7',
+    bgGradient: 'from-sky-950 to-neutral-950',
     iconName: 'Cpu',
     modules: [
       'Operations Strategy & Multi-Factor Productivity',
